@@ -1,0 +1,2830 @@
+1
+00:00:22,940 --> 00:00:25,480
+《太空堡垒卡拉狄加》 前情提要
+GAETA: Previously on Battlestar Galactica.
+
+2
+00:00:25,560 --> 00:00:27,020
+你会用你的双臂拥抱我
+You're gonna hold me in your arms,
+
+3
+00:00:27,110 --> 00:00:28,860
+你会说你爱我
+you're gonna tell me that you love me.
+
+4
+00:00:28,940 --> 00:00:30,440
+你疯了
+You're insane.
+
+5
+00:00:33,070 --> 00:00:37,450
+你杀了我  我下载到新的躯壳  我回来  我们从新开始
+You kill me, I download. I come back, we start over.
+
+6
+00:00:37,700 --> 00:00:40,280
+我不属于这里  让我出去!
+I don't belong here! Let me out!
+
+7
+00:00:40,950 --> 00:00:43,540
+有些人加入了赛昂人的警察部门
+Some of those guys who joined up with the Cylon police,
+
+8
+00:00:43,620 --> 00:00:45,040
+你知道他们是不可理喻的
+I bet they're in over their heads, you know?
+
+9
+00:00:45,120 --> 00:00:47,040
+如果有一天  这一切都结束了
+One day, when this is all over,
+
+10
+00:00:47,130 --> 00:00:49,380
+类似盖塔这样的人都会被绞死
+guys like that are gonna get strung up.
+
+11
+00:00:49,460 --> 00:00:50,710
+而像你我这样的人  则是负责
+Guys like you and me,
+
+12
+00:00:50,800 --> 00:00:55,380
+将绳子打结的人  把绳子绑得紧紧的
+we're gonna be there, tying the knots, making them tight.
+
+13
+00:00:55,470 --> 00:00:58,010
+你从哪里得到的这玩意?  谁是你的情报源?
+Where are you getting this stuff? Who's your source?
+
+14
+00:00:58,100 --> 00:01:01,260
+我不知道  消息源没有透露他们的名字
+I have no idea. The source won't tell me what their name is.
+
+15
+00:01:01,350 --> 00:01:02,930
+也许这样对大家更安全
+It's probably safer for all of us.
+
+16
+00:01:03,020 --> 00:01:04,060
+总统先生?
+Mr. President?
+
+17
+00:01:04,140 --> 00:01:05,140
+早上好  盖塔
+Good morning, Gaeta.
+
+18
+00:01:05,230 --> 00:01:08,770
+这是一份死刑判决书  你看过这个名单上的人名吗?
+This is a death warrant. Have you seen the names on this list?
+
+19
+00:01:08,860 --> 00:01:10,440
+你知道他们会有什么反应吗?
+Do you have any idea what they're about to do out there?
+
+20
+00:01:10,520 --> 00:01:11,913
+我从"死亡投递点"那里拿到这个
+I got this from the dead drop, 
+
+21
+00:01:11,914 --> 00:01:13,400
+是从管理部门的线人那里得来的
+from the source in the administration.
+
+22
+00:01:13,490 --> 00:01:14,940
+这是张死亡名单  而凯莉的名字就在上面
+It's a death list and Cally's name is on it.
+
+23
+00:01:17,820 --> 00:01:20,320
+走 别向后看
+Run, don't look back. Go!
+
+24
+00:01:21,490 --> 00:01:22,490
+掩护
+Take cover!
+
+25
+00:01:22,580 --> 00:01:24,080
+我们在汇合点遭到埋伏
+SAM: We were ambushed at the rendezvous.
+
+26
+00:01:24,160 --> 00:01:26,160
+赛昂人确切知道我们所在的位置
+The Cylons knew exactly where we were gonna be.
+
+27
+00:01:26,250 --> 00:01:27,620
+那并不能说明艾伦...         我什么也没干
+That doesn't mean Ellen... I didn't do anything!
+
+28
+00:01:27,710 --> 00:01:29,290
+这是那张我画给你的地图
+This is the map that I drew for you.
+
+29
+00:01:29,380 --> 00:01:33,090
+你本应该烧掉的  但你妻子说帮你去烧
+You were gonna burn it, but then your wife offered to do it for you.
+
+30
+00:01:33,170 --> 00:01:35,420
+你知道自己该做什么的
+You know what has to be done here.
+
+31
+00:01:35,510 --> 00:01:37,680
+为了她好  还是由你来做
+Now, it would be better for her sake if it was you.
+
+32
+00:01:41,470 --> 00:01:43,680
+快点  跟上!
+Come on! Move! Move, move!
+
+33
+00:01:45,520 --> 00:01:47,020
+从整个设施中撤退
+Evacuate the entire facility.
+
+34
+00:01:47,100 --> 00:01:49,850
+你也应该和我们一起走  盖尤斯  我们也给你留了个位置
+You should go as well, Gaius. There's a place for you, too.
+
+35
+00:01:57,030 --> 00:01:58,200
+快走
+CONNOR: Walk.
+
+36
+00:02:26,270 --> 00:02:30,520
+以下指控的证据已上报给特别法庭
+Evidence for the following charges have been presented to the Circle,
+
+37
+00:02:30,940 --> 00:02:33,480
+你和敌人狼狈为奸
+that you carried arms for the enemy,
+
+38
+00:02:34,020 --> 00:02:37,150
+你实施的多起搜捕行动都是针对人类的 
+that you carried out multiple raids against the human population,
+
+39
+00:02:37,240 --> 00:02:41,450
+在其中一起搜捕过程中 有23人被你和你的人杀害
+and that during one raid, 23 people were killed by you and your men
+
+40
+00:02:41,530 --> 00:02:43,450
+就是在你们侵犯阿尔提米斯神庙的时候
+during the assault on the Temple of Artemis.
+
+41
+00:02:43,530 --> 00:02:44,950
+那不是事实
+It's not true!
+
+42
+00:02:47,580 --> 00:02:50,460
+这些是被你所杀的人的名单
+These are the names of the people killed by you and those under your command.
+
+43
+00:02:50,540 --> 00:02:51,920
+你看看这些名单!
+You look at those names!
+
+44
+00:02:52,000 --> 00:02:53,250
+康纳
+SEELIX: Connor.
+
+45
+00:02:57,210 --> 00:03:00,550
+特别法庭核查了证据 认定你有叛国罪
+The Circle has examined the evidence and found you guilty of treason
+
+46
+00:03:00,630 --> 00:03:03,090
+与反人类罪
+and crimes against humanity.
+
+47
+00:03:03,180 --> 00:03:06,600
+在判决前  你还有什么要说的吗?
+Do you have anything to say before sentence is passed?
+
+48
+00:03:06,810 --> 00:03:08,390
+我只是想帮助他们
+I was trying to help people.
+
+49
+00:03:08,480 --> 00:03:10,640
+你干的活可不是一个好活  对吧?
+You didn't do a very good job then, did you?
+
+50
+00:03:10,730 --> 00:03:13,310
+就让我们结束吧
+All right, let's just get this over with.
+
+51
+00:03:13,400 --> 00:03:16,440
+我帮助过他们  我帮助过好多人啊
+I helped people. I helped lots of people!
+
+52
+00:03:17,150 --> 00:03:21,900
+军士长...军士长!军士长  我帮过凯莉  我救了凯莉
+Chief? Chief? Chief, I helped Cally. I saved Cally.
+
+53
+00:03:23,370 --> 00:03:24,910
+我救了凯莉
+I saved Cally!
+
+54
+00:03:24,990 --> 00:03:26,200
+"你救了凯莉"是什么意思?? 
+What do you mean, you helped Cally?
+
+55
+00:03:26,290 --> 00:03:27,290
+是我...是我...是我救的她
+I'm the one. I'm the one who did...
+
+56
+00:03:27,370 --> 00:03:29,000
+是我在他们射击前让她跑的
+I'm the one who let her go when they were gonna shoot her.
+
+57
+00:03:29,080 --> 00:03:31,540
+我让她离开车队  我说:"现在快跑  拼命跑  离开这里"
+I took her out of line. I said, "Go, run right now, get out of here. "
+
+58
+00:03:31,620 --> 00:03:33,370
+她做到了  她跑开了
+And she did. She ran and she got away.
+
+59
+00:03:33,460 --> 00:03:36,750
+是我  军士长  我救的凯莉
+Because of me, Chief. I helped Cally. I saved Cally.
+
+60
+00:03:38,800 --> 00:03:40,920
+凯莉确实是跑开了
+Cally did get away somehow.
+
+61
+00:03:41,720 --> 00:03:44,930
+他们在那次神庙搜捕中杀害了23人!
+Well, they killed 23 people during the Temple raids,
+
+62
+00:03:45,010 --> 00:03:48,310
+12个男人  8个女人  和3个孩子
+12 men, eight women and three children.
+
+63
+00:03:48,390 --> 00:03:49,930
+还有孩子!
+Children!
+
+64
+00:03:50,020 --> 00:03:51,980
+我的儿子就在这名单里!
+My son is on this list!
+
+65
+00:03:52,900 --> 00:03:54,520
+他的名字就在这!
+His name is right there,
+
+66
+00:03:54,610 --> 00:03:57,150
+不知是哪个龟孙子把他加上的
+and that frakking son of a bitch put him there.
+
+67
+00:03:57,230 --> 00:04:00,280
+那么  救了凯莉  就算是的话
+So, saving Cally, if that happened,
+
+68
+00:04:01,990 --> 00:04:04,610
+就能弥补杀死我儿子的过错吗?
+does that make up for killing my son?
+
+69
+00:04:07,740 --> 00:04:09,830
+回答  军士长
+Answer the question, Chief.
+
+70
+00:04:10,160 --> 00:04:15,500
+是否救了凯莉 就能让他杀了23个人吗?
+Does saving Cally let him off the hook for killing 23 others?
+
+71
+00:04:31,850 --> 00:04:35,730
+是你做的吗  杰米? 是你杀了这些人吗?
+Did you do this, Jammer? Did you kill these people?
+
+72
+00:04:38,690 --> 00:04:40,020
+回答我
+Answer me.
+
+73
+00:04:41,860 --> 00:04:44,150
+你知道那里的人都疯了  军士长
+It was crazy down there, Chief.
+
+74
+00:04:45,530 --> 00:04:47,030
+你知道的
+You know that.
+
+75
+00:04:49,410 --> 00:04:51,830
+你们做这个决定太仓促了
+You make these decisions so fast.
+
+76
+00:04:52,370 --> 00:04:55,620
+当你们在追捕时 那些人站出来  举着双手
+You're making an arrest, and people come out with their hands up.
+
+77
+00:04:55,710 --> 00:04:57,120
+但有些时候  那只是个诡计
+But sometimes that's just a trick.
+
+78
+00:04:58,500 --> 00:05:00,290
+他们说他们投降了  但接着  他们却开枪了
+They tell you they're surrendering, and then they open fire.
+
+79
+00:05:00,380 --> 00:05:02,800
+我们以为他们是起义军的
+We thought they were insurgents.
+
+80
+00:05:02,880 --> 00:05:05,970
+在我们看到他们的尸体时  才知道不是
+It wasn't until after, when we saw the bodies...
+
+81
+00:05:09,010 --> 00:05:11,060
+那我该如何做呢?
+What was I supposed to do?
+
+82
+00:05:19,150 --> 00:05:20,730
+不  不能抵消罪过
+No, it doesn't.
+
+83
+00:05:25,990 --> 00:05:30,910
+根据法律条文 叛国罪是判死刑
+Under the Articles, the punishment for treason is death.
+
+84
+00:05:32,620 --> 00:05:34,330
+现在确认宣判  
+Sentence confirmed
+
+85
+00:05:34,410 --> 00:05:38,580
+并在今天执行 第二次逃亡后的第三天
+and carried out on this, the third day of the Second Exodus.
+
+86
+00:05:41,840 --> 00:05:43,090
+军士长
+Chief...
+
+87
+00:05:48,140 --> 00:05:49,180
+我错了!
+I'm sorry!
+
+88
+00:05:49,260 --> 00:05:51,550
+你妈的话太多了
+There's too much frakking talk.
+
+89
+00:05:57,640 --> 00:05:58,770
+等等!
+Wait.
+
+90
+00:06:11,160 --> 00:06:12,830
+我错了
+I'm sorry!
+
+91
+00:06:54,490 --> 00:06:55,790
+我儿子...
+CONNOR: My son.
+
+92
+00:06:57,040 --> 00:06:58,290
+凯文
+Kevin.
+
+93
+00:07:00,500 --> 00:07:02,670
+他只有7岁啊
+He was only seven years old.
+
+94
+00:07:04,710 --> 00:07:06,050
+我们走吧
+Let's go.
+
+95
+00:07:06,920 --> 00:07:08,170
+快点
+Come on.
+
+96
+00:07:12,090 --> 00:07:14,180
+康纳  我们走吧
+Connor, let's go.
+
+97
+00:07:20,770 --> 00:07:23,100
+这不是我想参加的
+This isn't what I signed up for.
+
+98
+00:07:37,660 --> 00:07:39,080
+我看不见
+GIRL: I can't see.
+
+99
+00:07:40,460 --> 00:07:41,750
+妈妈
+Mom...
+
+100
+00:07:41,830 --> 00:07:43,540
+好小伙子
+Good boy.
+
+101
+00:07:46,840 --> 00:07:48,550
+好小伙子
+Good boy.
+
+102
+00:07:50,760 --> 00:07:52,420
+嗨 亲爱的
+Hey, sweetie.
+
+103
+00:07:53,050 --> 00:07:54,090
+我还需要被照顾吗?
+Am I on watch?
+
+104
+00:07:54,180 --> 00:07:55,930
+不  不  你很好
+No, no, you're fine.
+
+105
+00:07:58,680 --> 00:08:01,640
+来  让我抱抱  过来  你过来
+Here, give him to me. Come here. You come here.
+
+106
+00:08:01,730 --> 00:08:06,310
+到爸爸这来 嗨  小宝贝  接到你了
+Come to Daddy. Oh, hey, buddy. Hey, buddy, there you go.
+
+107
+00:08:06,400 --> 00:08:09,610
+我知道 妈妈比我抱更舒服  对吧?
+I know. Mommy's much more comfortable than me, huh?
+
+108
+00:08:12,200 --> 00:08:13,400
+凯莉?        嗯
+Cally? Mmm-hmm?
+
+109
+00:08:14,820 --> 00:08:17,700
+你在那个星球的时候
+When you were down on the planet,
+
+110
+00:08:17,780 --> 00:08:20,120
+你从卡车旁跑走
+you ran away from the trucks,
+
+111
+00:08:23,670 --> 00:08:25,460
+是有人帮你吗?
+did anybody help you?
+
+112
+00:08:26,130 --> 00:08:28,880
+是一个NCP警察还是别人呢? (译者注:NCP新卡布里卡警察)
+One of the NCP goons or anybody?
+
+113
+00:08:28,960 --> 00:08:31,800
+什么?  没有
+What? No.
+
+114
+00:08:36,090 --> 00:08:37,720
+等下  是有个
+Wait. Yeah.
+
+115
+00:08:38,760 --> 00:08:40,760
+有人让我快跑
+Somebody told me to run.
+
+116
+00:08:41,850 --> 00:08:44,440
+那可能是一个NCP警察吧
+It probably was one of those goons.
+
+117
+00:08:46,730 --> 00:08:49,270
+那以后我还没想过呢
+But I haven't thought about it since.
+
+118
+00:08:54,570 --> 00:08:56,950
+嗨  你怎么知道的呢?
+Hey, how did you know about that?
+
+119
+00:08:57,660 --> 00:08:59,620
+我意思是  你为什么问呢?
+I mean, why do you ask?
+
+120
+00:09:02,830 --> 00:09:05,370
+没什么 快睡吧
+No reason. Go back to sleep.
+
+121
+00:09:07,420 --> 00:09:08,630
+好的
+Okay.
+
+122
+00:10:03,350 --> 00:10:05,810
+在我看来  那不是他的错
+In my opinion, it wasn't his fault.
+
+123
+00:10:06,390 --> 00:10:08,600
+我虽不愿意承认  但上将是对的
+I hate to admit it, but the Admiral's right.
+
+124
+00:10:08,690 --> 00:10:10,940
+他是在一个极端困难的情况下
+He was in an impossible situation.
+
+125
+00:10:11,020 --> 00:10:14,110
+如果我是他  可能我也会那样
+I'd have probably done the same in his position.
+
+126
+00:10:14,690 --> 00:10:19,700
+那好  如果那是必须的  那这种行为也是无可厚非的
+Well, if that's the way it has to be, then that's the way it has to be.
+
+127
+00:10:21,870 --> 00:10:23,490
+感觉不糟吗?
+No hard feelings?
+
+128
+00:10:24,580 --> 00:10:25,740
+没有
+None.
+
+129
+00:10:27,790 --> 00:10:32,130
+错误已经发生  不用怀疑  没有任何疑问
+Mistakes were made. Of that, there's no question.
+
+130
+00:10:34,250 --> 00:10:35,670
+但是过去的...
+But the past
+
+131
+00:10:38,300 --> 00:10:39,760
+已经过去了
+is the past.
+
+132
+00:10:42,220 --> 00:10:45,470
+我想大家都会同意我们应该继续前进
+I think we can all agree that we'd like to move on.
+
+133
+00:10:47,180 --> 00:10:50,810
+你们被愚弄了 你们太仁慈了  
+You fools. You're being too lenient.
+
+134
+00:10:50,900 --> 00:10:54,650
+他背叛了你们  他想让你们去死 
+He betrayed you, actively sought your deaths.
+
+135
+00:10:54,730 --> 00:10:58,490
+你们还觉得没关系吗?   你们还有自尊吗?
+Doesn't that matter to you? Don't you have any self-respect?
+
+136
+00:11:00,410 --> 00:11:01,570
+别打岔了  他们听不到你的
+I wouldn't bother. They can't hear you.
+
+137
+00:11:02,740 --> 00:11:04,910
+不要让我发火  盖尤斯
+Don't make me angry, Gaius.
+
+138
+00:11:05,370 --> 00:11:08,080
+她发火时  你不会喜欢他的
+You wouldn't like her when she's angry.
+
+139
+00:11:08,710 --> 00:11:09,910
+不
+No.
+
+140
+00:11:10,420 --> 00:11:12,290
+我一直想要你
+ROSLIN: I've always wanted you.
+
+141
+00:11:18,720 --> 00:11:19,880
+噢  不
+Oh, no.
+
+142
+00:11:19,970 --> 00:11:21,220
+什么?
+What?
+
+143
+00:11:22,430 --> 00:11:24,050
+我是在做梦  对吧?
+I'm dreaming, aren't I?
+
+144
+00:11:24,140 --> 00:11:25,600
+是的  你是在梦里
+Yes, you are.
+
+145
+00:13:11,540 --> 00:13:12,700
+嗨
+Hey.
+
+146
+00:13:15,040 --> 00:13:16,460
+你睡过觉了吗?
+Did you get any sleep?
+
+147
+00:13:17,630 --> 00:13:19,540
+在你死的时候睡的
+Sleep when you're dead.
+
+148
+00:13:20,500 --> 00:13:21,840
+不错
+Nice.
+
+149
+00:13:25,430 --> 00:13:27,050
+那东西都是些什么?
+What is all that?
+
+150
+00:13:27,840 --> 00:13:30,140
+我找回了我储备室里面的一些东西
+I got my gear out of storage.
+
+151
+00:13:31,470 --> 00:13:34,560
+从来都没想过还能见到它们
+I never thought I'd see any of this stuff again.
+
+152
+00:13:36,480 --> 00:13:37,850
+嗨
+Hey.
+
+153
+00:13:37,900 --> 00:13:39,560
+什么     过来
+What? Come here.
+
+154
+00:13:41,900 --> 00:13:43,820
+别这样  行吗?
+Just don't, okay?
+
+155
+00:13:44,860 --> 00:13:46,530
+打扰了  伙计
+WOMAN: Excuse me, guys.
+
+156
+00:14:02,050 --> 00:14:03,920
+那么  总统先生
+So, Mr. President,
+
+157
+00:14:04,010 --> 00:14:07,720
+新12殖民地法人还有多久宣誓就职?
+how long before the new Quorum of Twelve can be sworn in?
+
+158
+00:14:07,800 --> 00:14:09,180
+3天
+Three days.
+
+159
+00:14:09,550 --> 00:14:13,430
+我会以个人名义提名你作我的副总统
+I will personally place your name in nomination as my vice president.
+
+160
+00:14:13,520 --> 00:14:17,560
+当他们承认你后  我会提出辞职  然后你宣誓就职
+Once they confirm you, I submit my resignation and you get sworn in.
+
+161
+00:14:17,640 --> 00:14:20,480
+整个过程不会超过一个小时
+I think it should take less than an hour.
+
+162
+00:14:21,110 --> 00:14:22,755
+你就这样下台  也不搏一次了?  
+You're stepping down without a fight.
+
+163
+00:14:22,756 --> 00:14:24,400
+我的意思是汤姆·查莱克可以要些东西
+ It means Tom Zarek wants something.
+
+164
+00:14:24,480 --> 00:14:26,690
+你何不亮出自己的底牌
+So why don't you put your cards on the table,
+
+165
+00:14:26,780 --> 00:14:30,240
+让我看看  那是不是一个我愿意付的价码
+and let's see if it's a price that I'm willing to pay?
+
+166
+00:14:30,990 --> 00:14:33,160
+我是一个现实主义者
+Well, I'm a realist.
+
+167
+00:14:34,580 --> 00:14:38,620
+我对在这个办公室长久待下去从不抱幻想
+I never had any illusions about remaining in office for very long.
+
+168
+00:14:39,620 --> 00:14:41,460
+并且上将显然也会认为 
+And the Admiral's made it quite clear
+
+169
+00:14:41,540 --> 00:14:44,333
+没什么会比把我扔进监狱更好了
+that he'd like nothing better than to put me 
+
+170
+00:14:44,334 --> 00:14:46,130
+如果我尽力的话
+in a cell if I try to hang onto power.
+
+171
+00:14:46,210 --> 00:14:48,220
+他会给你一个人情的
+He's trying to do you a favor.
+
+172
+00:14:48,300 --> 00:14:51,590
+你和我都很清楚 没有军队的支持
+You and I both know how impossible it would be to govern this fleet
+
+173
+00:14:51,680 --> 00:14:53,600
+来管辖这个舰队是不可能的
+without the backing of the military.
+
+174
+00:14:53,680 --> 00:14:56,100
+我同意  这是我们在此的原因
+I agree. That's why we're here.
+
+175
+00:14:56,180 --> 00:14:57,180
+嗯
+Mmm-hmm.
+
+176
+00:14:58,690 --> 00:15:02,940
+就算这样  我还想在新政府里干点什么
+Even so, I want to be included in the new government.
+
+177
+00:15:04,770 --> 00:15:08,190
+我不再想做一个外人  无关者
+I don't want to be on the outside looking in anymore.
+
+178
+00:15:10,950 --> 00:15:12,240
+好吧
+Okay.
+
+179
+00:15:13,030 --> 00:15:14,280
+好吧
+Okay.
+
+180
+00:15:15,370 --> 00:15:18,370
+你在新卡布里卡反对波塔尔
+You stood up to Baltar on New Caprica.
+
+181
+00:15:18,450 --> 00:15:20,540
+为此你差点就丢了命
+You nearly lost your life for your trouble.
+
+182
+00:15:20,620 --> 00:15:23,380
+这个舰队需要这种勇气
+This fleet needs that kind of courage.
+
+183
+00:15:27,260 --> 00:15:31,720
+副总统的职位就是你的  只要你想的话  汤姆
+The vice presidency is yours if you want it, Tom.
+
+184
+00:15:35,850 --> 00:15:37,850
+好  谢谢你
+Well, thank you.
+
+185
+00:15:37,930 --> 00:15:39,100
+乐意之极
+You're welcome.
+
+186
+00:15:56,950 --> 00:15:58,910
+你是开玩笑吧
+You've got to be kidding me.
+
+187
+00:15:59,000 --> 00:16:02,290
+谁许可这家伙进作战指挥中心的?
+Who gave this man permission to enter the CIC?
+
+188
+00:16:04,170 --> 00:16:05,960
+上将的命令  先生
+Admiral's orders, sir.
+
+189
+00:16:06,040 --> 00:16:08,000
+通信系统在拯救行动时遭到了严重破坏
+Communications took some serious hits during the rescue,
+
+190
+00:16:08,090 --> 00:16:10,260
+盖塔先生过来帮忙修复这些故障
+and Mr. Gaeta's offered to help with repairs.
+
+191
+00:16:10,340 --> 00:16:12,130
+这样  很好啊
+Well, isn't that nice?
+
+192
+00:16:12,220 --> 00:16:16,510
+一个人能够叛变  伙同敌人一起
+A man can turn his coat, collaborate with the enemy,
+
+193
+00:16:16,600 --> 00:16:18,810
+造成了数千人的死亡
+contribute to the deaths of thousands,
+
+194
+00:16:18,890 --> 00:16:23,480
+但是老头子就为了修电话  突然间  所有这一切都可以赦免
+but the old man needs his phones fixed, and suddenly all is forgiven.
+
+195
+00:16:23,560 --> 00:16:25,730
+赛昂人会找到我们 我们必须利用所有能用的力量
+HELO: The Cylons find us, we're gonna need every hand we've got.
+
+196
+00:16:25,810 --> 00:16:28,400
+等赛昂人找到我们  阿格森先生
+The Cylons found us, Mr. Agathon.
+
+197
+00:16:28,480 --> 00:16:31,230
+你的朋友盖塔会在欢迎委员会里的
+Your friend Gaeta was on the welcoming committee.
+
+198
+00:16:31,320 --> 00:16:33,280
+听着!看着我
+Hey! Look at me!
+
+199
+00:16:35,700 --> 00:16:37,820
+你现在在这儿  看来可以帮帮我的忙
+As long as you're here, maybe you can help me out.
+
+200
+00:16:37,910 --> 00:16:41,500
+在我被拘留期间  我失去了一些东西
+I'm missing something. I lost it in detention.
+
+201
+00:16:41,580 --> 00:16:43,790
+就在你做赛昂人小乖乖的时候
+Since you're so buddy-buddy with the Cylons,
+
+202
+00:16:43,870 --> 00:16:46,500
+可能你知道它在哪里吧?
+maybe you know where it is.
+
+203
+00:16:46,580 --> 00:16:48,090
+如何?
+How about it?
+
+204
+00:16:49,500 --> 00:16:51,170
+你知道我的眼睛在哪里吗?
+Do you know where my eye is?
+
+205
+00:16:51,260 --> 00:16:52,550
+少!
+ADAMA: Saul!
+
+206
+00:16:53,930 --> 00:16:55,340
+上将
+TIGH: Admiral.
+
+207
+00:16:56,800 --> 00:16:58,300
+都回去工作
+Back to work.
+
+208
+00:17:03,430 --> 00:17:04,890
+跟我走        是
+Walk with me. Yeah.
+
+209
+00:17:11,900 --> 00:17:13,570
+在今后的两周时间里  有很多工作要做
+We have a lot of work in the next couple of weeks.
+
+210
+00:17:13,650 --> 00:17:16,950
+我需要你睡觉休息 休息好  准备好  好吗?
+I need you to get some sleep. Get rest, get ready, all right?
+
+211
+00:17:17,030 --> 00:17:18,160
+哦  我现在就准备好了
+Oh, I'm ready right now.
+
+212
+00:17:18,240 --> 00:17:20,740
+我可能稍微有点过火了 但我能把握住的
+I may be a little rough around the edges, but I can still hold my own.
+
+213
+00:17:20,830 --> 00:17:23,120
+你可以告诉那个烤面包机爱好者
+And you can tell that toaster lover over there
+
+214
+00:17:23,200 --> 00:17:25,620
+我还是这艘船的副长!
+that I'm still the XO of this ship!
+
+215
+00:17:25,710 --> 00:17:26,710
+我们走吧
+ADAMA: Let's go.
+
+216
+00:17:26,790 --> 00:17:28,750
+别碰我
+Get your hands off me.
+
+217
+00:17:30,040 --> 00:17:31,630
+你正在让你自己难堪  少
+You're embarrassing yourself, Saul.
+
+218
+00:17:31,710 --> 00:17:33,880
+你才是那个该不好意思的
+You're the one that should be embarrassed,
+
+219
+00:17:33,970 --> 00:17:35,590
+让一个波塔尔的党羽到处乱走
+letting one of Baltar's henchmen
+
+220
+00:17:35,680 --> 00:17:38,260
+就像什么都没发生一样
+walk around like nothing's happened.
+
+221
+00:17:38,890 --> 00:17:41,720
+去睡觉  马上!  这是个命令
+Go sleep this off. That's an order.
+
+222
+00:17:42,770 --> 00:17:45,810
+噢  好吧  就去睡觉
+Oh, yeah, just go to sleep,
+
+223
+00:17:46,890 --> 00:17:50,270
+忘了所有的 那就忘了所有发生的事情
+forget about it all, just forget about everything.
+
+224
+00:17:51,650 --> 00:17:54,690
+但是我不会忘记的!  我不打算忘记!
+Well, I'm not forgetting. I'm not gonna forget!
+
+225
+00:18:12,040 --> 00:18:15,130
+这个控状是在战争中为敌人
+The charges are carrying arms for the enemy in a time of war,
+
+226
+00:18:15,210 --> 00:18:18,800
+开枪射击3名平民  并且通敌
+shooting three civilians and collaboration with the enemy.
+
+227
+00:18:18,890 --> 00:18:20,510
+现在投票
+I call the vote.
+
+228
+00:18:20,600 --> 00:18:21,800
+有罪
+Guilty.
+
+229
+00:18:22,560 --> 00:18:23,600
+有罪
+Guilty.
+
+230
+00:18:23,680 --> 00:18:25,220
+有罪 有罪
+Guilty. Guilty.
+
+231
+00:18:27,020 --> 00:18:28,640
+嗯  有罪
+Yeah, guilty.
+
+232
+00:18:29,850 --> 00:18:31,270
+有罪
+Guilty.
+
+233
+00:18:31,360 --> 00:18:34,320
+表决意见一致  判决死刑
+The vote being unanimous, the sentence is death.
+
+234
+00:18:34,400 --> 00:18:35,780
+查得维克在Monarch号上
+Chadwick's aboard the Monarch.
+
+235
+00:18:35,860 --> 00:18:38,150
+我会通知我们那边的人  他会处理的
+I'll contact our man there. He'll take care of it.
+
+236
+00:18:39,360 --> 00:18:41,320
+谁有香烟?
+Has anybody got a cigarette?
+
+237
+00:18:41,410 --> 00:18:42,570
+还剩多少人?
+TYROL: How many more of these do we got?
+
+238
+00:18:42,660 --> 00:18:47,120
+57人   三天了  我不敢想象这三天我们是如何过的
+Fifty-seven. Three days. I can't believe that's all the time we've got.
+
+239
+00:18:47,210 --> 00:18:49,000
+那就不要再抱怨了
+TIGH: Then stop wasting it, bitching and moaning.
+
+240
+00:18:49,080 --> 00:18:52,080
+在我们参加的时候  都知道这是有时限的
+We all knew there was a clock when we signed on.
+
+241
+00:18:52,170 --> 00:18:54,460
+他们绝大多数都是有罪的  太恶劣了
+Most of these fraks are so guilty, they stink.
+
+242
+00:18:54,550 --> 00:18:56,300
+我可以在一个小时内把50个叛完
+I could get through 50 of these things in an hour.
+
+243
+00:18:57,800 --> 00:18:59,130
+你以为我们是一群暴徒?
+You think we're a bunch of thugs
+
+244
+00:18:59,220 --> 00:19:01,380
+一时兴起就决定处决人吗?
+handing out punishment on a whim?
+
+245
+00:19:01,470 --> 00:19:04,640
+杰米没有活下来 因为你认为他是有罪的
+Jammer didn't get air-locked because you thought he was guilty.
+
+246
+00:19:04,720 --> 00:19:07,390
+有证据你看到了那个报告
+There was evidence. You read the witness reports.
+
+247
+00:19:07,480 --> 00:19:09,980
+他想辩解  但是被这个法庭判有罪
+He was tried and convicted by this Circle.
+
+248
+00:19:10,060 --> 00:19:13,270
+这是关系到正义的事情  你懂吗?   正义!
+This is about justice. You got that? Justice!
+
+249
+00:19:13,360 --> 00:19:14,980
+好的  是  是
+Yeah, okay. Okay.
+
+250
+00:19:18,070 --> 00:19:20,990
+嗨  不要让我找到错误
+Hey, now don't get me wrong here.
+
+251
+00:19:21,070 --> 00:19:23,370
+我喜欢你  康纳  你是个好人
+I like you, Connor, you're a good guy.
+
+252
+00:19:24,330 --> 00:19:25,700
+下一个
+Next case.
+
+253
+00:19:30,290 --> 00:19:31,870
+菲里克斯·盖塔
+SEELIX: Felix Gaeta.
+
+254
+00:19:33,040 --> 00:19:37,300
+指控是通敌罪 反人类罪
+Charges are collaborating with the enemy and crimes against humanity.
+
+255
+00:19:52,060 --> 00:19:55,020
+我不想判这个   你以为我喜欢吗?
+I don't want to do this! You think I like it?
+
+256
+00:19:55,770 --> 00:20:00,030
+我和盖塔在作战指挥中心共事了4年  像一家人
+I stood beside Gaeta in the CIC for almost four years. He was like family.
+
+257
+00:20:00,110 --> 00:20:03,700
+但现实是他是盖尤斯的首脑官员
+But the fact remains he was the Chief of Staff to Gaius Baltar,
+
+258
+00:20:03,780 --> 00:20:05,280
+仅这一项就够指控他了
+and that alone is enough to convict him.
+
+259
+00:20:05,370 --> 00:20:07,280
+依我说  在这个家伙身上
+And I'm saying that on this particular guy,
+
+260
+00:20:07,370 --> 00:20:08,870
+我们找不到任何有力的证据
+we do not have any hard evidence.
+
+261
+00:20:08,950 --> 00:20:10,700
+我们找不到目击证人  什么也没有
+We have no witnesses, nothing.
+
+262
+00:20:10,790 --> 00:20:13,250
+我们所知道的就是他为波塔尔工作  就这些
+All we do know is that he worked for Baltar. That's it.
+
+263
+00:20:13,330 --> 00:20:16,880
+是的  我同意山姆的说法  我们需要详细的证据
+Yeah, yeah. I've got to go with Sam on this one. We need something specific.
+
+264
+00:20:16,960 --> 00:20:21,720
+你要详细的?  你以为会是波塔尔出主意吗? 那家伙?
+You want specific? You think Baltar ran things, that guy?
+
+265
+00:20:21,800 --> 00:20:22,800
+他只是个傀儡  
+He was the public face.
+
+266
+00:20:22,880 --> 00:20:26,340
+但是盖塔  他才是主脑  所有人都知道
+But Gaeta, he was the brains, everyone knew that.
+
+267
+00:20:26,430 --> 00:20:31,100
+都是他具体操作 是他准备的文书 他批准的处决名单
+He ran the operation, he did the paperwork. He approved the death lists...
+
+268
+00:20:31,180 --> 00:20:33,560
+那你是怎么知道的呢?  你在那儿吗?
+How do you know that? Were you there?
+
+269
+00:20:33,640 --> 00:20:36,980
+你看到他批准让哪一个被处决了吗?
+Did you see him approve one single death list?
+
+270
+00:20:37,060 --> 00:20:39,400
+他知道凯莉在处决名单上
+He knew Cally was on the death list.
+
+271
+00:20:43,360 --> 00:20:45,030
+你说什么?  你怎么知道的?
+What are you talking about? How do you know that?
+
+272
+00:20:45,110 --> 00:20:49,410
+看这里 这是执行的名单 凯莉的名字在这
+Look there. That's a distribution list, and there's Cally's name.
+
+273
+00:20:49,490 --> 00:20:51,410
+这里有盖塔的名字
+And there's Gaeta's name.
+
+274
+00:20:51,500 --> 00:20:53,460
+他看到了她的处决命令
+He saw her execution order.
+
+275
+00:20:53,540 --> 00:20:55,920
+那也只是迫于形势
+It's still all circumstantial.
+
+276
+00:20:56,000 --> 00:20:57,092
+当他看到这个名单的时候
+We don't know what Gaeta did or 
+
+277
+00:20:57,093 --> 00:20:58,880
+我们不知道盖塔做了什么和没有做什么
+didn't do when he saw that list.
+
+278
+00:20:58,960 --> 00:21:00,590
+我同意他们的说法
+Jean. I gotta go with them on this one, Sam.
+
+279
+00:21:00,670 --> 00:21:02,872
+不  山姆  当你看到这样一份死亡名单
+No, Sam, you see a death list like that, 
+
+280
+00:21:02,873 --> 00:21:04,380
+你知道无辜的人将会被处决
+you know innocent people are gonna die,
+
+281
+00:21:04,470 --> 00:21:07,340
+你会不做点什么吗?  你有罪
+and you do nothing about it? You're guilty.
+
+282
+00:21:10,180 --> 00:21:12,020
+我要求表决
+I call the question.
+
+283
+00:21:13,770 --> 00:21:18,020
+表决菲里克斯·盖塔是否有罪已被要求
+The question of the innocence or guilt of Felix Gaeta has been called.
+
+284
+00:21:18,690 --> 00:21:20,480
+特别法庭将表决
+The Circle will vote.
+
+285
+00:21:22,030 --> 00:21:23,030
+我判他有罪
+I vote guilty.
+
+286
+00:21:23,110 --> 00:21:24,320
+有罪
+CONNOR: Guilty.
+
+287
+00:21:24,400 --> 00:21:26,700
+有罪
+Guilty.
+
+288
+00:21:28,200 --> 00:21:29,490
+山姆?
+SEELIX: Sam?
+
+289
+00:21:30,370 --> 00:21:31,700
+不  别烦我  我做完该做的了
+No, don't bother. I'm done.
+
+290
+00:21:31,790 --> 00:21:33,790
+我们继续表决        我不干!
+We're still voting. I'm not.
+
+291
+00:21:33,870 --> 00:21:35,290
+我做完了  我做完所有自己该做的了
+I'm done. I'm done with this whole thing.
+
+292
+00:21:35,370 --> 00:21:37,750
+战争对我来说已经结束了  对不起
+The war's over for me. I'm sorry.
+
+293
+00:21:42,630 --> 00:21:44,460
+好吧  那好吧
+Okay, that's fine.
+
+294
+00:21:45,220 --> 00:21:47,130
+现在是四票对零票  军士长  你的判定呢?
+It's still four to none, Chief. What's your vote?
+
+295
+00:21:47,220 --> 00:21:48,800
+不  等下  我们需要6个人表决的 
+No, wait a minute. We need six votes.
+
+296
+00:21:48,890 --> 00:21:51,220
+不  别管它         不  别管你才是!
+No, screw you! No. Screw that.
+
+297
+00:21:51,310 --> 00:21:54,020
+我们是审判团  那是我们的规矩  我们必须要6个人表决
+We're a jury, that's how it was set up! We need six votes.
+
+298
+00:21:54,100 --> 00:21:56,270
+我们现在不满6人  我也不干了
+Without six votes, I'm out, too.
+
+299
+00:21:56,350 --> 00:21:58,480
+他是对的  我们需要6个人
+He's right. We need a sixth.
+
+300
+00:22:21,920 --> 00:22:23,710
+你好吗  盖尤斯?
+How are you, Gaius?
+
+301
+00:22:26,260 --> 00:22:27,630
+我还活着
+I'm alive.
+
+302
+00:22:29,140 --> 00:22:31,260
+我想是还活着
+I suppose that's something.
+
+303
+00:22:43,770 --> 00:22:45,110
+谢谢你
+Thank you.
+
+304
+00:22:57,580 --> 00:23:00,750
+可能要打搅你一下  我有点迷糊了
+You'll have to excuse me. I'm slightly confused.
+
+305
+00:23:04,250 --> 00:23:06,170
+我在这里待了多久了?
+How long have I been here, exactly?
+
+306
+00:23:06,260 --> 00:23:07,670
+3天
+Three days.
+
+307
+00:23:10,260 --> 00:23:11,720
+3天?
+Three days?
+
+308
+00:23:13,510 --> 00:23:16,390
+你们3天后才想到我在哪?
+So, it's taken you three days to remember where I was?
+
+309
+00:23:16,470 --> 00:23:18,680
+没人忘了你的  盖尤斯
+No one's forgotten you, Gaius.
+
+310
+00:23:19,480 --> 00:23:21,600
+只是关于是否该让你上船
+It's just there's been some controversy about
+
+311
+00:23:21,690 --> 00:23:24,020
+有些争论
+whether or not you should have been let on board or not.
+
+312
+00:23:24,110 --> 00:23:27,230
+我简直不能想象还有人在质疑我的价值
+I can't believe there's still a question of my value.
+
+313
+00:23:27,320 --> 00:23:29,650
+那肯定会是个问题的  
+There will always be a question.
+
+314
+00:23:30,320 --> 00:23:32,530
+你是一个人类
+You are a human.
+
+315
+00:23:34,330 --> 00:23:35,780
+现在  你看
+Now, look.
+
+316
+00:23:40,250 --> 00:23:41,870
+我帮过你
+I helped you.
+
+317
+00:23:42,630 --> 00:23:44,670
+我把莎伦的孩子给了你
+I gave you Sharon's child.
+
+318
+00:23:46,170 --> 00:23:48,250
+是  没错  确实是你
+Yes, that's right, you did.
+
+319
+00:23:49,300 --> 00:23:52,340
+而且救了那孩子也给你加了分
+And the child's rescue did weigh in your favor.
+
+320
+00:23:53,220 --> 00:23:55,550
+但是  投票也陷入了僵局
+However, the vote's deadlocked.
+
+321
+00:23:56,010 --> 00:23:59,770
+有三个同意你应该被留下 另外三个反对
+Three in favor of your being allowed to stay, and three against.
+
+322
+00:23:59,850 --> 00:24:02,310
+还有一个型号没有表态
+With one model still undecided.
+
+323
+00:24:04,190 --> 00:24:08,730
+事实上  最后的决定取决于6号
+The fact is the decision rests with the Sixes.
+
+324
+00:24:20,450 --> 00:24:24,250
+我们在准备粗略的失踪人口报告
+We're starting to see a rash of missing persons reports.
+
+325
+00:24:24,330 --> 00:24:26,790
+嗯  我们在那个星球上留下了数千人
+Well, we left thousands of people on that planet.
+
+326
+00:24:26,880 --> 00:24:30,380
+不  不对  有些人是确认生还的
+No, this is different. These are people known to have survived,
+
+327
+00:24:30,460 --> 00:24:33,800
+但是有些是在逃亡后失踪的 比如说像杰米
+but who have gone missing since the exodus. Jammer, for instance.
+
+328
+00:24:33,880 --> 00:24:36,180
+那个甲板手 昨天下午我还看到他的
+Deckhand? I saw him yesterday afternoon.
+
+329
+00:24:36,260 --> 00:24:38,430
+是的  但他今天早上的集合就没有他
+Yeah, but he didn't report at muster this morning.
+
+330
+00:24:38,510 --> 00:24:42,640
+卧室里没有  医务室里也没有  就像他突然消失了一样
+Bed-check negative, sickbay negative, it's like he just vanished.
+
+331
+00:24:42,730 --> 00:24:44,390
+有多少人失踪?
+How many people are missing?
+
+332
+00:24:44,480 --> 00:24:49,480
+今天有13人  卡拉狄加上两人.别的地方有11人
+Thirteen, as of today. Two on Galactica, 11 elsewhere.
+
+333
+00:24:49,570 --> 00:24:53,320
+他们中所有人都是被确认过生还的
+Every one of them confirmed as a survivor by multiple witnesses,
+
+334
+00:24:53,400 --> 00:24:55,490
+但是没了
+and then, poof, gone.
+
+335
+00:24:55,570 --> 00:24:58,950
+有这个"失踪人口"案的新进展就告诉我
+Keep me posted on any more missing persons.
+
+336
+00:24:59,030 --> 00:25:00,330
+我想知道怎么回事
+I want to know about it.
+
+337
+00:25:00,410 --> 00:25:03,080
+是  长官  现在如果您允许的话
+Yes, sir. Now, if you'll excuse me,
+
+338
+00:25:05,080 --> 00:25:07,420
+我有一个跳绳的约会
+I have a date with a jump rope.
+
+339
+00:25:09,880 --> 00:25:12,170
+嗨  我已经减了不少了
+Hey, I've dropped half a stone.
+
+340
+00:25:12,630 --> 00:25:14,090
+继续跳吧
+Keep jumping.
+
+341
+00:25:44,660 --> 00:25:45,790
+嗨
+Hey.
+
+342
+00:25:49,080 --> 00:25:50,590
+你过得如何?
+How you doing?
+
+343
+00:25:52,760 --> 00:25:56,800
+你知道的  还好吧  你呢?
+Oh, you know, I'm making do. How are you?
+
+344
+00:25:58,050 --> 00:26:00,010
+我不错啊  你为什么问呢?
+I'm good. Why do you ask?
+
+345
+00:26:00,430 --> 00:26:04,060
+嗯  我听过你的情况  你被…
+Well, I heard about your situation. You were...
+
+346
+00:26:04,140 --> 00:26:05,310
+没错
+Right.
+
+347
+00:26:06,520 --> 00:26:09,850
+我在尝试不再想起那件事  知道吗?
+I just try not to think about it anymore, you know?
+
+348
+00:26:15,070 --> 00:26:17,320
+有一点像你...
+You know, I'm kind of like you,
+
+349
+00:26:19,370 --> 00:26:22,490
+坐在豪华的殖民地一号的办公室里
+sitting in your cushy little office on Colonial One,
+
+350
+00:26:22,580 --> 00:26:25,370
+帮波塔尔干那些肮脏的事
+doing all of Baltar's dirty work for him.
+
+351
+00:26:26,290 --> 00:26:30,000
+可能从来没有想过在我身上正发生着什么事情  对吧?
+You probably never even thought about what was happening to me, right?
+
+352
+00:26:30,880 --> 00:26:33,130
+我不知道你的情况
+I didn't know about your situation.
+
+353
+00:26:33,210 --> 00:26:35,210
+如果我知道的话  我会设法让你出去的
+If I had, I would have tried to get you out.
+
+354
+00:26:35,300 --> 00:26:36,340
+嗯
+Mmm.
+
+355
+00:26:36,670 --> 00:26:38,930
+就像我现在都说了50遍的话
+And like I've just said about 50 times now,
+
+356
+00:26:39,010 --> 00:26:40,840
+我效力的是联邦的合法总统
+I was serving the legal President of the Colonies.
+
+357
+00:26:40,930 --> 00:26:41,970
+我们都选了他的  记得吗?
+We all elected him, remember?
+
+358
+00:26:42,050 --> 00:26:44,310
+那么  这就可以宽恕你吗?
+Is that supposed to excuse it?
+
+359
+00:26:44,560 --> 00:26:46,640
+你想让我说什么?
+What do you want me to say?
+
+360
+00:26:47,850 --> 00:26:48,850
+也许我可以做得更多
+Maybe I could have done more.
+
+361
+00:26:48,940 --> 00:26:51,900
+但当赛昂人着陆的时候
+But I thought that when the Cylons landed,
+
+362
+00:26:51,980 --> 00:26:55,780
+我继续工作是很重要的 可以从内部帮助大家
+it was important for me to keep my job, to help from the inside.
+
+363
+00:26:55,860 --> 00:26:58,530
+就靠支持波塔尔 并让赛昂人压迫我们？
+By propping Baltar up and letting the Cylons walk all over us?
+
+364
+00:26:58,610 --> 00:27:00,950
+不是的! 不是的!  我给抵抗组织传递消息
+No, no. I fed information to the Resistance.
+
+365
+00:27:01,030 --> 00:27:04,330
+是我设立了"死亡投递点"  那是一个狗食盆
+I set up dead drops. There was a dog bowl.
+
+366
+00:27:04,410 --> 00:27:07,830
+是我透露了赛昂人刑场的位置 通过内部备忘录
+I passed along Cylon positions, internal memoranda...
+
+367
+00:27:09,250 --> 00:27:10,710
+万岁  菲里克斯
+Right, Felix.
+
+368
+00:27:12,710 --> 00:27:14,540
+你真是个该死的英雄
+You're a frakkin' hero.
+
+369
+00:27:47,750 --> 00:27:50,750
+我必须要结束对你的感情
+Whatever feelings I had for you have to stop.
+
+370
+00:27:52,790 --> 00:27:55,710
+我的感情干扰到了我的判断
+I allowed my feelings to cloud my judgment.
+
+371
+00:27:56,710 --> 00:27:58,340
+我保护了你
+I protected you.
+
+372
+00:27:59,920 --> 00:28:01,800
+我给了你第二次机会
+I gave your species a second chance.
+
+373
+00:28:01,880 --> 00:28:05,140
+我甚至反对我们的赛昂人姐妹  都为了什么?
+I even turned against a sister Cylon, and for what?
+
+374
+00:28:08,560 --> 00:28:10,220
+我是个赛昂人  盖尤斯
+I'm Cylon, Gaius.
+
+375
+00:28:11,770 --> 00:28:13,980
+不知为什么我都忘了自己是赛昂人
+Somehow I lost sight of that.
+
+376
+00:28:16,690 --> 00:28:19,780
+你不仅仅是一个机器
+You are much, much more than a machine.
+
+377
+00:28:22,240 --> 00:28:23,820
+你是一个人
+You're a person.
+
+378
+00:28:25,450 --> 00:28:27,200
+一个真实的人
+A real person.
+
+379
+00:28:28,290 --> 00:28:29,700
+一个女人
+A woman.
+
+380
+00:28:31,460 --> 00:28:33,540
+并且在和我相爱
+And you're in love with me.
+
+381
+00:28:34,540 --> 00:28:36,130
+并且这让人心痛
+And it hurts.
+
+382
+00:28:37,290 --> 00:28:38,960
+我知道这让人心痛
+I know it hurts.
+
+383
+00:28:39,960 --> 00:28:41,420
+但是相信我
+But believe me,
+
+384
+00:28:41,510 --> 00:28:45,640
+我是唯一能让它好起来的人 你没看到吗?
+I am the only one that can make it better, don't you see?
+
+385
+00:28:45,720 --> 00:28:47,550
+我是唯一的
+I am the only one.
+
+386
+00:28:48,890 --> 00:28:50,810
+不  需要结束这一切
+No. This has to end.
+
+387
+00:28:52,980 --> 00:28:58,480
+你需要我 你需要我!承认吧!
+You need me! You need me, admit it! Admit it, you need me!
+
+388
+00:29:01,990 --> 00:29:03,990
+我也需要你!
+And I need you, too!
+
+389
+00:29:04,780 --> 00:29:07,320
+你听到了吗?  我也需要你
+Did you hear me? I need you, too!
+
+390
+00:29:14,000 --> 00:29:16,580
+也许我之前应该从那开始
+Maybe I should've started with that.
+
+391
+00:29:24,010 --> 00:29:26,260
+这是一个审判团  我需要大家明确这一点
+This is a jury. I want to make that clear.
+
+392
+00:29:26,340 --> 00:29:29,300
+这不是什么评分或人身评定
+It's not about settling scores or personal grudges.
+
+393
+00:29:29,390 --> 00:29:30,510
+这是个审判团
+It's a jury.
+
+394
+00:29:30,600 --> 00:29:33,180
+我们处理的都是人渣中的人渣
+And we're just dealing with the worst of the worst.
+
+395
+00:29:33,270 --> 00:29:35,390
+那些比穿上NCP警服或与
+People that did more than put on an NCP uniform
+
+396
+00:29:35,480 --> 00:29:37,100
+赛昂人地下交易做孽更多的人
+or make a deal with the Cylons.
+
+397
+00:29:37,190 --> 00:29:39,610
+他们是杀人犯  他们才是真正的叛国者
+They're the killers, the real traitors.
+
+398
+00:29:44,190 --> 00:29:46,700
+哦  但这一切都是非法的  对吧?
+Yeah, but none of this is legal, right?
+
+399
+00:29:46,780 --> 00:29:49,070
+不  不  这是合法的
+No, no. It's legal.
+
+400
+00:29:55,830 --> 00:29:57,120
+你一定是在和我开玩笑
+STARBUCK: You've got to be kidding me.
+
+401
+00:29:57,210 --> 00:30:00,750
+那是我们现在为什么需要了解 你加入还是不加入?
+That's why we need to know right now, are you in or out?
+
+402
+00:30:05,920 --> 00:30:06,970
+加入
+In.
+
+403
+00:30:07,050 --> 00:30:08,260
+好
+Good.
+
+404
+00:30:08,340 --> 00:30:12,310
+我们都已经审查通过这项证据 所以 看你的吧
+We've already been through the evidence, so just take your time.
+
+405
+00:30:20,560 --> 00:30:24,480
+你是说盖塔看过这个名单 并且没有做任何事情?
+You're telling me that Gaeta saw this list and didn't do a damned thing about it?
+
+406
+00:30:24,570 --> 00:30:26,422
+当他看到这个名单的时候 
+We have no idea of knowing what
+
+407
+00:30:26,423 --> 00:30:29,200
+我们不知道盖塔做了什么或是没有做什么
+ Gaeta did or did not do when he saw the list.
+
+408
+00:30:29,280 --> 00:30:30,990
+我的天  整件事就像一个噩梦
+My Gods, the whole thing's like a bad dream,
+
+409
+00:30:31,070 --> 00:30:34,370
+只是我们都醒来了  可叛国贼还在那儿
+only we woke up and the traitors are all still here.
+
+410
+00:30:39,710 --> 00:30:40,920
+有罪
+Guilty.
+
+411
+00:30:42,090 --> 00:30:43,840
+现在的有罪判断是五比零
+The vote's five to none in favor of guilty.
+
+412
+00:30:43,920 --> 00:30:46,050
+这是没有异议的
+It's got to be unanimous.
+
+413
+00:30:46,130 --> 00:30:49,050
+军士长 你是最后一个评判的
+Chief, you're the last to vote.
+
+414
+00:30:53,510 --> 00:30:55,010
+离开这里  山姆
+Get out of here, Sam.
+
+415
+00:30:55,100 --> 00:30:58,350
+我想和我老婆说句话 我要现在说
+I'd like to talk to my wife. I'd like to do it now.
+
+416
+00:30:59,140 --> 00:31:01,900
+你已经评判过了  休息一下吧
+We already have your vote. Take a break.
+
+417
+00:31:11,110 --> 00:31:15,370
+听着  我退出是因为我不想继续杀人
+Hey, I quit because I'm not looking for ways to keep killing people.
+
+418
+00:31:15,450 --> 00:31:16,790
+但我需要  山姆
+Well, I need this, Sam.
+
+419
+00:31:16,870 --> 00:31:18,040
+又能怎么样呢?
+So what?
+
+420
+00:31:18,120 --> 00:31:19,580
+把人们从减压舱中丢出去
+Throwing a few people out of airlock
+
+421
+00:31:19,670 --> 00:31:21,290
+能让你感觉好受吗?
+is gonna make you feel better about yourself?
+
+422
+00:31:21,380 --> 00:31:24,170
+请相信我  他们不是那些该被锁进减压舱的人
+Because, believe me, those aren't the people that kept you locked in that room.
+
+423
+00:31:24,250 --> 00:31:26,025
+就是他们 并且不只是为了我 
+They'll do. And not just for me, 
+
+424
+00:31:26,026 --> 00:31:27,800
+是为了所有留在那颗星球上的人
+but for every person we left back on that planet,
+
+425
+00:31:27,880 --> 00:31:29,260
+因为必须有人要为此付出代价
+because someone has got to pay.
+
+426
+00:31:29,340 --> 00:31:32,720
+你可以与我们一起干  或是别管我们
+So you can either get with it or you can get lost.
+
+427
+00:31:32,800 --> 00:31:36,060
+那是你想要得吗  卡拉?  你想让我离开?
+Is that what you want, Kara? You want me to leave?
+
+428
+00:31:37,020 --> 00:31:38,470
+山姆不想说他有罪
+He doesn't want to say he's guilty,
+
+429
+00:31:38,560 --> 00:31:42,480
+是因为盖塔是一个不错的人 对吗  军士长?
+because Gaeta is such a good guy. Right, Chief?
+
+430
+00:31:42,560 --> 00:31:45,150
+所有人都喜欢盖塔 那么就让他不要再被迷惑
+Everyone likes Gaeta, so let's let him off the hook.
+
+431
+00:31:45,230 --> 00:31:48,030
+那让我们从其他方面看看这个人吧
+Let's just look the other way on this one.
+
+432
+00:31:48,110 --> 00:31:52,280
+嗯  很多好人都为他们所做的付出了代价
+Well, a lot of good people had to pay the price for what they did,
+
+433
+00:31:52,360 --> 00:31:56,160
+他们在新卡布里卡所做的决定 就像我的老婆
+the choices they made on New Caprica. Like my wife.
+
+434
+00:31:58,950 --> 00:32:01,540
+那是对的 艾伦通了敌
+That's right, Ellen collaborated.
+
+435
+00:32:02,250 --> 00:32:06,290
+把地下抵抗组织的信息透露给了赛昂人 她付出了生命的代价
+Gave the Cylons information on the Resistance and she died for it.
+
+436
+00:32:06,380 --> 00:32:10,050
+因为那是叛国通敌的代价
+Because that's the price of collaborating with the enemy.
+
+437
+00:32:11,090 --> 00:32:13,680
+相比盖塔  我更喜欢她
+And I liked her a lot more than I like Gaeta.
+
+438
+00:32:16,050 --> 00:32:17,600
+听着  山姆
+Look, Sam,
+
+439
+00:32:19,430 --> 00:32:21,600
+我现在处在不同的立场
+I'm in a different place now.
+
+440
+00:32:23,350 --> 00:32:29,530
+我不知道该如何向你解释
+I don't know how else to explain it to you,
+
+441
+00:32:30,360 --> 00:32:31,440
+但当我走出监狱  
+but I got out of that cell,
+
+442
+00:32:31,530 --> 00:32:35,700
+那就像有人把世界染了另一种颜色
+and it's like someone painted the world in different colors.
+
+443
+00:32:38,740 --> 00:32:40,410
+我现在看着你
+And I look at you,
+
+444
+00:32:44,710 --> 00:32:48,250
+我都想把你的眼睛挖出来  只因为它在看着我
+and I want to tear your eyes out just for looking at me.
+
+445
+00:32:50,090 --> 00:32:53,590
+我只想狠扁一个人  而那人最好是你
+I just want to hurt someone and it might as well be you.
+
+446
+00:32:59,220 --> 00:33:02,220
+所以你该在那发生之前滚开
+So you should probably go before that happens.
+
+447
+00:33:04,650 --> 00:33:08,150
+波塔尔签署的处决命令  组织行刑队
+Baltar signed death warrants, organized murder squads.
+
+448
+00:33:08,230 --> 00:33:10,570
+是他从一开始就通敌叛国的
+He collaborated with the enemy from day one.
+
+449
+00:33:10,650 --> 00:33:11,900
+是波塔尔  不是盖塔
+Baltar, not Gaeta.
+
+450
+00:33:11,990 --> 00:33:13,990
+都是些同样可憎的东西
+It's the same gods-damned thing!
+
+451
+00:33:14,070 --> 00:33:15,490
+他是对的
+SEELIX: He's right.
+
+452
+00:33:15,570 --> 00:33:18,450
+很多人因他们而死的  军士长
+A lot of people died because of them, Chief.
+
+453
+00:33:27,460 --> 00:33:29,670
+好吧  有罪
+Fine. Guilty.
+
+454
+00:33:38,260 --> 00:33:39,760
+还记得这个吗? 
+Remember this?
+
+455
+00:33:40,680 --> 00:33:42,770
+我不想再要它了
+I don't want this anymore.
+
+456
+00:33:53,900 --> 00:33:55,240
+山姆
+Sam.
+
+457
+00:34:42,160 --> 00:34:43,450
+带走他
+SEELIX: Take him!
+
+458
+00:34:47,210 --> 00:34:50,420
+转过头来! 跪下! 跪下!
+Turn around. On your knees. On your knees!
+
+459
+00:35:01,010 --> 00:35:02,390
+菲里克斯·盖塔
+Felix Gaeta,
+
+460
+00:35:04,890 --> 00:35:08,390
+你已经被特别法庭审判并判决
+you've been tried and found guilty of crimes against humanity
+
+461
+00:35:08,480 --> 00:35:09,940
+有反人类罪
+by a circle of your peers
+
+462
+00:35:10,020 --> 00:35:13,190
+这是由联邦总统授权的特别法庭
+as duly authorized by the President of the Colonies.
+
+463
+00:35:25,330 --> 00:35:29,500
+如果你有什么想要申辩的 就是现在了
+If you have any words to offer in your own defense, now is the time.
+
+464
+00:35:33,210 --> 00:35:36,710
+拜托  菲里克斯  说啊 我们会听     
+Come on, Felix, talk. We'll listen.
+
+465
+00:35:37,010 --> 00:35:38,710
+没错  就是那样
+Yeah, that's right.
+
+466
+00:35:39,220 --> 00:35:42,010
+我们会听你说  你是如何隐藏在波塔尔身边
+We'll listen to you tell us how hiding behind Baltar's skirt
+
+467
+00:35:42,090 --> 00:35:44,510
+那其实是你帮助反抗组织的办法
+was actually your way of helping the insurgency.
+
+468
+00:35:44,600 --> 00:35:46,140
+快说
+Say something.
+
+469
+00:35:48,730 --> 00:35:50,350
+说什么呢?
+What's the point?
+
+470
+00:35:51,690 --> 00:35:53,900
+我已经尝试解释了
+I already tried to explain it.
+
+471
+00:35:56,400 --> 00:35:57,820
+我不会乞求的
+I'm not gonna beg.
+
+472
+00:35:57,900 --> 00:36:01,240
+太糟了  你四个月来都没有长进
+Too bad you didn't grow that spine four months ago.
+
+473
+00:36:17,920 --> 00:36:19,050
+乞求
+Beg.
+
+474
+00:36:23,680 --> 00:36:24,760
+乞求!
+Beg.
+
+475
+00:36:25,930 --> 00:36:27,300
+乞求!        瑟瑞丝…
+Beg! TIGH: Thrace...
+
+476
+00:36:27,390 --> 00:36:29,430
+不!      乞求
+No. Beg.
+
+477
+00:36:30,770 --> 00:36:33,350
+拜托  菲里克斯  告诉他们  在整段时间里 
+Come on, Felix, tell them how you were actually working
+
+478
+00:36:33,440 --> 00:36:35,600
+你是如何为抵抗组织工作的
+for the Resistance the entire time!
+
+479
+00:36:35,690 --> 00:36:37,020
+说啊!
+Come on!
+
+480
+00:36:37,110 --> 00:36:40,110
+告诉他们所有重要的信息是你传出来的
+Tell them all about the important information that you were giving up.
+
+481
+00:36:40,190 --> 00:36:42,860
+告诉他们所有的信息和那个狗食盆
+Tell them about all the messages, and the dog bowl and everything else.
+
+482
+00:36:42,950 --> 00:36:43,990
+还有其他的         什么?
+Just tell me. What?
+
+483
+00:36:44,070 --> 00:36:46,370
+她说了什么?   她刚才说了什么?
+What did she say? What did she just say?
+
+484
+00:36:46,450 --> 00:36:47,450
+一边儿去 
+Back up!
+
+485
+00:36:47,530 --> 00:36:49,450
+她刚才说了什么?  你跟她说了什么?
+What did she just say? What did you say to her?
+
+486
+00:36:49,540 --> 00:36:52,160
+告诉我  你跟她说了什么?
+Tell me, what did you say to her?
+
+487
+00:36:53,330 --> 00:36:55,330
+那是一个黄色的狗食盆  
+It was a yellow dog bowl.
+
+488
+00:36:55,420 --> 00:36:59,750
+那是一个信号 那代表着在垃圾堆的抽屉里有情报
+It was a signal. It meant there was a message in the garbage dump.
+
+489
+00:37:01,420 --> 00:37:03,010
+是我转交的情报.那是一个信号
+Turn it over, it was a signal.
+
+490
+00:37:03,090 --> 00:37:05,090
+意味着在垃圾堆的抽屉里有一个情报
+It meant there was a message at the garbage dump.
+
+491
+00:37:05,180 --> 00:37:06,800
+噢  原来是你啊
+Oh, that was you.
+
+492
+00:37:09,060 --> 00:37:10,560
+噢  我的天
+Oh, my God...
+
+493
+00:37:11,600 --> 00:37:13,560
+你在干什么?  军士长
+What are you doing? Chief...
+
+494
+00:37:15,650 --> 00:37:19,320
+那儿是有一个黄色的狗食盆 是我用到的
+There was a yellow dog bowl. I used it.
+
+495
+00:37:22,110 --> 00:37:25,030
+你还问过谁会是情报源的呢  上校
+But I never knew who the source was, Colonel.
+
+496
+00:37:26,280 --> 00:37:28,660
+他不可能从别处知道的
+There's no other way he could have known.
+
+497
+00:37:28,740 --> 00:37:31,740
+只有他才有可能接触到那些信息
+He's the only other one that would know about it.
+
+498
+00:37:31,830 --> 00:37:33,830
+就是他告诉我们处决名单
+He's the reason we know about the death lists,
+
+499
+00:37:33,910 --> 00:37:36,500
+他是我能救得了凯莉的原因 他是我们现在在船上的原因
+he's the reason I saved Cally, he's the reason we're on this ship.
+
+500
+00:37:36,580 --> 00:37:39,670
+就是他告诉我们内线消息的
+He's the one who gave us the inside information.
+
+501
+00:37:42,590 --> 00:37:44,720
+他是我们的内线  上校
+There's our source, Colonel.
+
+502
+00:37:49,180 --> 00:37:50,890
+我做了我能做到的
+I did what I could.
+
+503
+00:37:56,020 --> 00:37:58,690
+我不知道我还能做些什么
+I don't know what else I could've done.
+
+504
+00:38:24,460 --> 00:38:26,380
+这是什么该死的东西?
+What the hell is this?
+
+505
+00:38:26,880 --> 00:38:28,800
+这是完全合法的
+It's all perfectly legal.
+
+506
+00:38:28,890 --> 00:38:32,100
+你会在档案中找到总统的行政命令 授权一个…
+You'll find a signed executive order on file authorizing a secret jury
+
+507
+00:38:32,180 --> 00:38:35,810
+由6人组成的秘密法庭  去调查  审判  和执行在
+of six men and women to try, sentence and execute people guilty
+
+508
+00:38:35,890 --> 00:38:39,690
+战争期间有叛国通敌罪的人
+of extraordinary crimes while collaborating with the enemy at a time of war.
+
+509
+00:38:39,770 --> 00:38:42,690
+同样有我签了名的死刑执行书
+There's also a death warrant with my signature for every conviction.
+
+510
+00:38:42,770 --> 00:38:46,900
+你做总统真是个闹剧 从现在开始被终止了
+Your presidency is a farce. It stops right now.
+
+511
+00:38:46,990 --> 00:38:50,860
+如果他们有罪  他们被相应的法庭审判
+If they're guilty, they'll be tried by a jury of their peers.
+
+512
+00:38:50,950 --> 00:38:54,790
+他们有一个法庭 但他们没有律师
+They have a jury, but they don't get lawyers.
+
+513
+00:38:54,870 --> 00:38:57,160
+他们不需要几周或者几个月去搞那个审判
+They don't get to showboat for weeks and months on end.
+
+514
+00:38:57,250 --> 00:38:59,580
+他们也不会责备"体制的问题"
+They don't get to blame the system.
+
+515
+00:38:59,670 --> 00:39:03,500
+并且他们也不会被当作烈士或是什么无辜的人
+And they don't get lasting fame as martyrs or innocent people
+
+516
+00:39:03,590 --> 00:39:06,340
+只是在一个错误的地点和错误的时间
+just in the wrong place at the wrong time.
+
+517
+00:39:06,420 --> 00:39:09,090
+让他们就此消失  就是现在!
+They just disappear, now,
+
+518
+00:39:09,180 --> 00:39:11,510
+在占领与新时代来临之间的 
+in the gray twilight between the long night of the occupation
+
+519
+00:39:11,590 --> 00:39:13,510
+漫长黑夜中的灰暗拂晓
+and the dawn of a new era.
+
+520
+00:39:13,600 --> 00:39:17,640
+你可以走进一个干净的办公室 手上不用沾上他们的血
+You come into office clean, without their blood on your hands.
+
+521
+00:39:17,730 --> 00:39:20,520
+很好  谢谢你  真像是诗歌一般
+Well, thank you, that's very poetic.
+
+522
+00:39:20,600 --> 00:39:23,860
+但是你有个问题   总统先生
+However, you have a problem, Mr. President.
+
+523
+00:39:23,940 --> 00:39:29,400
+法律赋予所有人在审判的时要有辩护律师
+Everyone, by law, is entitled to a trial with representation. Everyone.
+
+524
+00:39:29,490 --> 00:39:34,030
+这是不能因总统的一时兴起就被违背的
+It is not an option to be discarded at the President's whim.
+
+525
+00:39:34,120 --> 00:39:37,950
+你以为公开审判你就能够获得正义?
+You think by making the trials public that you'll find justice?
+
+526
+00:39:38,040 --> 00:39:39,290
+是  我就这样想.
+Yes, I do.
+
+527
+00:39:39,370 --> 00:39:42,000
+算了吧 劳拉 你不会那么天真吧
+Come on, Laura. You're not that naive.
+
+528
+00:39:42,500 --> 00:39:45,840
+我告诉你如果把这些案子交给法庭会发生什么
+Let me tell you what's going to happen if these cases go to trial.
+
+529
+00:39:45,920 --> 00:39:49,670
+那会让舰队浪费数月  甚至可能几年
+It'll consume this fleet for months, maybe years.
+
+530
+00:39:49,760 --> 00:39:53,430
+人们会排队去作证告发他们的邻居
+People will be lining up to testify against their neighbors.
+
+531
+00:39:53,510 --> 00:39:54,970
+这会像是马戏团…
+It'll be a circus.
+
+532
+00:39:55,060 --> 00:39:56,220
+给乌合之众的表演
+An entertainment for the mob
+
+533
+00:39:56,310 --> 00:39:59,930
+并且你会每年都签署死刑命令书
+and you'll be signing death warrants almost every day.
+
+534
+00:40:00,020 --> 00:40:03,560
+那会是你下个任期想做的吗  劳拉?
+Is that how you want to spend your next term, Laura,
+
+535
+00:40:03,650 --> 00:40:05,360
+做一个刽子手的头?
+as executioner-in-chief?
+
+536
+00:40:15,740 --> 00:40:17,950
+"以我的生命"
+PRIEST:... with every fiber of my being.
+
+537
+00:40:18,330 --> 00:40:20,790
+"以我的生命"
+"... with every fiber of my being. "
+
+538
+00:40:21,830 --> 00:40:23,370
+祝贺你  总统女士
+Congratulations, Madam President.
+
+539
+00:40:23,460 --> 00:40:24,790
+谢谢你
+Thank you.
+
+540
+00:40:28,380 --> 00:40:30,260
+感谢大家再次信任我
+Thank you all for once again entrusting me
+
+541
+00:40:30,340 --> 00:40:32,930
+从事此项高层行政工作
+with this high office of civil service.
+
+542
+00:40:33,010 --> 00:40:35,720
+今天对我们来说是一个新的开始
+Today is a new beginning for all of us.
+
+543
+00:40:36,600 --> 00:40:40,140
+我们同担共同的命运
+We share a unique destiny,
+
+544
+00:40:40,230 --> 00:40:44,440
+我们要创造自己的未来 但我们也不该遗忘过去
+but our future is ours to shape and our past cannot be forgotten.
+
+545
+00:40:45,360 --> 00:40:47,940
+新的一天需要新的想法
+A new day requires new thinking.
+
+546
+00:40:48,900 --> 00:40:52,440
+同时我想值此机会
+And while I had intended on using this occasion
+
+547
+00:40:52,530 --> 00:40:56,870
+向大家公布一个一个关于检举办公室调查的
+as an opportunity to announce the formation of a special prosecutor's office
+
+548
+00:40:56,950 --> 00:41:01,120
+叛国通敌法案
+charged with investigating acts of collaboration with the enemy,
+
+549
+00:41:01,200 --> 00:41:06,380
+我决定以不同的方式来替换它
+I have decided instead that a different gesture is called for on this,
+
+550
+00:41:06,460 --> 00:41:10,710
+在我新任期的头一天 以总统的名义
+the first day of my next term as your president.
+
+551
+00:41:10,800 --> 00:41:13,670
+我们都需要正义
+We all feel the need for justice,
+
+552
+00:41:13,760 --> 00:41:17,140
+我们都想要报仇
+and we all feel the need for vengeance,
+
+553
+00:41:17,220 --> 00:41:20,970
+把这两者区分 在现在是很难的
+and telling the difference between the two can be difficult at times.
+
+554
+00:41:21,060 --> 00:41:25,440
+我们都是赛昂人的受害者 并且没有人能做到公正不阿
+We are all victims of the Cylons and none of us can be impartial.
+
+555
+00:41:25,520 --> 00:41:27,650
+我确实不能
+I certainly can't.
+
+556
+00:41:27,730 --> 00:41:32,150
+所以  今天我成立一个真相委员会
+So today, I am forming a commission on truth and reconciliation,
+
+557
+00:41:32,240 --> 00:41:36,410
+完整地来听大家的故事 并记录流传给子孙后代
+to hear our stories and record them for posterity.
+
+558
+00:41:37,240 --> 00:41:39,450
+这不存在任何的起诉
+There will be no prosecutions.
+
+559
+00:41:41,830 --> 00:41:46,920
+我已经在这个舰队中向所有的人类 签发了大赦法案
+I am issuing a general pardon for every human being in this fleet.
+
+560
+00:41:48,170 --> 00:41:50,790
+这在今天可能不会受到欢迎
+This will not be a popular move today.
+
+561
+00:41:51,170 --> 00:41:56,010
+但是我相信这是唯一的方法
+But I truly believe that this is the only way for us to move forward in strength
+
+562
+00:41:56,090 --> 00:41:59,640
+让大家在和解与恢复的精神下  奋力前行
+in a spirit of healing and reconciliation.
+
+563
+00:42:00,680 --> 00:42:06,850
+我要谢谢大家不断的耐心和勇气
+I thank you for your continued patience and courage.
+
+564
+00:42:08,310 --> 00:42:09,650
+日安!
+Good day.
+
+565
+00:42:23,950 --> 00:42:25,450
+谢谢
+Thank you.
+
+566
+00:42:38,760 --> 00:42:40,760
+嗨 军士长 要坐吗
+Hey, Chief, want a seat?
+

@@ -1,0 +1,2955 @@
+1
+00:00:23,060 --> 00:00:25,350
+太空堡垒卡拉狄加 【 前情提要 】
+HELO: Previously on Battlestar Galactica.
+
+2
+00:00:25,440 --> 00:00:27,190
+我们都做出了牺牲
+We all made sacrifices.
+
+3
+00:00:27,270 --> 00:00:30,020
+是吗?        对
+Is that so? Yes, that's right.
+
+4
+00:00:30,110 --> 00:00:34,570
+那为什么有个赛昂情人 在占着我的职位?
+Then how come some Cylon lover is holding down my post?
+
+5
+00:00:34,660 --> 00:00:36,860
+赫拉还活着 我是她的母亲 我要去找她
+ATHENA: Hera's alive. I'm her mother and I'm going to get her.
+
+6
+00:00:36,950 --> 00:00:38,530
+我求你了
+I'm begging you to do this.
+
+7
+00:00:41,450 --> 00:00:44,370
+你是在以整个舰队冒险 你知道吗?
+You've put the entire fleet in jeopardy. Are you aware of that?
+
+8
+00:00:44,460 --> 00:00:47,710
+我不是叛徒 我做的是我认为正确的事
+I'm not a traitor. I did what I thought was right.
+
+9
+00:00:47,920 --> 00:00:49,210
+她会找到赫拉的
+She'll get Hera.
+
+10
+00:00:49,290 --> 00:00:50,630
+走
+Let's go.
+
+11
+00:00:53,590 --> 00:00:55,090
+别开枪
+No! Hold your fire!
+
+12
+00:00:55,180 --> 00:00:56,510
+让开
+Get out of the way!
+
+13
+00:00:56,590 --> 00:00:58,890
+把那东西关禁闭
+Throw that thing in the brig.
+
+14
+00:00:58,970 --> 00:01:01,350
+作为殖民地公民
+I demand my rights as a Colonial citizen
+
+15
+00:01:01,430 --> 00:01:03,890
+我有权要求法律代表出庭 以及完整的法定诉讼程序
+to legal representation and full due process.
+
+16
+00:01:03,980 --> 00:01:05,020
+是吗?
+Do you?
+
+17
+00:01:05,100 --> 00:01:08,690
+那下一步怎么办?        让他得到公正的审判
+So what happens next? We give him his trial.
+
+18
+00:01:09,110 --> 00:01:12,570
+右舷机库真能挤下那么多平民吗?
+Do they really think they can squeeze most of these onto the starboard hangar deck?
+
+19
+00:01:12,650 --> 00:01:14,030
+所以才调西洛来…
+That's why Helo was transferred down here,
+
+20
+00:01:14,110 --> 00:01:15,950
+管理这些难民的
+to manage the civilian refugees.
+
+21
+00:01:16,070 --> 00:01:19,620
+长官 尊者号乘客登舰 现场混乱
+Sir, we got the breakdown on the Thera Sita's inhabitants coming aboard.
+
+22
+00:01:19,700 --> 00:01:22,240
+51名撒纪特恩人        老天爷
+Fifty-one Sagittarons. Oh, boy.
+
+23
+00:01:22,330 --> 00:01:24,910
+西洛可能应付不过来
+Helo might be overmatched down there.
+
+24
+00:02:35,320 --> 00:02:38,110
+昨晚没怎么睡吧?
+So, pretty rough night last night, huh?
+
+25
+00:02:39,820 --> 00:02:41,910
+你昨晚睡得不太好
+Hey, I said you didn't sleep so well.
+
+26
+00:02:41,990 --> 00:02:44,280
+做的梦让人烦
+Just a stupid dream. Whatever.
+
+27
+00:02:45,790 --> 00:02:47,750
+那你没事?        恩
+So, you're okay? Yeah.
+
+28
+00:02:49,040 --> 00:02:52,290
+他们还会送来300人 你能顶得住?
+They're about to increase the population down there by 300 and you're okay.
+
+29
+00:02:52,380 --> 00:02:55,210
+能 我不知道该把他们安排到哪里
+Yeah. I don't know where I'm gonna put them,
+
+30
+00:02:55,300 --> 00:02:58,050
+可我又不是不了解我自己 没事的
+but it's not like I'm walking around taking my own pulse. I'm fine.
+
+31
+00:02:58,130 --> 00:03:00,880
+他在那边    这不是道格维尔的市长么
+APOLLO: Hey. There he is. STARBUCK: If it isn't the Mayor of Dogsville.
+
+32
+00:03:00,970 --> 00:03:02,510
+放他一马吧  兄弟们
+RACETRACK: Hey. Cut him some slack, guys.
+
+33
+00:03:02,590 --> 00:03:05,050
+听说你刚收到一整船忠诚子民
+Helo just got a new shipload of loyal subjects.
+
+34
+00:03:05,140 --> 00:03:07,560
+帮我个忙
+Helo, come here, come here. Listen, I need a favor.
+
+35
+00:03:07,640 --> 00:03:09,850
+今晚我和一位有型的菜鸟帅哥 
+I have a date tonight with this ripped and ready nugget
+
+36
+00:03:09,940 --> 00:03:12,690
+想把关系拉进一步
+that I want to break in, you know, just right.
+
+37
+00:03:12,770 --> 00:03:13,770
+能在下面 给我安排个
+Think you can wrangle me up
+
+38
+00:03:13,860 --> 00:03:15,980
+甜蜜的小寝室不?
+one of those cute little sexy cubicles you got down there?
+
+39
+00:03:16,110 --> 00:03:18,650
+好  好啦        回见  西洛
+Yeah, yeah. APOLLO: We'll see you around, Helo.
+
+40
+00:03:18,740 --> 00:03:21,780
+你们知道到哪可以找到我
+Yeah. You guys know where to find me.
+
+41
+00:03:21,910 --> 00:03:25,700
+你会去看赫拉吧?        会的  宝贝 我会去看她
+You're gonna check up on Hera, right? Yes. Babe, I'm gonna check up on Hera.
+
+42
+00:03:25,780 --> 00:03:28,620
+我爱你    我也爱你
+Okay. Love you. Love you, too.
+
+43
+00:03:40,670 --> 00:03:44,760
+继续走 继续走
+HELO: I need you to keep moving. You need to keep moving.
+
+44
+00:03:44,850 --> 00:03:46,180
+等到了就会处理
+Deal with you when we get there.
+
+45
+00:03:46,260 --> 00:03:48,310
+我们会处理好的 拜托
+I know, I know. We'll deal with your concerns. Come on.
+
+46
+00:03:48,390 --> 00:03:49,810
+继续走 继续走
+You just keep moving. Keep moving.
+
+47
+00:03:49,890 --> 00:03:53,390
+各位  欢迎登上卡拉狄加  我是卡尔·阿格森上尉
+Welcome aboard Galactica, people. My name is Captain Karl Agathon.
+
+48
+00:03:53,480 --> 00:03:55,400
+我被派来处理各位的福利问题 
+I've been assigned to look after your personal welfare.
+
+49
+00:03:55,480 --> 00:03:57,520
+我们很快就会办理  各位先继续向前走
+We'll get to it soon. I need you to keep moving right now.
+
+50
+00:03:57,610 --> 00:03:58,610
+你们把撒纪特恩人安排在哪里?
+Where are you putting the Sagittarons?
+
+51
+00:03:58,690 --> 00:04:00,030
+住宿安排还没有定下来 先生  
+Living arrangements haven't been made yet, sir.
+
+52
+00:04:00,110 --> 00:04:02,030
+继续向前走    我们要和自己人在一起
+I need you to keep moving. We want to be with our own!
+
+53
+00:04:02,110 --> 00:04:04,740
+你听到他说的话了 快走
+You heard the man. Get your ass in motion!
+
+54
+00:04:04,820 --> 00:04:05,870
+走!
+Move!
+
+55
+00:04:05,950 --> 00:04:08,580
+一切都在我的控制之下  上校
+I got things under control here, Colonel.
+
+56
+00:04:08,660 --> 00:04:10,490
+恩  是的
+Yeah. Sure you do.
+
+57
+00:04:11,500 --> 00:04:14,540
+打扰下  女士 我能大致检查一下你的儿子吗?
+Excuse me, ma'am? Could I have a brief look at your son?
+
+58
+00:04:14,630 --> 00:04:16,880
+不用了  我们很好  我们没事  不用看医生
+No, no, no. We're fine. We're fine. We don't need a doctor.
+
+59
+00:04:17,000 --> 00:04:19,630
+知道 谢谢
+I know. I know. Thank you.
+
+60
+00:04:19,710 --> 00:04:21,590
+我们不用看医生
+Look. We don't need a doctor.
+
+61
+00:04:21,670 --> 00:04:24,430
+我们是撒纪特恩人 我们不相信药物
+We're Sagittaron. We don't believe in medicine.
+
+62
+00:04:24,510 --> 00:04:27,850
+没事的  女士  这位是罗伯特医生  他是民间医生 
+It's all right, ma'am. This is Dr. Robert. He's our civilian doctor.
+
+63
+00:04:27,930 --> 00:04:29,970
+与军方没有关联
+He has nothing to do with the military.
+
+64
+00:04:30,060 --> 00:04:32,850
+相信我 我们会尊重你们的传统
+He'll respect your traditions. You can trust me.
+
+65
+00:04:32,940 --> 00:04:35,440
+我也是撒纪特恩人 不会有事的
+I'm a Sagittaron. It's okay.
+
+66
+00:04:36,980 --> 00:04:40,940
+没事的 可以了?
+It's okay. Okay? Okay?
+
+67
+00:04:41,030 --> 00:04:43,110
+疼吗?
+You feel that?
+
+68
+00:04:43,200 --> 00:04:47,110
+请把嘴张开  好吗?  张大一些
+Would you open your mouth for me, please? Open wide.
+
+69
+00:04:47,200 --> 00:04:48,660
+好
+All right.
+
+70
+00:04:50,540 --> 00:04:52,040
+看这个
+Look at this.
+
+71
+00:04:53,540 --> 00:04:57,000
+有什么感觉吗?  这里呢?
+Okay. Do you feel anything? How about here?
+
+72
+00:04:57,080 --> 00:04:58,460
+好了  够了 谢谢
+All right. That's enough. Thank you.
+
+73
+00:04:58,540 --> 00:04:59,840
+把你的手拿开!        好  
+Get your hands off me! ROBERT: All right, okay.
+
+74
+00:04:59,960 --> 00:05:01,460
+再等一下    够了  
+Just a second... That's enough. That's enough.
+
+75
+00:05:01,550 --> 00:05:04,130
+谢谢
+Thank you very much. Settle down.
+
+76
+00:05:05,760 --> 00:05:08,590
+先生   把你的手管好
+Sir... Hey, you just keep your hands to yourself.
+
+77
+00:05:08,720 --> 00:05:11,100
+好  好的
+Okay. Yeah. All right?
+
+78
+00:05:25,400 --> 00:05:26,610
+麦克
+TIGH: Mike.
+
+79
+00:05:26,700 --> 00:05:30,120
+你个出老千的笨蛋 还欠我一杯酒钱
+You brain-dead card cheat. Still owe me that drink.
+
+80
+00:05:30,240 --> 00:05:33,830
+少 闪一边去    今天你心情不错哇
+Saul, get out of here now. Well, you're in a good mood today.
+
+81
+00:05:33,910 --> 00:05:36,790
+医生  我说不准  可这里有些人看来…
+Hey, Doc. I don't know, but some of these people, they look...
+
+82
+00:05:36,870 --> 00:05:39,080
+有病 有病 对
+Sick. Sick. Yeah.
+
+83
+00:05:39,170 --> 00:05:41,670
+急救员!
+My God! Medic!
+
+84
+00:05:41,750 --> 00:05:43,840
+罗伯特医生?        离开这里  少
+DUALLA: Dr. Robert! Leave, Saul.
+
+85
+00:05:43,920 --> 00:05:45,260
+好
+Yeah.
+
+86
+00:05:46,050 --> 00:05:47,590
+别碰我的儿子
+No, get your hands off my son!
+
+87
+00:05:47,680 --> 00:05:49,640
+好了        别碰  别碰
+I got him. No. No!
+
+88
+00:05:49,720 --> 00:05:51,260
+他们要把他带到哪里去?
+Where are they taking him?
+
+89
+00:05:51,350 --> 00:05:53,850
+没事  女士 这边走
+It's all right, ma'am. Just walk this way.
+
+90
+00:07:09,220 --> 00:07:11,590
+什么情况  麦克?
+So what have we got here, Mike?
+
+91
+00:07:11,680 --> 00:07:13,140
+梅罗莱克病
+Mellorak Sickness.
+
+92
+00:07:13,220 --> 00:07:15,510
+它源于肾脏
+It originates in the kidneys
+
+93
+00:07:15,600 --> 00:07:19,890
+而后迅速扩展到呼吸及免疫系统
+and then rapidly attacks the respiratory and the immune system.
+
+94
+00:07:19,980 --> 00:07:21,770
+这种病比较让人头疼
+It's a nasty bit of business.
+
+95
+00:07:21,850 --> 00:07:24,980
+如果首发症状无法在48小时内得到医治
+If you don't treat the first symptoms within 48 hours,
+
+96
+00:07:25,070 --> 00:07:27,270
+患者将在三到五天内死亡
+it'll kill you within three to five days.
+
+97
+00:07:27,360 --> 00:07:28,820
+传染性如何?
+How contagious is it?
+
+98
+00:07:28,900 --> 00:07:31,700
+不是空气传播 所以我们也算是走运
+Well, it's not airborne, so we lucked out there.
+
+99
+00:07:31,780 --> 00:07:34,410
+它通过人与人之间接触传染
+It's spread through human contact,
+
+100
+00:07:34,490 --> 00:07:38,620
+唾液  性交 皮肤接触
+saliva, sexual intercourse, through the skin...
+
+101
+00:07:38,700 --> 00:07:41,710
+目前看来 这种病还仅限于撒纪特恩人之中
+Right now, it seems confined to the Sagittarons.
+
+102
+00:07:41,790 --> 00:07:44,460
+那就好 不用他们道谢了
+That's good. They're welcome to it.
+
+103
+00:07:44,540 --> 00:07:47,960
+传播地点显然正是我们工作的地方
+It's obviously spreading down there where we were working.
+
+104
+00:07:48,050 --> 00:07:50,340
+可治愈吗?        绝对可以
+It's curable? Absolutely, yes.
+
+105
+00:07:50,420 --> 00:07:53,510
+打一针贝他霉素 患者在一两天内就生龙活虎了
+A shot of bittamusin and you're right as rain in a day or two.
+
+106
+00:07:53,590 --> 00:07:55,890
+镇静剂也可以缓解病情
+And sedatives alleviate the symptoms.
+
+107
+00:07:55,970 --> 00:07:58,470
+但我不知道我们的贝他霉素库存量能坚持多久
+But I don't know how long our stock of bittamusin will hold out,
+
+108
+00:07:58,560 --> 00:07:59,810
+所以我们应该先存起来
+so we should probably conserve it
+
+109
+00:07:59,890 --> 00:08:02,890
+等首发症状出现后 再用作预防注射
+and only inoculate after the first symptoms show.
+
+110
+00:08:02,980 --> 00:08:06,230
+这是民间传染病  罗伯特医生  所以应该由你来负责
+ADAMA: This is a civilian infection, Dr. Robert, so it's in your hands.
+
+111
+00:08:06,310 --> 00:08:09,480
+不过蒂罗尔和其他船员 必须接种疫苗以防生病
+But I want Tyrol and the crew immunized before they get sick.
+
+112
+00:08:09,570 --> 00:08:11,440
+不能有丝毫懈怠
+I don't need any downtime.
+
+113
+00:08:11,530 --> 00:08:15,700
+如果消毒后加强卫生 有些人就不会得病了
+If we disinfect everything and stress hygiene, some people won't get sick.
+
+114
+00:08:15,780 --> 00:08:18,280
+他们也就不需要药品
+And they won't need the medicine.
+
+115
+00:08:18,370 --> 00:08:20,290
+应该让每人都冲澡吧?
+Then shouldn't we get everyone to the showers?
+
+116
+00:08:20,370 --> 00:08:23,160
+尤其是撒纪特恩人 我们应该发出通知
+Especially the Sagittarons. We should make an announcement.
+
+117
+00:08:23,250 --> 00:08:28,420
+到此地步  我们不能再孤立他们了
+No. No, we don't want to single them out any more than we already have to.
+
+118
+00:08:28,500 --> 00:08:30,500
+否则就会引发骚乱
+We'll have a riot on our hands.
+
+119
+00:08:30,590 --> 00:08:34,090
+要我说 就先安排好撒纪特恩人
+Now, if it were up to me, I would say just get the Sagittarons settled
+
+120
+00:08:34,180 --> 00:08:38,140
+然后再处理其他民众
+and then deal with the civvies that have already arrived.
+
+121
+00:08:38,640 --> 00:08:42,430
+至少用不着担心给撒纪特恩人的药品会不够用
+Well, at least, you won't have to worry about having enough medicine for the Sagittarons.
+
+122
+00:08:42,520 --> 00:08:46,150
+对   他们中大部分人都会拒绝使用
+Yeah. Most of them are gonna refuse it.
+
+123
+00:08:46,230 --> 00:08:48,150
+有人会因此而死掉
+People are going to die.
+
+124
+00:08:48,230 --> 00:08:51,650
+3000年以来 药物一直被认作是不详之物
+For the last 3,000 years, medicine's been the great curse.
+
+125
+00:08:51,740 --> 00:08:55,240
+那是因为他们 是一群食古不化  专吃树根的蠢货
+That's because they're a bunch of stubborn root-sucking jackasses
+
+126
+00:08:55,320 --> 00:08:58,620
+只会守着千年的传统不放
+holding onto traditions that are 1,000 years old.
+
+127
+00:09:14,720 --> 00:09:16,090
+喝吧
+Drink this.
+
+128
+00:09:27,230 --> 00:09:32,480
+够臭吧?        恩  确实刺鼻
+Stink enough for you in here? Yeah, it's a really potent smell, yeah.
+
+129
+00:09:36,200 --> 00:09:41,780
+牛蒡根 撒纪特恩人用它来做镇静剂    
+That's burdock root. The Sagittarons use it as a calmative.
+
+130
+00:09:41,870 --> 00:09:42,910
+有效吗?
+Does it work?
+
+131
+00:09:42,990 --> 00:09:46,290
+哼  不知道  反正他们都难逃一死
+Hell, I don't know. They're all gonna die anyway.
+
+132
+00:09:51,750 --> 00:09:53,920
+审判不是真的吧
+ZAREK: Tell me there won't be a trial.
+
+133
+00:09:54,010 --> 00:09:58,430
+盖尤斯·波塔尔 将因重罪和叛国罪而受到审判
+Gaius Baltar will be tried for high crimes and treason.
+
+134
+00:09:58,510 --> 00:10:01,970
+仲裁庭的法官将会听取指证他的证据
+A tribunal of judges will hear the evidence against him.
+
+135
+00:10:02,060 --> 00:10:04,810
+将宣判对他的裁决 他会被判为有罪
+A verdict will be read. He will be found guilty
+
+136
+00:10:04,890 --> 00:10:08,440
+他最终会为他的行为负责
+and he will be finally held responsible for his actions.
+
+137
+00:10:09,730 --> 00:10:13,230
+如果你可以同我一样有些耐心
+If you can summon up a little patience, as I have done,
+
+138
+00:10:13,320 --> 00:10:15,440
+我们就会经受住这次考验
+we will get through this ordeal.
+
+139
+00:10:15,530 --> 00:10:19,780
+听我说 波塔尔会受到审判
+Listen to me. Baltar will get his trial.
+
+140
+00:10:19,860 --> 00:10:22,740
+而你得到的将会是一场飓风 (译注:暗指来势凶猛的考验)
+And this is what you'll get, a hurricane.
+
+141
+00:10:24,290 --> 00:10:25,580
+媒体将会如期而至 
+The media will descend on you
+
+142
+00:10:25,660 --> 00:10:28,460
+密切监视 质问你的一举一动
+and watch and scrutinize and question your every move.
+
+143
+00:10:28,540 --> 00:10:30,080
+教派冲突
+You will have sectarian violence.
+
+144
+00:10:30,170 --> 00:10:32,130
+刺杀行动
+You will have assassination attempts.
+
+145
+00:10:32,210 --> 00:10:36,670
+还有你从没见过的大规模内乱
+You will have civil unrest on a scale we've never seen.
+
+146
+00:10:36,760 --> 00:10:41,390
+工作  劳动 这支舰队的每项日常工作都将停止
+Work, labor, everyday routine in this fleet will come to a complete halt.
+
+147
+00:10:41,470 --> 00:10:45,680
+这场审判将会使整个舰队走向灭亡
+This trial is going to bring this entire fleet down.
+
+148
+00:10:45,770 --> 00:10:49,060
+副总统阁下 我们有相应的安全计划
+Mr. Vice President, we have a security plan in order,
+
+149
+00:10:49,140 --> 00:10:51,350
+包括迅速布置陆战队 
+which includes rapid marine deployment,
+
+150
+00:10:51,440 --> 00:10:53,560
+增加空中巡逻行动  安全卫士
+increased CAP operations, security details...
+
+151
+00:10:53,650 --> 00:10:55,770
+一场飓风  劳拉
+A hurricane, Laura.
+
+152
+00:11:01,490 --> 00:11:06,330
+换作是我 在审判期间 我会宣布戒严法
+If I were you, I'd declare martial law during the trial.
+
+153
+00:11:06,410 --> 00:11:11,500
+要活下来 光有耐心是不够的
+You're going to need a lot more than a little patience to survive.
+
+154
+00:11:11,580 --> 00:11:13,710
+有事叫我
+I'm here if you need me.
+
+155
+00:11:17,590 --> 00:11:20,340
+至友至敌
+Your best friend, your worst enemy.
+
+156
+00:11:21,550 --> 00:11:23,840
+我从没看过他这个样子
+I've never seen him like that.
+
+157
+00:11:27,850 --> 00:11:29,890
+他真的害怕了
+He was truly frightened.
+
+158
+00:11:36,150 --> 00:11:37,480
+我们没病
+MAN: We are not sick.
+
+159
+00:11:37,570 --> 00:11:40,860
+是狗撒把病带来的 把他们赶回去!
+Sagits brought the sickness with them. Send them back!
+
+160
+00:11:40,950 --> 00:11:43,030
+好  先生 你说我把他们赶到哪里去?
+Okay, sir. Where do you suggest that I send them?
+
+161
+00:11:43,110 --> 00:11:45,370
+不知道 你们自己想办法
+I don't know. Figure it out.
+
+162
+00:11:45,450 --> 00:11:48,330
+好 我们已经了解你们的问题了 我们会尽力而为
+Okay. Your concerns have been noted. We're going to do the best we can.
+
+163
+00:11:48,410 --> 00:11:50,120
+算了吧  鬼才信
+Yeah, right you will.
+
+164
+00:11:57,460 --> 00:11:59,880
+有什么事可以为您效劳吗?
+Yes. Can I help you?
+
+165
+00:11:59,960 --> 00:12:01,920
+我儿子死了
+My son is dead.
+
+166
+00:12:06,550 --> 00:12:08,060
+我很遗憾
+I'm sorry.
+
+167
+00:12:11,480 --> 00:12:14,230
+那是"胴穗"吧?
+It's a soma braid, right?
+
+168
+00:12:14,310 --> 00:12:19,020
+你们撒纪特恩人以为它能带来安康?
+You Sagittarons believe it's supposed to bring good health?
+
+169
+00:12:19,110 --> 00:12:21,030
+抱歉 仅限于此是不够的
+Look, I'm sorry. It's not enough.
+
+170
+00:12:21,110 --> 00:12:23,150
+如果你不治疗  这病是会出人命的
+If you don't treat the disease, it's fatal, okay?
+
+171
+00:12:23,240 --> 00:12:26,030
+这本不该发生
+This... This didn't have to happen.
+
+172
+00:12:26,120 --> 00:12:29,700
+不  这是必然的  他是被别人害死的
+Yes, it did. He was killed.
+
+173
+00:12:31,330 --> 00:12:35,250
+不是 女士 他是病死的 他的死是因为他本需要的是真正的药品
+No. Ma'am, he died. Okay? He died because he needed real medicine.
+
+174
+00:12:35,330 --> 00:12:38,380
+他的死 是因为我犯了一个错误
+He died because I made a mistake.
+
+175
+00:12:39,500 --> 00:12:41,170
+对
+Okay.
+
+176
+00:12:41,260 --> 00:12:44,630
+好  对  请让大家都知道
+Okay. Good. Yeah. Then, please, tell the others.
+
+177
+00:12:44,720 --> 00:12:48,300
+我会的 我会告诉他们不要相信他
+I will. I will tell them not to trust him.
+
+178
+00:12:48,390 --> 00:12:51,470
+他们警告过我要提防他 但我没听
+They warned me about him, but I wouldn't listen.
+
+179
+00:12:51,560 --> 00:12:53,850
+我不想让我儿子死掉
+I didn't want my son to die.
+
+180
+00:12:53,940 --> 00:12:57,100
+我挺而走险 去找罗伯特医生
+I took a chance. I went to Dr. Robert.
+
+181
+00:12:57,190 --> 00:13:01,230
+我让那医生给威利用了药
+I let the doctor give the medicine to Willie.
+
+182
+00:13:02,360 --> 00:13:06,700
+女士 你耽搁得太久了
+Ma'am, you waited too long.
+
+183
+00:13:06,780 --> 00:13:10,370
+威利生病前后不到12小时
+Willie had been sick for less than 12 hours.
+
+184
+00:13:12,410 --> 00:13:15,870
+他才19岁  就这么死了
+He was 19. He is dead.
+
+185
+00:13:15,960 --> 00:13:19,590
+是那医生害死了我的儿子
+That doctor killed my son.
+
+186
+00:13:42,570 --> 00:13:45,400
+昨晚又死一个人
+We lost another one last night.
+
+187
+00:13:45,490 --> 00:13:47,650
+对  威利·金
+Yeah. Willie King.
+
+188
+00:13:47,740 --> 00:13:52,740
+不是 一个三岁的小女孩 她的父母拒绝让我治疗她
+No. A three-year-old girl whose parents refused to let me treat her.
+
+189
+00:13:52,830 --> 00:13:55,540
+威利·金的母亲失去了威利·金
+Willie King's mother lost Willie King.
+
+190
+00:13:55,620 --> 00:13:58,790
+他的死真可惜 他来的时候你也看到了 
+It's a shame. That boy was a goner. You saw him when he came in here.
+
+191
+00:13:58,880 --> 00:14:02,130
+出现症状的三天后才来
+I mean, he was at least three days symptomatic.
+
+192
+00:14:03,420 --> 00:14:07,260
+这事你和他母亲解释过了?        是的  那是当然
+You explained this to the mother? Yes. Of course I did.
+
+193
+00:14:07,340 --> 00:14:09,340
+我能和她怎么说?
+I mean, what the hell am I supposed to say to her?
+
+194
+00:14:09,430 --> 00:14:13,430
+我很遗憾  女士  但如果你能 
+"Sorry, ma'am, but if you would have just turned the corner a little sooner
+
+195
+00:14:13,520 --> 00:14:17,230
+早些放弃那些迷信思想  你的儿子可能就有救了?
+"on your superstitious crap, we could have saved your son"?
+
+196
+00:14:17,350 --> 00:14:20,980
+把你的衬衫脱掉  好吗?        什么?
+Get your shirt off, would you? Excuse me?
+
+197
+00:14:21,060 --> 00:14:22,770
+我要给你打疫苗
+I'm going to vaccinate you.
+
+198
+00:14:22,860 --> 00:14:24,980
+可我没有病  我们不是在限量供应么
+But I'm not sick. I thought we were rationing.
+
+199
+00:14:25,070 --> 00:14:28,200
+你以为我要看到你躺在床上以后才来治你吗?
+You think I'm gonna wait until you're on your back for a day?
+
+200
+00:14:28,280 --> 00:14:30,530
+那样谁来帮我?
+Who the hell else is gonna help me around here?
+
+201
+00:14:30,620 --> 00:14:32,950
+好  那好吧
+Okay. All right.
+
+202
+00:14:33,030 --> 00:14:37,040
+我和泰聊过 他问我关于你的事
+I talked to Tigh. He was asking about you.
+
+203
+00:14:38,410 --> 00:14:40,620
+我告诉他你工作很出色
+I told him you were doing a hell of a job.
+
+204
+00:14:40,710 --> 00:14:43,380
+找不到第二个合适的人选
+I mean, I wouldn't wish this place on anybody.
+
+205
+00:14:43,460 --> 00:14:45,670
+来  准备好了?        恩
+Come on. You ready? Yeah.
+
+206
+00:14:45,760 --> 00:14:49,380
+可能会有点疼 好了
+This might sting a bit. You're done.
+
+207
+00:14:52,220 --> 00:14:54,220
+嗯
+Yes!
+
+208
+00:14:54,310 --> 00:14:56,470
+好了  "僵尸手"
+Awesome! All right, "Hands of Stone. "
+
+209
+00:14:56,600 --> 00:15:01,230
+让我看看你有什么能耐    玛吉  要投中哦
+Let me see what you got. CONNOR: Put it in the hole, Marge.
+
+210
+00:15:01,310 --> 00:15:05,480
+想知道我的秘诀是什么吗  康纳?  我把球洞当作是你的脸
+Want to know my secret, Connor? I pretend this thing is your face.
+
+211
+00:15:12,200 --> 00:15:15,410
+是梅罗莱克(病)大侠  大家快闪呐
+Hey. It's Mellorak Man. Everybody run.
+
+212
+00:15:15,490 --> 00:15:18,200
+别紧张 医生给我打过预防针了
+Relax. The doc dosed me.
+
+213
+00:15:18,330 --> 00:15:22,870
+听说下面挺惨烈的 除非你是撒纪特恩人
+I hear it's pretty rough down there, huh? Only if you're a Sagittaron.
+
+214
+00:15:24,170 --> 00:15:27,500
+那些垂死的人看起来好傻
+Dying, you know? It just... It just seems so senseless.
+
+215
+00:15:27,590 --> 00:15:30,630
+我是不会掉眼泪的
+Yeah, well, you'll get no tears from me.
+
+216
+00:15:30,720 --> 00:15:34,970
+我的兄弟们还要在他们的恶臭中 挥汗如雨就已经够烦的了
+Bad enough my gang's gotta sweat through their stench.
+
+217
+00:15:36,760 --> 00:15:39,140
+我有预感 等到有一天药品不够用的时候
+I have a feeling, one of these days, we're gonna wake up in the morning,
+
+218
+00:15:39,230 --> 00:15:41,270
+我会很恼火
+I'm gonna be really pissed 'cause we're out of meds
+
+219
+00:15:41,350 --> 00:15:43,600
+就因为那些混球开窍了 我们要和他们分享药品
+'cause those frakwads saw the light and now we gotta share.
+
+220
+00:15:43,690 --> 00:15:45,810
+你要唠叨个没完 还是投球?
+Will you babble or shoot?
+
+221
+00:15:47,030 --> 00:15:48,400
+好!
+Yeah!
+
+222
+00:15:48,480 --> 00:15:49,240
+那些宗教怪胎
+None of those religious 
+
+223
+00:15:49,241 --> 00:15:51,650
+在新卡布里卡上打赛昂人的时候没出一点力
+freaks lifted a finger down on New Caprica against the Cylons.
+
+224
+00:15:51,740 --> 00:15:53,490
+轮机长  算了吧
+Hey. Chief, knock it off.
+
+225
+00:15:53,570 --> 00:15:57,120
+许多抵抗军战士英勇牺牲
+Well, a lot of good Resistance people lost their lives.
+
+226
+00:15:57,200 --> 00:15:59,540
+我说过别再说了
+I said knock it off. All right?
+
+227
+00:16:00,200 --> 00:16:01,370
+哦
+Oh.
+
+228
+00:16:03,580 --> 00:16:05,830
+不好意思  小杜    没事
+Sorry, Dee. It's all right.
+
+229
+00:16:05,920 --> 00:16:09,880
+我比你们更有理由 生他们的气  我本身就是撒纪特恩人
+I have more of a reason to be mad at them than you do. I am Sagittaron.
+
+230
+00:16:10,010 --> 00:16:13,590
+他们中大部分人疑神疑鬼 愚蠢顽固  争强斗狠
+Most of them are paranoid, pigheaded and argumentative.
+
+231
+00:16:14,390 --> 00:16:16,970
+他们确实把罗伯特医生弄得惨兮兮的
+Yeah, well, they're sure making it miserable for Dr. Robert.
+
+232
+00:16:17,060 --> 00:16:20,390
+药物是令人憎恶的东西  是有违神旨的罪过
+Medicine's an abomination. It's a sin against the Gods.
+
+233
+00:16:20,480 --> 00:16:24,390
+医生在散布疾病 因为他们拒绝承认身体…
+Physicians are spreading disease because they refuse to acknowledge that the body...
+
+234
+00:16:24,560 --> 00:16:25,600
+进了
+APOLLO: There you go.
+
+235
+00:16:25,690 --> 00:16:29,400
+和心灵是神话的产物    这副身体不是神秘之物
+...and the mind are myths. Well, this body is no myth.
+
+236
+00:16:30,940 --> 00:16:34,660
+如果我病了 我就去找罗伯特医生    你不会生病的
+If I get sick, I'm gonna see Dr. Robert. You're not getting sick.
+
+237
+00:16:34,740 --> 00:16:35,820
+除了科特尔谁都可以 
+Anyone but Cottle.
+
+238
+00:16:35,910 --> 00:16:40,240
+那个四眼混蛋说不定会拿长钉代替针头
+The near-sighted bastard might as well use a spike instead of a needle.
+
+239
+00:16:43,040 --> 00:16:46,830
+那他们对你还挺好的?    恩  还好
+So, they're treating you well, then? Yeah. Well enough.
+
+240
+00:16:48,840 --> 00:16:52,510
+他们要花些时间才会切入正题  不是么?
+Take a while to get to the point, though, don't they?
+
+241
+00:16:52,590 --> 00:16:56,840
+六号 谢谢你能这么做
+Look, Six, I want to thank you for what you did.
+
+242
+00:16:58,260 --> 00:17:01,220
+虽然我还不清楚你这么做的原因
+I'm still not sure why you did it, though.
+
+243
+00:17:06,270 --> 00:17:07,730
+确实如此
+Exactly.
+
+244
+00:17:13,820 --> 00:17:15,900
+我们来这里干什么?
+What are we doing here?
+
+245
+00:17:17,120 --> 00:17:21,620
+你怎么可以对这些人动了恻隐之心?
+How could you possibly throw yourself on the mercy of these people?
+
+246
+00:17:21,700 --> 00:17:24,620
+可你却落得这份境遇  恩
+ATHENA: And now you're here. Yeah.
+
+247
+00:17:24,710 --> 00:17:28,420
+如果你想保住性命 只能和他们合作
+Your best chance of survival is to work with them.
+
+248
+00:17:28,500 --> 00:17:32,420
+就是说要帮他们把波塔尔的罪行昭之天下
+And that means to help them expose Baltar for his crimes.
+
+249
+00:17:34,880 --> 00:17:37,130
+我得走了
+Look, I gotta go,
+
+250
+00:17:37,220 --> 00:17:40,510
+我会为你找些衣服
+so I'm gonna look into getting some clothes for you.
+
+251
+00:17:40,600 --> 00:17:42,970
+照顾好自己
+Please, take care of yourself.
+
+252
+00:17:48,480 --> 00:17:49,730
+嗨
+Hey.
+
+253
+00:17:52,320 --> 00:17:54,480
+谢谢你来看我
+Thank you for the visit.
+
+254
+00:17:56,780 --> 00:18:00,450
+能让我有个伴 谢谢
+To have some company. Thank you.
+
+255
+00:18:01,830 --> 00:18:03,740
+恩  我担心你
+ATHENA: No. I care about you.
+
+256
+00:18:16,630 --> 00:18:19,340
+你以为他们中的每个人都担心你?
+BALTAR: Do you think any of them care about you?
+
+257
+00:18:24,850 --> 00:18:27,020
+我可没那么想
+I imagine they don't.
+
+258
+00:18:28,900 --> 00:18:31,480
+那你为什么还要来这里?
+So what are you doing here again?
+
+259
+00:18:33,270 --> 00:18:35,360
+我还在考虑这个问题
+I'm still trying to figure that out.
+
+260
+00:18:35,440 --> 00:18:38,150
+你是来救他的吧?
+So you're here to save him, are you?
+
+261
+00:18:39,030 --> 00:18:41,360
+我说过了我不知道
+I told you, I don't know.
+
+262
+00:18:42,740 --> 00:18:48,540
+你之所以来这里是因为你想成为人类
+You're here because you want to be human.
+
+263
+00:18:53,630 --> 00:18:56,210
+要成为人类可有个窍门
+There's a trick to being human.
+
+264
+00:18:58,760 --> 00:19:02,550
+你必须只求自保
+You have to think only about yourself.
+
+265
+00:19:16,400 --> 00:19:20,320
+你说她现在又是在做什么?    不知道
+ROSLIN: Okay. What do you think she's doing now? I don't know.
+
+266
+00:19:20,400 --> 00:19:22,860
+像是在自言自语或是和某人说话
+Though she's talking to something or someone, I don't know.
+
+267
+00:19:22,950 --> 00:19:25,240
+我以前也看到过她这个样子
+I've seen her do it before.
+
+268
+00:19:31,370 --> 00:19:33,380
+他要害死我    退后
+MAN: He'll kill me! Stay back!
+
+269
+00:19:33,460 --> 00:19:34,790
+够了
+Enough!
+
+270
+00:19:34,880 --> 00:19:37,090
+他要杀了我们
+WOMAN: He'll frakking kill us!
+
+271
+00:19:37,170 --> 00:19:39,840
+不能让他这么做了 他是凶手    不！
+MAN 2: You can't let him do it! He's a murderer! MAN 3: No!
+
+272
+00:19:39,920 --> 00:19:41,550
+后退!
+Stand back!
+
+273
+00:19:41,630 --> 00:19:43,390
+别碰我  抓住他
+MAN 4: Get off me! MAN 5: Get him!
+
+274
+00:19:43,470 --> 00:19:45,550
+后退
+Stay back!
+
+275
+00:19:46,930 --> 00:19:48,350
+都散开！
+GUARD: Break it up!
+
+276
+00:19:48,430 --> 00:19:49,600
+放开我!
+Get off me!
+
+277
+00:19:49,730 --> 00:19:52,270
+后退 都后退    离他远点!
+MAN 6: Stay back! Everybody back! MAN 7: Step away from him!
+
+278
+00:19:52,350 --> 00:19:54,230
+都后退
+Everybody back!
+
+279
+00:19:55,060 --> 00:19:57,940
+放开他  都后退
+Get off him! Now! Move back, people!
+
+280
+00:19:58,030 --> 00:20:00,110
+后退 立即后退
+Move back! Back away, now!
+
+281
+00:20:00,190 --> 00:20:02,200
+他害死了我父亲
+He killed my father!
+
+282
+00:20:02,280 --> 00:20:04,320
+我想救他 你个愚昧的笨蛋!
+I tried to help him, you ignorant fool!
+
+283
+00:20:04,410 --> 00:20:05,530
+放开我!
+Get off me!
+
+284
+00:20:05,620 --> 00:20:07,580
+到我后面去
+Okay. Get behind me.
+
+285
+00:20:10,200 --> 00:20:12,160
+都后退
+GUARD: Back down, everybody.
+
+286
+00:20:14,960 --> 00:20:18,040
+你给那位大爷打了预防针 可他还是死了?
+So you immunized the old man, but he still died.
+
+287
+00:20:19,170 --> 00:20:21,880
+巴克明斯特和他父亲同是原教派
+Buckminster and his father are fundamentalists.
+
+288
+00:20:21,970 --> 00:20:23,930
+为什么他们改变了主意来打预防针?
+What made them change their mind about getting immunized?
+
+289
+00:20:24,010 --> 00:20:27,180
+"他们改变了主意"?  谁说他们改变了主意?
+Change their mind? Who said they changed their mind?
+
+290
+00:20:27,310 --> 00:20:31,350
+我亲自给他注射的贝他霉素    未经他们同意?
+I administered the bittamusin on my own. Without their consent?
+
+291
+00:20:33,020 --> 00:20:34,310
+当时是深夜
+Look, it was the middle of the night.
+
+292
+00:20:34,400 --> 00:20:38,060
+我在巡诊  那老头疼得直叫
+I was doing my rounds and the old man was screaming in pain.
+
+293
+00:20:38,150 --> 00:20:40,730
+你说我能怎么办?
+I mean, what was I supposed to do?
+
+294
+00:20:42,030 --> 00:20:44,110
+我不明白 我们不是在限量供应吗?
+Okay, I don't understand. Aren't we rationing?
+
+295
+00:20:44,200 --> 00:20:46,620
+48小时后  就回天乏术了
+It was well after the 48 hours.
+
+296
+00:20:46,700 --> 00:20:51,040
+话是没错  但也不准确  人和人不同
+Yeah, that's right. But it's not exact. Everybody's different.
+
+297
+00:20:52,410 --> 00:20:53,620
+好吧  我承认 他已经奄奄一息了
+Okay. He was marginal.
+
+298
+00:20:53,710 --> 00:20:58,130
+我不会坐在这里  为我的尽职尽责而向你道歉
+Look, I'm not gonna sit here and apologize to you for doing my job.
+
+299
+00:20:58,210 --> 00:21:01,550
+那边还有两个派亢人  他们已经开始出现该症状了
+Now I got two Picons down there that are starting to show symptoms.
+
+300
+00:21:01,630 --> 00:21:05,260
+如果你不介意 我要去看一下他们的病情
+Now I'm gonna go treat them, if it's all right with you.
+
+301
+00:21:06,680 --> 00:21:08,680
+医生给他用药的时间 
+The doctor's version of when he administered the drug
+
+302
+00:21:08,760 --> 00:21:11,100
+与给金女士的相比有很大的出入
+greatly differed from that of Mrs. King.
+
+303
+00:21:11,180 --> 00:21:13,930
+谁?        那个女人  金
+Who? The woman. King.
+
+304
+00:21:14,020 --> 00:21:16,390
+我与您说过的  金女士  她的儿子在出现了症状后
+The one I told you about. Mrs. King. Her son showed symptoms.
+
+305
+00:21:16,480 --> 00:21:20,320
+她马上带他去罗伯特那里医治  但那孩子还是死了
+She immediately took him to Robert for treatment. The boy still died.
+
+306
+00:21:20,400 --> 00:21:21,130
+另一件病例中 
+In the other case, 
+
+307
+00:21:21,131 --> 00:21:23,530
+罗伯特在未经那个撒纪特恩人许可的情况下就治疗他
+Robert treated a Sagittaron without the man's consent.
+
+308
+00:21:23,610 --> 00:21:26,570
+我们从一开始 就不应该对他们这样
+That's something we probably should have done to all of them in the first place.
+
+309
+00:21:26,660 --> 00:21:28,410
+不然这里早就没有这种病了
+This disease would have been gone by now.
+
+310
+00:21:28,490 --> 00:21:29,530
+我们之所以没这么做 
+The only reason we didn't
+
+311
+00:21:29,620 --> 00:21:32,660
+是因为尊重撒纪特恩人的风俗
+is we're trying to respect the customs of the Sagittarons.
+
+312
+00:21:32,750 --> 00:21:35,290
+说的就是这点 他并没尊重他们的风俗
+But that's the point. He didn't respect them, sir.
+
+313
+00:21:35,370 --> 00:21:37,370
+经过罗伯特医治的人 可能会死掉
+People could be dying under Robert's care.
+
+314
+00:21:37,460 --> 00:21:41,380
+每天经过我医治的人也会死掉 这该死的差事就是这样
+People die under my care every day. It goes with the damn job.
+
+315
+00:21:41,460 --> 00:21:44,090
+害人不算在内    "害人"?
+Killing doesn't. Killing?
+
+316
+00:21:44,170 --> 00:21:46,840
+你这可就太过分了
+You are way out of line.
+
+317
+00:21:46,930 --> 00:21:49,300
+麦克·罗伯特 可不应当受到这种对待
+Mike Robert deserves better than this.
+
+318
+00:21:49,390 --> 00:21:53,140
+就算是我弄错了 就算他没对这些人做出什么 有损医德的事
+Even if I'm wrong, even if he isn't treating some of these people unethically,
+
+319
+00:21:53,220 --> 00:21:55,980
+我担心 他还是造成了一定影响
+I'm concerned he's created a situation down there.
+
+320
+00:21:56,060 --> 00:21:57,480
+不好的影响
+It's bad.
+
+321
+00:21:58,850 --> 00:22:00,270
+上尉
+Captain,
+
+322
+00:22:02,070 --> 00:22:05,650
+我这里有一位锒铛入狱的前殖民地总统
+I have the former President of the Colonies sitting in a prison cell,
+
+323
+00:22:05,740 --> 00:22:08,360
+一个被监禁的赛昂女人
+a Cylon woman is in custody,
+
+324
+00:22:08,450 --> 00:22:12,990
+还有一群恨不得将他们五马分尸的民众
+and a population that would love nothing more than to tear both of them apart.
+
+325
+00:22:13,080 --> 00:22:16,830
+我的战舰上人满为患  手头上又出现了传染病
+My ship is overcrowded and I have an epidemic on my hands.
+
+326
+00:22:16,910 --> 00:22:22,210
+现在的问题是你是否能胜任这份工作?
+Now the question is are you capable of doing your job?
+
+327
+00:22:22,290 --> 00:22:26,050
+是否能停止这些无根无据的指控?
+And are you gonna stop making these unfounded accusations?
+
+328
+00:22:27,430 --> 00:22:28,680
+能吗?
+Are you?
+
+329
+00:22:33,430 --> 00:22:36,310
+能  长官        解散
+Yes, sir. Dismissed.
+
+330
+00:22:49,410 --> 00:22:50,950
+阿格森!
+TIGH: Agathon!
+
+331
+00:22:57,080 --> 00:22:59,580
+就此罢手吧  西洛
+Why don't you knock it off, Helo?
+
+332
+00:22:59,670 --> 00:23:03,710
+别吃饱了撑的再找医生的麻烦了 这么做对你没好处
+Get your teeth out of the doc's ass. It's not doing you any good.
+
+333
+00:23:03,790 --> 00:23:08,670
+恕我直言  长官  我认为麦克·罗伯特可能在害人
+With all due respect, sir, I think Michael Robert might be hurting people.
+
+334
+00:23:08,760 --> 00:23:11,260
+据我所知 他是唯一一个…
+He is the only one who's had anything good to say about you
+
+335
+00:23:11,340 --> 00:23:13,890
+说你好话的人
+in as long as I can remember.
+
+336
+00:23:13,970 --> 00:23:16,770
+你把你仅存的一点可信度 
+You may as well take whatever credibility you have left
+
+337
+00:23:16,850 --> 00:23:18,220
+也拱手送了出去
+and chuck it out an airlock.
+
+338
+00:23:18,310 --> 00:23:21,350
+你真要替这些疯子出头?
+You seriously want to stand up for these crazy frakking people?
+
+339
+00:23:21,440 --> 00:23:23,230
+你哪根筋不对了?
+What is it with you?
+
+340
+00:23:23,310 --> 00:23:27,900
+你就是喜欢隔岸观火  对吧?
+You just like being on the outside looking in, don't you?
+
+341
+00:23:27,990 --> 00:23:29,400
+我太不明白 你这句话是什么意思
+I don't quite know what you mean by that, sir.
+
+342
+00:23:29,490 --> 00:23:32,910
+除非你是在说我的妻子 旧事重提?
+Unless you're referring to my wife. Again.
+
+343
+00:23:32,990 --> 00:23:35,666
+麦克·罗伯特是顶天立地的汉子 
+Mike Robert is a stand-up guy. 
+
+344
+00:23:35,667 --> 00:23:38,700
+卡布里卡人  自己人 我信赖的人
+A Caprican. One of our own. A man I can trust.
+
+345
+00:23:38,790 --> 00:23:40,960
+在新卡布里卡 他与抵抗军共同作战
+On New Caprica, he worked with the Resistance.
+
+346
+00:23:41,040 --> 00:23:44,330
+他修补了我的眼睛 他与敌人作斗争
+He patched up my eye. He fought the enemy,
+
+347
+00:23:44,420 --> 00:23:48,000
+而你这时候正和你那赛昂老婆在被窝里亲亲我我
+while you were snuggled up in bed with your Cylon wife every night...
+
+348
+00:23:48,590 --> 00:23:49,880
+上校!
+GUARD: Colonel!
+
+349
+00:23:52,180 --> 00:23:54,220
+还好吧?
+You okay?
+
+350
+00:23:58,600 --> 00:24:04,150
+你他妈还是很在意你的朋友们的想法的?
+So you do give a frak what your friends think.
+
+351
+00:24:04,230 --> 00:24:06,980
+很好 就该这样
+Good for you. That's how it should be.
+
+352
+00:24:07,070 --> 00:24:10,740
+但你要知道 我他妈也在乎
+But you know what? I give a frak, too.
+
+353
+00:24:10,820 --> 00:24:12,780
+我也在乎朋友  在乎对朋友的忠诚
+About friends, about loyalty.
+
+354
+00:24:12,860 --> 00:24:17,330
+你再去败坏老麦的名声  我就和你没完
+You keep soiling Mike Robert's good name and we are gonna finish this.
+
+355
+00:24:18,990 --> 00:24:21,120
+怎么样?
+How does that sound to you?
+
+356
+00:24:26,130 --> 00:24:29,250
+去让医生看一下你的手吧
+Better have the doctor take a look at that hand, huh?
+
+357
+00:24:43,770 --> 00:24:46,150
+抱歉  你要先等等
+HELO: Sorry, people, you're gonna have to wait.
+
+358
+00:24:46,230 --> 00:24:47,520
+借过  借过
+Excuse me. Excuse me.
+
+359
+00:24:47,610 --> 00:24:51,860
+15分钟  各位  我在15分钟后回来  抱歉
+Fifteen minutes, people. I'll be back in 15 minutes. I'm sorry.
+
+360
+00:25:04,790 --> 00:25:08,130
+借过  借过  先生  把手拿开
+Excuse me. Excuse me. Sir, get your hands off me.
+
+361
+00:25:11,170 --> 00:25:13,300
+莎伦    西洛
+Sharon? Helo!
+
+362
+00:25:13,380 --> 00:25:14,760
+出什么事了?  赫拉怎么样了?
+What's going on? How's Hera?
+
+363
+00:25:14,840 --> 00:25:16,470
+什么意思?
+What do you mean, "How's Hera?"
+
+364
+00:25:16,550 --> 00:25:19,680
+她在大约一小时前生病了 他们把我从巡逻任务中换了下来
+She got sick about an hour ago. They pulled me off CAP.
+
+365
+00:25:19,760 --> 00:25:21,140
+什么意思? 没人告诉我啊
+What are you talking about? No one told me.
+
+366
+00:25:21,220 --> 00:25:23,850
+他们把她送到罗伯特医生那里了
+They sent her to Dr. Robert.
+
+367
+00:25:36,360 --> 00:25:38,620
+我还没考虑好  她是否真的需要打针
+Okay. You know what? I don't know if she needs this.
+
+368
+00:25:38,700 --> 00:25:41,830
+这是大事  她会死的
+Hey, this is serious. She could die from this.
+
+369
+00:25:42,700 --> 00:25:46,330
+好了  来吧  没事  没事  看这个
+All right, here we go. Here we go. Okay. It's all right. Look at this.
+
+370
+00:25:46,420 --> 00:25:49,170
+看这个 你的玩具在这里
+Look at this. Here. Here's your toy.
+
+371
+00:25:49,250 --> 00:25:51,090
+好孩子  好孩子
+Good girl. Good girl.
+
+372
+00:25:53,090 --> 00:25:56,050
+这些是口服镇静剂
+Now, these are a sedative in pill form. Okay.
+
+373
+00:25:56,130 --> 00:25:59,090
+每六小时一片 压碎后服用
+Just give her a half every six hours. Just crush it up.
+
+374
+00:25:59,180 --> 00:26:00,390
+好的
+Okay. Okay?
+
+375
+00:26:00,470 --> 00:26:02,890
+她应该没什么事吧?    没事的 你可以带她回家了
+She'll be okay, though? She'll be fine. You can take her home.
+
+376
+00:26:02,970 --> 00:26:05,230
+谢谢你  医生
+Thank you, Doctor. Okay.
+
+377
+00:26:05,310 --> 00:26:07,520
+拜拜
+Bye-bye. Say bye.
+
+378
+00:26:09,810 --> 00:26:11,690
+好  拜拜
+Good night. Bye-bye.
+
+379
+00:26:11,770 --> 00:26:14,360
+我们要走了  快说拜拜
+ATHENA: Good, we're done. Say bye-bye.
+
+380
+00:26:14,440 --> 00:26:16,030
+拜拜
+Bye-bye.
+
+381
+00:26:18,780 --> 00:26:21,910
+她不会有事的
+She'll be fine. All right?
+
+382
+00:26:24,750 --> 00:26:26,160
+知道了吧?
+Okay.
+
+383
+00:26:26,460 --> 00:26:27,580
+好
+Oh, um...
+
+384
+00:26:27,670 --> 00:26:31,580
+帮我把这个给金女士好吗?    这是…
+Listen, would you give this to Mrs. King? This is...
+
+385
+00:26:31,670 --> 00:26:35,420
+她儿子的 应该还给她
+It belonged to her son. I know she'd want it back.
+
+386
+00:26:41,140 --> 00:26:42,470
+好吗?
+All right?
+
+387
+00:27:01,620 --> 00:27:02,780
+你好
+Hi.
+
+388
+00:27:05,580 --> 00:27:08,410
+罗伯特医生让我把这个还给你
+Dr. Robert gave me this to give to you.
+
+389
+00:27:12,460 --> 00:27:14,920
+这是他给你的?
+He gave you this?
+
+390
+00:27:22,010 --> 00:27:24,390
+你的女儿怎么样了?
+How is your daughter?
+
+391
+00:27:24,470 --> 00:27:26,930
+挺好的  谢谢        那就好
+She's fine, thanks. Good.
+
+392
+00:27:29,640 --> 00:27:32,060
+金女士 请留步
+Mrs. King? Please.
+
+393
+00:27:35,570 --> 00:27:37,730
+我要问你一些事
+I need to ask you something.
+
+394
+00:27:49,410 --> 00:27:53,000
+如果你认为罗伯特医生是个危险人物 为什么要让他给你儿子看病
+If you thought Dr. Robert was dangerous, why let him treat your son?
+
+395
+00:27:53,080 --> 00:27:55,750
+你说过已经有人警告过你了
+I mean, you said you were warned.
+
+396
+00:27:55,840 --> 00:27:59,090
+我无法相信一个人的心里能藏有那么大仇恨
+I couldn't believe anyone could have that much hate inside of them.
+
+397
+00:27:59,170 --> 00:28:02,300
+可你也知道...        我要说的话已经说完了
+But you understand how... I'm through talking.
+
+398
+00:28:02,380 --> 00:28:05,220
+就算再说 威利也不会活过来了
+Talking isn't going to bring Willie back.
+
+399
+00:28:06,140 --> 00:28:08,600
+我看你应该离开了
+I think you should leave now.
+
+400
+00:28:13,480 --> 00:28:15,270
+金女士  我…
+Mrs. King, I...
+
+401
+00:28:18,940 --> 00:28:20,440
+抱歉
+I'm sorry.
+
+402
+00:28:34,630 --> 00:28:36,250
+看你一副怒不可遏的样子
+You seem angry.
+
+403
+00:28:38,750 --> 00:28:41,760
+没有  只是… 工作上的事
+I'm not. I'm just... Work.
+
+404
+00:28:43,180 --> 00:28:46,840
+不喜欢你的工作没关系 不喜欢就直说 没关系
+It's okay that you hate your job. It's okay to admit it, too.
+
+405
+00:28:46,930 --> 00:28:49,600
+不是工作本身的事 这个差事费力不讨好 
+It's not the job. I know the job sucks.
+
+406
+00:28:49,680 --> 00:28:51,390
+不用你说我也知道
+I don't need to be reminded of it.
+
+407
+00:28:51,480 --> 00:28:52,810
+那好
+Okay.
+
+408
+00:28:54,230 --> 00:28:57,270
+那是什么事?
+Then what is it? Look.
+
+409
+00:28:57,360 --> 00:29:00,570
+我每天都能看到那些事 不想看到都不行
+It's what I see every day, okay? It's hard to not see it.
+
+410
+00:29:00,650 --> 00:29:01,980
+看到什么事?
+See what?
+
+411
+00:29:02,990 --> 00:29:05,990
+说话  卡尔    我不知道
+Talk to me, Karl. I don't know, I keep doing it.
+
+412
+00:29:06,070 --> 00:29:09,910
+可总是这样 干什么事都是事与愿违
+You know, I keep doing it. I keep ending up on the wrong side of everything.
+
+413
+00:29:09,990 --> 00:29:13,120
+可能泰说得对 可能我就想这样
+You know, maybe Tigh's right. Maybe I want it that way.
+
+414
+00:29:13,210 --> 00:29:15,080
+如果让我做文案工作 并不因为这是我的专长
+What if I'm flying a desk, not because I'm good at it,
+
+415
+00:29:15,170 --> 00:29:16,790
+或我是合适人选
+not because I'm the right guy for the job,
+
+416
+00:29:16,880 --> 00:29:19,920
+而是因为众所周知 这就是…
+but because it's the right punishment for the guy who crosses the line
+
+417
+00:29:20,000 --> 00:29:21,550
+对我所做所为的惩罚呢
+and everybody knows it?
+
+418
+00:29:21,630 --> 00:29:23,800
+也许我就该呆在道格维尔
+Maybe I belong in Dogsville.
+
+419
+00:29:23,880 --> 00:29:25,930
+你是说...
+So, you're saying...
+
+420
+00:29:28,680 --> 00:29:30,260
+算了
+Just leave it.
+
+421
+00:29:31,390 --> 00:29:32,640
+"算了"是什么意思?
+What does that mean, "Just leave it"?
+
+422
+00:29:32,720 --> 00:29:34,600
+意思是管理这些人是你的职责所在
+It means it's your job to manage these people, Helo,
+
+423
+00:29:34,690 --> 00:29:37,020
+你必须去做
+and you just gotta do it.
+
+424
+00:29:42,320 --> 00:29:44,070
+恩
+Yeah. You know what?
+
+425
+00:29:45,700 --> 00:29:47,860
+你说对了 是我自己的错
+You're right. It's me.
+
+426
+00:29:49,280 --> 00:29:50,990
+我自己想不开
+It's all in my frakking head.
+
+427
+00:29:51,080 --> 00:29:52,830
+我没那么说
+I didn't say that.
+
+428
+00:29:53,910 --> 00:29:56,500
+去哪里?      不知道
+Where are you going? I don't know.
+
+429
+00:30:17,900 --> 00:30:19,060
+医生?
+Doc?
+
+430
+00:31:21,330 --> 00:31:25,040
+上床睡一会吧  西洛 那样还能多睡会
+You ought to try a bed, Helo. You'll get more sleep that way.
+
+431
+00:31:25,130 --> 00:31:27,550
+他在暗害他们  这上面写得清清楚楚
+He's killing them. It's right here.
+
+432
+00:31:27,630 --> 00:31:29,550
+你快给我出去
+You get your righteous ass out of here right now,
+
+433
+00:31:29,630 --> 00:31:32,510
+不然我就让老头子关你禁闭 不让你出来
+before I have the old man lock you up and throw away the key.
+
+434
+00:31:32,590 --> 00:31:35,720
+不  听我说  他在新卡布里卡上就害死了他们
+No, listen to me. He killed them, on New Caprica.
+
+435
+00:31:35,810 --> 00:31:40,640
+看这里 这名男性来时只是咳嗽 死因却是心脏衰竭
+Look. Guy goes in for a cough, he dies of heart failure.
+
+436
+00:31:40,730 --> 00:31:42,230
+你自己看
+Here. See for yourself!
+
+437
+00:31:42,310 --> 00:31:44,230
+看这个 这名女性只是阑尾炎 
+This one. Woman had simple appendicitis.
+
+438
+00:31:44,310 --> 00:31:45,770
+却死在了手术台上
+She died on the operating table.
+
+439
+00:31:45,860 --> 00:31:48,110
+他医治的派亢人 死亡率为12%
+Of the Picons he treated? Twelve percent of them died.
+
+440
+00:31:48,190 --> 00:31:52,200
+卡布里卡人呢  他喜欢卡布里卡人  死亡率是6%
+Capricans. He likes Capricans. The mortality rate was six percent.
+
+441
+00:31:52,280 --> 00:31:56,030
+撒纪特恩人的死亡率是90%  90%的撒纪特恩人死在了…
+Sagittarons? Ninety percent. Ninety percent of the Sagittarons died...
+
+442
+00:31:56,120 --> 00:31:59,080
+我不会听信这些的 明白吗?
+I'm not going to listen to this! You hear me?
+
+443
+00:31:59,160 --> 00:32:01,080
+那个人在下面忙得不可开交
+That man has his hands full down there.
+
+444
+00:32:01,160 --> 00:32:04,790
+他针对的是撒纪特恩人 你就置之不理吗?
+He's singling out Sagittarons! That doesn't bother you?
+
+445
+00:32:04,920 --> 00:32:06,460
+他到底…    医生  你不管吗?
+What exactly... Doctor, that doesn't bother you?
+
+446
+00:32:06,590 --> 00:32:09,010
+他到底在干什么?        不知道 我又不是医生
+What exactly is he doing? I don't know. I'm not a doctor.
+
+447
+00:32:09,090 --> 00:32:11,420
+这是你说的第一句清醒话
+Well, now that's the first sensible thing you've said yet.
+
+448
+00:32:11,510 --> 00:32:13,380
+他给他们开的不是药品
+Listen to me. I don't think he's giving them the medicine.
+
+449
+00:32:13,470 --> 00:32:15,930
+这里有鬼  他在搞鬼
+Something. He's doing something!
+
+450
+00:32:16,010 --> 00:32:18,850
+我的天 你还真是没完没了
+My Gods! You're not gonna let it go, are you?
+
+451
+00:32:18,930 --> 00:32:23,190
+求你 能为金女士的儿子验尸吗 看他是怎么死的
+Please. Can you do an autopsy on Mrs. King's son to see how he died?
+
+452
+00:32:25,730 --> 00:32:30,440
+我保证  检查后 我就不管了
+I'll let it go. I will. I promise. I will let it go. Just check.
+
+453
+00:32:30,530 --> 00:32:33,950
+我验过了 检查过金女士的儿子
+I did. I checked King's son.
+
+454
+00:32:34,030 --> 00:32:37,620
+梅罗莱克病 他的体内有贝他霉素
+Mellorak sickness. He had bittamusin in his system.
+
+455
+00:32:40,040 --> 00:32:42,120
+行了吗?  收手吧
+All right? Now that's it.
+
+456
+00:32:42,210 --> 00:32:45,670
+别管这件事了 出去!
+Now you just leave it. And get out of here!
+
+457
+00:33:15,700 --> 00:33:19,410
+医生 我觉得不太舒服
+Hey, Doc? I don't really feel so good.
+
+458
+00:33:21,080 --> 00:33:23,910
+能给我注射一些贝他霉素吗?
+Think I can get some of that bittamusin?
+
+459
+00:33:50,190 --> 00:33:51,570
+谁啊?
+ATHENA: Who is it?
+
+460
+00:33:58,450 --> 00:34:00,620
+赫拉 没事
+Hey, Hera. It's okay.
+
+461
+00:34:02,950 --> 00:34:06,210
+金女士?        你的那位军人朋友杜亚拉
+Mrs. King? Your friend, the soldier, Dualla.
+
+462
+00:34:06,290 --> 00:34:08,830
+她生病了 她去看了医生  然后…
+She's sick. She went to the doctor. She went...
+
+463
+00:34:08,960 --> 00:34:11,880
+慢点说  什么…      不  你听我说
+Slow down, slow down. What? No, you listen to me.
+
+464
+00:34:11,960 --> 00:34:13,550
+今晚又有两名撒纪特恩人 
+We lost two more tonight,
+
+465
+00:34:13,630 --> 00:34:16,380
+在接受那杀人魔的治疗后死掉了
+Sagittarons who let that murderer treat them.
+
+466
+00:34:16,470 --> 00:34:18,430
+你得想想办法
+You have to do something.
+
+467
+00:34:18,510 --> 00:34:20,340
+她来这里干什么?
+Excuse me. What is she doing here?
+
+468
+00:34:20,430 --> 00:34:21,720
+她在那里  女士
+GUARD 1: There she is! Ma'am?
+
+469
+00:34:21,810 --> 00:34:24,600
+你不可以来这里  走吧  快走
+You're not supposed to be here. Let's go. Now.
+
+470
+00:34:27,310 --> 00:34:32,060
+抱歉  上尉  他妈的难民  不知道她怎么溜进来的
+Sorry, Captain. Frakking refugees. I don't know how she snuck through.
+
+471
+00:34:32,150 --> 00:34:33,650
+早安  长官
+Morning, Sir.
+
+472
+00:34:48,250 --> 00:34:52,710
+别去 别再折腾了 莎伦  这可是杜亚拉
+Don't. Don't even think it. Sharon, it's Dualla.
+
+473
+00:34:52,790 --> 00:34:55,090
+杜亚拉在下面    她有丈夫
+Dualla went down there. She has a husband.
+
+474
+00:34:55,170 --> 00:34:56,920
+不错 他出去巡逻了
+Yeah, and he's out flying CAP.
+
+475
+00:34:57,010 --> 00:35:00,800
+她不会有事的 她吃了药 就会没事的
+She'll be fine. She'll take her meds. She'll be fine.
+
+476
+00:35:03,350 --> 00:35:06,560
+你知道船上的人都在说什么吗?  你和那些撒纪特恩人
+You know what's all over the ship? You and the Sagittarons.
+
+477
+00:35:06,640 --> 00:35:09,520
+你对他们有求必应
+How you might actually be listening to them.
+
+478
+00:35:10,400 --> 00:35:12,190
+那是我的工作
+That's my job.
+
+479
+00:35:12,270 --> 00:35:15,270
+他们要死了 是因为他们拒绝服药
+They're dying because they're refusing medication, Karl.
+
+480
+00:35:15,360 --> 00:35:17,900
+你想让我视而不见吗?  是吗?
+You want me to look the other way. Is that it? Is that it?
+
+481
+00:35:18,030 --> 00:35:20,240
+我们的女儿没事 这才是最重要的?      不是
+Our daughter's fine. That's all that matters? No!
+
+482
+00:35:20,320 --> 00:35:22,410
+要不然就是 只要大家都讨厌撒纪特恩人
+Or is it because as long as everyone hates the Sagittarons,
+
+483
+00:35:22,490 --> 00:35:25,280
+他们就会暂时忘记你是赛昂人?
+they'll forget you're a Cylon for five minutes.
+
+484
+00:35:25,370 --> 00:35:27,580
+你他妈的给我少说两句
+You shut the frak up.
+
+485
+00:35:29,370 --> 00:35:31,460
+对 我是想让你别去管
+Yeah. I want you to look the other way.
+
+486
+00:35:31,540 --> 00:35:33,880
+我每天都在这艘船上努力拼搏 想让大家接受我
+I have to fight every single day on this ship to be accepted.
+
+487
+00:35:33,960 --> 00:35:38,260
+这件事与你无关 知道吗?
+This has nothing to do with you! Okay?
+
+488
+00:35:38,340 --> 00:35:40,130
+你以为我是那种人?  我成了那种人吗?
+You think that's who I am? That's what I've become?
+
+489
+00:35:40,220 --> 00:35:44,050
+"娶了一个赛昂人的男人" 就算是我的代名词?
+That's my defining characteristic? The guy married to a Cylon?
+
+490
+00:35:49,560 --> 00:35:50,810
+这家伙绝非善类
+This guy's dirty.
+
+491
+00:35:50,890 --> 00:35:52,690
+我看他是个骗子 他在害人
+I think he's a liar and I think he's killing people
+
+492
+00:35:52,770 --> 00:35:54,400
+因为他是一个种族主义的混蛋
+because he's a racist son of a bitch.
+
+493
+00:36:01,610 --> 00:36:03,570
+让开  让开!
+Make a hole! Get out of the way!
+
+494
+00:36:03,660 --> 00:36:06,080
+让开  让开
+Get out of the way! Get out of the way!
+
+495
+00:36:19,550 --> 00:36:21,420
+小杜?  小杜?
+Dee? Dee?
+
+496
+00:36:22,550 --> 00:36:24,090
+杜亚拉?
+Dualla?
+
+497
+00:36:29,140 --> 00:36:30,470
+杜亚拉?
+Dualla?
+
+498
+00:36:36,520 --> 00:36:39,820
+不 不  不  不
+No. No, no, no, no!
+
+499
+00:36:43,240 --> 00:36:44,820
+杜亚拉
+Dualla. Hey!
+
+500
+00:36:47,910 --> 00:36:50,660
+你怎么会在这里?
+Hey. What are you doing down here?
+
+501
+00:36:50,750 --> 00:36:57,130
+我让罗伯特医生给我开了一些药 结果我就晕了过去
+Dr. Robert, he gave me something that kicked the frak out of me.
+
+502
+00:36:59,300 --> 00:37:01,710
+李在哪?      我们这就去见他 来吧  
+Where's Lee? We're gonna go see him. Come on.
+
+503
+00:37:01,800 --> 00:37:03,550
+带你去见科特尔
+Come on. Gotta take you to Cottle.
+
+504
+00:37:03,630 --> 00:37:05,260
+不用   不  来吧
+No. Yeah, yeah, yeah. Come on.
+
+505
+00:37:05,340 --> 00:37:07,640
+他是个"僵尸手"      我知道  来吧
+He's got hands of stone. I know. I know. Come on.
+
+506
+00:37:07,720 --> 00:37:09,390
+你想干什么?
+Hey. What the hell are you doing here?
+
+507
+00:37:09,470 --> 00:37:10,810
+我要带她走
+She's coming with me.
+
+508
+00:37:10,890 --> 00:37:13,230
+不行 以她的状态哪都去不了
+No, she's not. She's in no condition to go anywhere.
+
+509
+00:37:13,310 --> 00:37:14,890
+我要带她到科特尔那里确诊
+I'm taking her to Cottle, just to be sure.
+
+510
+00:37:14,980 --> 00:37:17,440
+确诊是什么意思?  你给我出去!
+What do you mean, be... Hey, hey! Get the hell out of here!
+
+511
+00:37:17,520 --> 00:37:20,440
+医生  你他妈快给我让道!
+Get the frak out of my way, Doctor! Now!
+
+512
+00:37:21,990 --> 00:37:23,990
+来  走吧
+Come on, honey. Come on. No.
+
+513
+00:37:24,070 --> 00:37:25,450
+警卫!
+Security!
+
+514
+00:37:30,160 --> 00:37:33,540
+阿格森疯了 他要伤害我的病人
+Agathon, he's lost it. I don't know. He's hurting one of my patients.
+
+515
+00:37:33,620 --> 00:37:35,080
+他在毒害她 我要带她去见科特尔
+He poisoned her. I'm taking her to Cottle.
+
+516
+00:37:35,170 --> 00:37:36,170
+叫副官来
+ROBERT: Get the XO.
+
+517
+00:37:36,250 --> 00:37:37,250
+别管我
+DUALLA: Leave me alone.
+
+518
+00:37:37,330 --> 00:37:38,420
+长官  别让科特尔来
+Sir. No. Not Cottle.
+
+519
+00:37:38,500 --> 00:37:39,960
+别管我 
+Please just leave me alone! No.
+
+520
+00:37:44,930 --> 00:37:47,640
+上尉  出了什么事?    别管我
+Captain, what's going on, sir? Leave me alone.
+
+521
+00:37:47,720 --> 00:37:49,600
+上尉!  我想睡觉
+Captain! I wanna sleep.
+
+522
+00:37:49,680 --> 00:37:51,010
+别  别睡  我们得继续走
+No, no, no, Dee. Come on, we gotta go.
+
+523
+00:37:51,140 --> 00:37:52,510
+上尉 她不想走    我们得走
+Captain, she doesn't want to go. We gotta go.
+
+524
+00:37:52,640 --> 00:37:56,440
+长官  她说她不想走      把你的手拿开  中士!
+Sir! She says she doesn't want to go! Get your hand off me, Sergeant!
+
+525
+00:37:56,520 --> 00:37:57,940
+站住 长官
+You stand down, sir!
+
+526
+00:37:58,020 --> 00:38:00,440
+把你的手拿开!
+Get your frakking hands off me!
+
+527
+00:38:01,860 --> 00:38:04,440
+把枪给我拿开
+Get your gun out of my face!
+
+528
+00:38:04,530 --> 00:38:05,820
+冷静
+Cool it!
+
+529
+00:38:05,900 --> 00:38:09,110
+我不知道你在搞什么鬼 或是要向谁炫耀什么
+I don't know what kind of a crusade you're on or who you're trying to impress,
+
+530
+00:38:09,200 --> 00:38:11,120
+但你这么做根本没用
+but it seriously is not working.
+
+531
+00:38:11,200 --> 00:38:13,040
+你在害人 我知道你在害人!
+You're killing them, Robert. I know you're doing it.
+
+532
+00:38:13,120 --> 00:38:14,950
+退后
+Stand down!
+
+533
+00:38:15,040 --> 00:38:16,210
+少
+Saul.
+
+534
+00:38:17,750 --> 00:38:20,130
+你和我说过他人很怪 可你没说他是个危险
+You told me he was a flake. You didn't tell me he was dangerous!
+
+535
+00:38:20,210 --> 00:38:22,000
+妈的  闭嘴!
+Shut the frak up!
+
+536
+00:38:29,010 --> 00:38:30,550
+她的情况怎么样?
+How is she?
+
+537
+00:38:32,390 --> 00:38:34,390
+她服用了镇静剂 但无大碍
+She's been sedated. But she's okay.
+
+538
+00:38:34,470 --> 00:38:36,560
+你不信他的那套鬼话吧?
+Wait a minute, wait a minute. You don't believe him, do you?
+
+539
+00:38:36,640 --> 00:38:39,100
+他的妄想症很严重 需要去看医生
+He's seriously delusional. He needs help.
+
+540
+00:38:39,190 --> 00:38:42,190
+对 还不如直接杀了他
+Yeah. And we should have given it to him.
+
+541
+00:38:45,280 --> 00:38:46,280
+医生
+HELO: Doc?
+
+542
+00:38:46,360 --> 00:38:50,240
+直到几个小时前  我才去核查威利的血样
+I didn't check Willie's blood until a couple of hours ago.
+
+543
+00:38:50,320 --> 00:38:54,370
+在此之前我累得要命 我也承认撒纪特恩人让我心烦
+I was exhausted, and I'll admit the Sagittarons annoy the hell out of me.
+
+544
+00:38:54,450 --> 00:38:56,750
+我又不想和我同事对着干
+And I didn't want to go against my colleague.
+
+545
+00:38:56,830 --> 00:38:58,580
+但那些病历的事 西洛说得对
+But you were right about their records, Helo.
+
+546
+00:38:58,670 --> 00:39:01,710
+金女士儿子的体内  根本没有贝他霉素
+There was no bittamusin in the King boy's body.
+
+547
+00:39:01,840 --> 00:39:04,630
+他死了是因为来得太晚了    不  才不是
+He died because it was too late. No, he didn't.
+
+548
+00:39:04,710 --> 00:39:07,170
+他的死因是急性细胞损伤
+He died of acute cell destruction.
+
+549
+00:39:07,260 --> 00:39:09,680
+他被注射了有毒的二磷酸盐
+He was injected with a toxic bisphosphonate.
+
+550
+00:39:09,760 --> 00:39:11,510
+你的诊断明显有误
+Now, obviously, you got a wrong reading here.
+
+551
+00:39:11,640 --> 00:39:13,430
+我不知道这些人还有…    没有!
+Now I don't know what else these people... No!
+
+552
+00:39:13,510 --> 00:39:16,850
+那个老头  巴克明斯特先生的死因也是如此
+The old man, Mr. Buckminster, died of the same thing.
+
+553
+00:39:16,930 --> 00:39:19,100
+他的体内也没有贝他霉素
+There was no bittamusin in his system.
+
+554
+00:39:19,190 --> 00:39:21,690
+是你害死了他们  你他妈的死变态
+You killed them, you sick frak.
+
+555
+00:39:29,280 --> 00:39:33,990
+你应该跪下来  感谢我救了你的女儿
+You ought to be on your knees, thanking me for saving your daughter's life,
+
+556
+00:39:34,080 --> 00:39:37,330
+感谢我还留着药  来为她治病
+for having the meds to cure her of her illness.
+
+557
+00:39:38,580 --> 00:39:41,460
+你也清楚  这种病的晚期有多痛苦
+Now you know how painful this disease is at the end.
+
+558
+00:39:41,540 --> 00:39:43,000
+如果他们不需要我们的帮助
+And they don't want our help.
+
+559
+00:39:43,080 --> 00:39:45,630
+为什么我们还要 浪费时间  空间和药物
+Now, why waste time and meds and space on them
+
+560
+00:39:45,710 --> 00:39:50,380
+而不把这些资源给那些真正需要它们的人?
+when all of those resources could go to those who really deserve it?
+
+561
+00:39:50,470 --> 00:39:53,470
+当药物不够用的时候 又该给谁
+Who gets the medication when there's not enough to go around?
+
+562
+00:39:53,550 --> 00:39:55,551
+撒纪特恩人连对自己的种族
+A Sagittaron who won't even raise a finger
+
+563
+00:39:55,552 --> 00:39:57,720
+或一名驾驶员都不愿出手相助
+ to save his own race, or a Viper pilot?
+
+564
+00:39:57,810 --> 00:40:01,230
+那"救死扶伤"又是怎么回事  医生?
+What the hell happened to "Do no harm," Doctor?
+
+565
+00:40:01,310 --> 00:40:04,770
+我之所以卷了进来  是因为必须有人敢下狠心
+Look, I intervened because someone has to make the tough choices here.
+
+566
+00:40:04,860 --> 00:40:06,070
+但这已经不重要了
+But it doesn't matter.
+
+567
+00:40:06,150 --> 00:40:10,110
+不重要了 因为你看看他们  反正他们都会毁了自己
+It doesn't matter because, look at them, they're gonna destroy themselves anyway.
+
+568
+00:40:10,200 --> 00:40:12,860
+看看他们  看看他们站在那里
+I mean, look at them. Look at them out there.
+
+569
+00:40:12,950 --> 00:40:17,160
+他们像是待宰的羔羊
+They're like worms crawling on a hot rock.
+
+570
+00:40:17,240 --> 00:40:20,000
+还记得你以前常说什么吗  少?
+Remember what you used to say, Saul?
+
+571
+00:40:22,580 --> 00:40:27,960
+除了赛昂人 还有比撒纪特恩人更让你厌恶的东西吗?
+Aside from a Cylon, is there anything that you hate more than a Sagittaron?
+
+572
+00:40:28,050 --> 00:40:31,880
+让我告诉你我讨厌什么  麦克  犯错误
+I'll tell you what I hate, Mike. Being wrong.
+
+573
+00:40:36,100 --> 00:40:38,430
+阿格森上尉   是 长官
+Captain Agathon. Sir.
+
+574
+00:40:38,520 --> 00:40:41,930
+把这狗娘养的给我逮起来 如果有必要 就给他戴上嚼子
+Arrest this son of a bitch. Gag him if you have to.
+
+575
+00:40:43,020 --> 00:40:44,650
+乐意至致  长官
+My pleasure, sir.
+
+576
+00:40:48,360 --> 00:40:50,110
+我没害她
+I didn't harm her.
+
+577
+00:40:51,070 --> 00:40:53,700
+对  她是一个好人
+Right. She's one of the good ones.
+
+578
+00:41:12,300 --> 00:41:14,340
+长官 你找我?
+Sir. You wanted to see me?
+
+579
+00:41:15,550 --> 00:41:18,050
+对  上尉  请坐
+Yes, Captain. Please, sit down.
+
+580
+00:41:29,270 --> 00:41:32,320
+仇恨以及对仇恨的置若罔闻
+There's hate and there's allowing hate.
+
+581
+00:41:32,400 --> 00:41:35,360
+其实是同一枚硬币的正反两面
+Two sides of the same coin, really.
+
+582
+00:41:35,450 --> 00:41:37,410
+两者都负有责任
+We're guilty of both.
+
+583
+00:41:42,120 --> 00:41:44,620
+我们在某处迷失了
+Somewhere we got lost.
+
+584
+00:41:46,540 --> 00:41:48,580
+只留你在荒原中独自前行
+You being the lone voice in the wilderness,
+
+585
+00:41:48,670 --> 00:41:50,840
+而我们却还要向前走一段时间
+we were bound to stay that way for a while.
+
+586
+00:41:53,300 --> 00:41:56,050
+这是我的战舰
+This is my ship.
+
+587
+00:41:56,130 --> 00:41:58,430
+我应该向你道歉
+And I owe you an apology.
+
+588
+00:42:00,010 --> 00:42:01,560
+没必要这么做  长官
+That's not necessary, sir.
+
+589
+00:42:01,640 --> 00:42:03,470
+纵然如此...
+All the same,
+
+590
+00:42:05,600 --> 00:42:07,480
+你依旧雄姿英发
+you still have it.
+
+591
+00:42:12,320 --> 00:42:14,480
+没事了  上尉
+That'll be all, Captain.
+

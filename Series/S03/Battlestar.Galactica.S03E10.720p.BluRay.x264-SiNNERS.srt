@@ -1,0 +1,2500 @@
+1
+00:00:22,940 --> 00:00:25,100
+《太空堡垒卡拉狄加》 前情提要
+KAT: Previously on Battlestar Galactica.
+
+2
+00:00:26,110 --> 00:00:28,440
+我已心力交瘁
+I was burnt out.
+
+3
+00:00:28,770 --> 00:00:30,400
+所以我就开始服用兴奋剂
+I started taking stims.
+
+4
+00:00:30,780 --> 00:00:32,610
+这是什么?    兴奋剂
+What are these? Stims.
+
+5
+00:00:33,110 --> 00:00:35,200
+看她的样子  已经吃了一把了
+By the look of her, she's been taking them by the handful.
+
+6
+00:00:36,570 --> 00:00:38,070
+让我走 嗨 嗨
+Let me go! Hey, hey!
+
+7
+00:00:38,450 --> 00:00:40,700
+你要知道  因为宿醉而简报迟到
+You know, coming in late for a briefing 'cause you're hung over,
+
+8
+00:00:40,790 --> 00:00:41,740
+就已经很过分了
+that's bad enough.
+
+9
+00:00:41,830 --> 00:00:43,410
+你还因此退出执行任务...
+When you back out on a mission...
+
+10
+00:00:43,500 --> 00:00:45,750
+你听着  和你不同的是 我不会磕一把药之后
+You see, unlike you, I don't take a bunch of pills,
+
+11
+00:00:45,830 --> 00:00:50,340
+还他妈的爬进驾驶舱 接着还他妈的着陆失败
+and then climb in my cockpit so wired that I can't land the frakking ship.
+
+12
+00:00:53,090 --> 00:00:55,720
+星芭  你真是个耻辱
+Starbuck, you're an embarrassment.
+
+13
+00:00:56,470 --> 00:00:59,350
+我想让你回到CIC
+I need you back in the CIC.
+
+14
+00:00:59,720 --> 00:01:02,640
+没有你在那儿胁迫同僚
+It just ain't the same without you in there,
+
+15
+00:01:02,730 --> 00:01:04,060
+就是不一样
+intimidating the inmates.
+
+16
+00:01:04,140 --> 00:01:05,480
+噢  我可没有...
+No, no.
+
+17
+00:01:07,230 --> 00:01:08,900
+只有12个赛昂人模型
+There are only 12 Cylon models,
+
+18
+00:01:08,980 --> 00:01:12,110
+但在占领新卡布里卡的整个期间 只看到了7个
+but in the entire occupation on New Caprica, I only saw seven.
+
+19
+00:01:12,190 --> 00:01:13,480
+另外的5个呢?
+Who are the final five?
+
+20
+00:01:13,570 --> 00:01:15,360
+我不能说那个
+I can't talk about that.
+
+21
+00:01:15,700 --> 00:01:17,910
+你知道她在说什么吗?
+BALTAR: You have any idea what it's talking about?
+
+22
+00:01:17,990 --> 00:01:21,410
+绝大多数赛昂人都认为混合体的意识思维已经疯了
+CAPRICA SIX: Most Cylons think the conscious mind of the Hybrid has simply gone mad
+
+23
+00:01:21,490 --> 00:01:24,120
+她所发出的声音对我们来说是无意义的
+and the vocalizations we hear are meaningless.
+
+24
+00:01:24,250 --> 00:01:26,000
+但不是所有人都这么认为
+But not everyone thinks that.
+
+25
+00:01:26,750 --> 00:01:30,420
+你要从你的日志中删除这个命令  执行命令
+You'll delete the order from your logs. Execute.
+
+26
+00:01:33,880 --> 00:01:35,630
+没事了  没事了
+It's okay, it's okay.
+
+27
+00:01:36,880 --> 00:01:41,220
+在生死之间
+There is something beautiful,
+
+28
+00:01:41,310 --> 00:01:43,850
+有很瑰丽的景象
+miraculous, between life and death.
+
+29
+00:02:12,540 --> 00:02:15,000
+你的意思是没有能食用的粮食可抢救了?
+ROSLIN: You mean there's no food to be salvaged?
+
+30
+00:02:15,090 --> 00:02:16,800
+我们在这次意外污染发生前
+What about the good food we had stored
+
+31
+00:02:16,880 --> 00:02:20,300
+储存的食物呢?
+before we started inadvertently churning out the contaminated stuff?
+
+32
+00:02:20,390 --> 00:02:24,810
+新加工的受污染粮食直接进入了储藏系统
+Well, the newly processed bad food went into the depleted storage system.
+
+33
+00:02:24,890 --> 00:02:26,140
+所有粮食都被污染了
+Everything's tainted.
+
+34
+00:02:26,230 --> 00:02:29,480
+但是莎伦已经出发去寻找我们能加工的藻类了
+But Sharon's out finding all this algae for us to process.
+
+35
+00:02:29,560 --> 00:02:32,190
+那东西很难吃  但基本上全是蛋白质
+It's tough to choke down, but it's almost pure protein.
+
+36
+00:02:32,270 --> 00:02:37,190
+那如果莎伦回来报告说没有可以去那个星球的路怎么办?
+What if Sharon comes back and reports there is no clear passage to this planet?
+
+37
+00:02:37,860 --> 00:02:41,280
+医生  那就有一个新问题了 我们还能撑多长时间?
+Then the question is, Doc, how long can we survive?
+
+38
+00:02:41,370 --> 00:02:44,740
+按照我们现在的配给量 我觉得是7到10天
+With the rations we've been on? I'd say seven to 10 days.
+
+39
+00:02:46,410 --> 00:02:47,830
+按计划  她什么时候回来?
+ROSLIN: When is she due back?
+
+40
+00:02:47,910 --> 00:02:49,790
+她预期3小时前赶回
+She was due three hours ago.
+
+41
+00:02:49,870 --> 00:02:55,500
+那里的辐射水平很高 但她很强壮  并且…
+The radiation levels are high, but she's strong and she's...
+
+42
+00:02:57,760 --> 00:02:59,760
+她随时都可能赶回来的
+She'll be here any moment.
+
+43
+00:03:31,790 --> 00:03:33,750
+抱歉  伙计们  我什么东西都没有 
+No, I'm sorry, you guys, I don't have anything.
+
+44
+00:03:33,830 --> 00:03:34,880
+来分给大家?
+To share?
+
+45
+00:03:34,960 --> 00:03:37,500
+我告诉过你了  星芭  我什么东西都没有  别烦我了
+I told you, Starbuck, I don't have anything. Get off my back, okay?
+
+46
+00:03:37,590 --> 00:03:39,050
+是啊  我看到你的小床上有蛋白质棒的
+Yeah, I saw a protein bar on your cot.
+
+47
+00:03:39,130 --> 00:03:40,210
+我把它给了科特尔         
+I gave it to Cottle.
+
+48
+00:03:40,300 --> 00:03:42,170
+对呀!  就在我帮他解决之后
+Right. Right after I gave him head.
+
+49
+00:03:42,300 --> 00:03:44,470
+你什么意思  我撒谎了?    哦 我不知道…
+Oh, so, what, now I'm a liar? Oh, I don't know, if the shoe fits.
+
+50
+00:03:44,550 --> 00:03:46,350
+好了  好了  别吵!
+All right, can it!
+
+51
+00:03:46,430 --> 00:03:48,310
+凯特  下来吧
+Kat, get down here.
+
+52
+00:03:50,310 --> 00:03:51,560
+好了  他妈的  大家都吃吧
+All right, for frak's sake, everybody, eat.
+
+53
+00:03:51,640 --> 00:03:53,940
+大家都被饿得变成妄想狂了
+We're getting paranoid with this hunger.
+
+54
+00:04:10,830 --> 00:04:13,120
+这里  宝贝  吃这个
+KAT: Here, baby, eat this.
+
+55
+00:04:13,210 --> 00:04:14,960
+我的天啊  真不错
+Oh, my Gods, that's good.
+
+56
+00:05:54,560 --> 00:05:57,180
+去哪呢  戴安娜
+BALTAR: Somewhere to be, D'Anna?
+
+57
+00:05:59,060 --> 00:06:00,980
+嘘  别把卡布里卡弄醒了
+You'll wake Caprica.
+
+58
+00:06:02,610 --> 00:06:06,030
+听着  我情愿天天陪在你们俩身边
+Look, I'd love to hang around with you two all day, but...
+
+59
+00:06:06,320 --> 00:06:08,740
+但是我还有些事要做
+I have things to do.
+
+60
+00:06:10,280 --> 00:06:13,870
+我永远都不会明白你每天都独自干什么了
+I'll never understand what you all do all day long,
+
+61
+00:06:13,950 --> 00:06:16,750
+像猫身上的跳蚤一样让人捉摸不定
+living on this thing like fleas on a cat.
+
+62
+00:06:19,040 --> 00:06:22,380
+你认为她是去干什么了?
+Where do you suppose she takes herself off to, then?
+
+63
+00:06:22,460 --> 00:06:25,050
+你不是第一个问这个问题的人了
+You are not the only one asking that.
+
+64
+00:06:25,130 --> 00:06:26,800
+我不是?
+I'm not?
+
+65
+00:06:27,760 --> 00:06:29,340
+你什么意思?
+What do you mean?
+
+66
+00:06:29,430 --> 00:06:31,260
+她在忙着事呢
+She's been doing things.
+
+67
+00:06:32,890 --> 00:06:34,640
+做事?
+Doing things?
+
+68
+00:06:37,980 --> 00:06:39,440
+什么事?
+What things?
+
+69
+00:06:43,940 --> 00:06:45,730
+好 动作快点
+CREWMAN 1: Okay, let's make it faster.
+
+70
+00:06:46,570 --> 00:06:50,450
+抱歉 我扶住你了 中卫 小心
+CREWMAN 2: Sorry about that. I've got you, Lieutenant. Watch your step.
+
+71
+00:06:52,870 --> 00:06:54,870
+走吧 我来拿头盔
+Go ahead, I've got your helmet.
+
+72
+00:06:56,750 --> 00:06:59,160
+这边走 我来扶你 雅典娜
+There you go. I've got you, Athena.
+
+73
+00:07:00,080 --> 00:07:01,790
+朝前走 让开路
+Go ahead, walk her through.
+
+74
+00:07:01,880 --> 00:07:06,420
+百分之七浓度喷洒  移到右舷冲洗
+Seven percent spray. Move around to the starboard side for wash-down.
+
+75
+00:07:06,510 --> 00:07:07,550
+二 十四
+CREWMAN 3: Two-fourteen.
+
+76
+00:07:07,630 --> 00:07:10,380
+都好了 中尉 来这里 中尉
+All the way down, Lieutenant. Right through here, Lieutenant.
+
+77
+00:07:10,470 --> 00:07:12,430
+来这儿
+Right over here.
+
+78
+00:07:12,510 --> 00:07:14,350
+放射物已清除
+Radiation negative.
+
+79
+00:07:14,680 --> 00:07:15,850
+别动
+CREWMAN 4: Don't move!
+
+80
+00:07:18,430 --> 00:07:21,310
+有一条路穿过那个星团
+There's a way through the star cluster.
+
+81
+00:07:21,810 --> 00:07:24,650
+我在另一边找到了那个星球
+And I found the planet, on the other side.
+
+82
+00:07:24,730 --> 00:07:27,440
+我抓拍到了些照片
+I skimmed it, I took photos.
+
+83
+00:07:27,530 --> 00:07:30,950
+正如我们所料  那里有很多海藻生长带
+There's huge swaths of algae, just like we thought.
+
+84
+00:07:33,120 --> 00:07:34,160
+都变黑了
+It's black.
+
+85
+00:07:34,240 --> 00:07:37,280
+她是赛昂人 她能承受那么大的辐射剂量
+APOLLO: She's a Cylon. She can handle a radiation dose that big.
+
+86
+00:07:37,370 --> 00:07:40,120
+那只是我们觉得能!  谁去找下科特尔医生
+We think. Someone call Cottle.
+
+87
+00:07:40,210 --> 00:07:41,290
+我很好
+I'm fine.
+
+88
+00:07:41,370 --> 00:07:42,790
+对于你来说  也许是的
+Maybe you are,
+
+89
+00:07:43,920 --> 00:07:46,130
+人类可能就做不到了
+but a human might not be able to make it.
+
+90
+00:07:46,210 --> 00:07:50,340
+那现在我们怎么把数万人运过去?
+So, then, how do we get tens of thousands of humans through there?
+
+91
+00:07:50,720 --> 00:07:55,010
+我们可以跳跃两次 在这个方位停一次
+So we can make it through in two jumps with a stop right there.
+
+92
+00:07:55,100 --> 00:07:56,800
+是否可能只跳跃一次?
+There's no solution with a single jump?
+
+93
+00:07:56,890 --> 00:08:00,140
+不行  这个星团太大了 都大到没法绕过去
+No, the cluster's too big, and it's too big to go around, too.
+
+94
+00:08:00,230 --> 00:08:02,060
+但民用船只没有足够的装甲
+But the civvie ships aren't shielded enough
+
+95
+00:08:02,140 --> 00:08:04,310
+跳跃到一个四周都是辐射的地方
+to jump in the middle of all that radiation.
+
+96
+00:08:04,400 --> 00:08:07,150
+我觉得飞船上80%的人会因此而死掉
+I would say 80% of the people on board would die.
+
+97
+00:08:07,230 --> 00:08:08,980
+我们能否只派卡拉狄加过去弄食物呢?
+Can we send Galactica for food?
+
+98
+00:08:09,070 --> 00:08:10,820
+放在哪儿?  你什么意思?
+And put it where? What do you mean?
+
+99
+00:08:10,900 --> 00:08:12,320
+那需要来回几十趟
+It would take dozens of return trips.
+
+100
+00:08:12,400 --> 00:08:14,320
+每次离开 整个舰队就毫无防御能力
+Each time we'd leave the fleet vulnerable to attack.
+
+101
+00:08:14,410 --> 00:08:16,660
+我们不能用把食物带给大家
+We just can't bring the food to the people.
+
+102
+00:08:16,740 --> 00:08:19,120
+那假如我们把大家带去找食物呢?
+What if we bring the people to the food?
+
+103
+00:08:19,200 --> 00:08:20,910
+把人们送上卡拉狄加
+Put the people on Galactica.
+
+104
+00:08:21,000 --> 00:08:23,830
+把只配备基本船员的民用船只派过去
+Send the civilian ships with skeleton crew,
+
+105
+00:08:23,920 --> 00:08:25,040
+给他们配备防辐射装束
+give them radiation meds.
+
+106
+00:08:25,130 --> 00:08:28,670
+除非辐射不会把民用船只的导航系统烧坏
+Except that the radiation would fry the civvie ships' nav systems.
+
+107
+00:08:28,750 --> 00:08:31,130
+那样他们在雷达上什么都看不到
+They wouldn't be able to see squat on dradis.
+
+108
+00:08:31,210 --> 00:08:33,510
+他们如果进去了  想跳出来都难
+There wouldn't even be a way to calculate a jump out.
+
+109
+00:08:33,590 --> 00:08:35,010
+比那还更糟
+It's worse than that.
+
+110
+00:08:35,090 --> 00:08:38,010
+一旦你跳跃进去  能见度很低  你只能在那里漂泊
+Once you jump in, the light is so blinding you begin to drift.
+
+111
+00:08:38,100 --> 00:08:42,270
+在找到坐标前  你在那早完蛋了
+And before you can get your bearings, you're over there.
+
+112
+00:08:42,350 --> 00:08:45,640
+没有可视度 辐射还会让仪表失灵
+APOLLO: No visual contact, instruments blinded by radiation.
+
+113
+00:08:45,730 --> 00:08:49,150
+他们会迷路的.他们肯定会被烧掉
+They'd get lost, they'd burn up.
+
+114
+00:08:54,110 --> 00:08:55,780
+领航船
+Pilot ship.
+
+115
+00:08:57,070 --> 00:09:00,910
+我们给每艘民用船只配备一架猛禽机
+We pair a Raptor with each civilian ship.
+
+116
+00:09:00,990 --> 00:09:03,870
+猛禽机的导航系统抗辐射性要好一些
+APOLLO: The Raptor navigation systems are hardened against nuclear strikes.
+
+117
+00:09:03,960 --> 00:09:05,540
+他们能承受得了这种辐射
+They could handle the radiation.
+
+118
+00:09:05,620 --> 00:09:08,710
+每架猛禽机能领航一艘民用船只通过星团
+Each Raptor could lead a civilian ship through the cluster,
+
+119
+00:09:08,790 --> 00:09:10,880
+然后他们再一起跳跃出去
+then they both jump out together.
+
+120
+00:09:11,880 --> 00:09:15,880
+问题是要跳跃多少次?
+The question is, how many jumps will it take?
+
+121
+00:09:17,840 --> 00:09:19,680
+来回共跳跃5次
+APOLLO: Five round trips.
+
+122
+00:09:19,930 --> 00:09:22,350
+你们听到了吧 往返跳跃5次
+You heard. Five round trips.
+
+123
+00:09:22,850 --> 00:09:23,970
+在我们跳过去的时候
+On our outbound jumps,
+
+124
+00:09:24,060 --> 00:09:26,270
+我们每架猛禽机都负责向民用船只传送
+we'll each be responsible for relaying jump coordinates
+
+125
+00:09:26,350 --> 00:09:28,770
+下一个跳跃点坐标
+to our own specific civilian ship,
+
+126
+00:09:28,860 --> 00:09:32,230
+确保他们跳跃点的准确 并且要确保他们不离队
+nailing them to their jump points and ensuring they don't drift off.
+
+127
+00:09:32,320 --> 00:09:34,400
+长官  当我们到那里时  要不要吃东西
+Sir, are we gonna get fed when we get there?
+
+128
+00:09:34,490 --> 00:09:38,530
+最后嘛  当然要 但是要在我们找到并开始处理藻类后
+Eventually, yes, but only after we find the algae and get it processed.
+
+129
+00:09:40,330 --> 00:09:41,410
+事实上  
+But the truth is that
+
+130
+00:09:41,490 --> 00:09:44,620
+辐射后的呕吐反应会让大家倒胃口
+nausea from the radiation exposure will take care of our appetites.
+
+131
+00:09:44,700 --> 00:09:47,920
+你们都会被配发辐射剂量牌来跟踪你们受到的辐射量
+You'll all be issued with radiation badges to track our exposure.
+
+132
+00:09:48,000 --> 00:09:49,920
+白色的  像这样的就没事
+White, like this, you're okay.
+
+133
+00:09:50,090 --> 00:09:52,420
+当你暴露在辐射下时间越长  它就越黑
+As your exposure increases, it'll darken.
+
+134
+00:09:52,500 --> 00:09:54,920
+当它变成这样了  那么你们就挂了
+If it approaches this, then you'll be pulled from duty.
+
+135
+00:09:55,010 --> 00:09:56,590
+记住要随时观察剂量牌
+Keep checking your badges.
+
+136
+00:09:56,680 --> 00:10:00,430
+这是每一个机师各自的责任 必须检查自己的剂量牌
+It's every pilot's own responsibility to monitor their own badge.
+
+137
+00:10:00,510 --> 00:10:01,760
+星芭
+Starbuck.
+
+138
+00:10:03,430 --> 00:10:07,100
+记住  这次任务我们全都独立飞行
+Remember, we're all flying solo on this mission.
+
+139
+00:10:07,810 --> 00:10:09,480
+那就意味着  在你累了  或者
+So that means there'll be nobody there to bitch-slap you
+
+140
+00:10:09,560 --> 00:10:12,770
+在你的机翼旁看到赛昂人时 没人能跟你配合搭档
+if you start to get tired or start seeing little toasters on your wing.
+
+141
+00:10:12,860 --> 00:10:14,730
+我们会派发兴奋剂  到时候就用它
+We'll be issuing stims, so use them.
+
+142
+00:10:14,820 --> 00:10:16,780
+什么?你疯了吗? 我们不能用兴奋剂
+What? Are you crazy? We can't use stims.
+
+143
+00:10:16,860 --> 00:10:17,820
+凯特  你有什么疑问吗?
+Kat, do you have a problem?
+
+144
+00:10:17,900 --> 00:10:20,200
+兴奋剂会加快我们的新陈代谢 很快会耗光我们的体力
+Stims amp up your metabolism. We've got nothing to burn.
+
+145
+00:10:20,280 --> 00:10:23,120
+你让我们使用兴奋剂  我们会飞到民用船只里去的
+You put stims in our systems, we're gonna be flying into the sides of the ships.
+
+146
+00:10:23,200 --> 00:10:24,290
+是真的吗?会让我们变得那么糟?
+Is that true? They'd mess us up?
+
+147
+00:10:24,370 --> 00:10:25,870
+你过去喜欢用兴奋剂的  凯特
+You used to like the stims, Kat.
+
+148
+00:10:25,950 --> 00:10:27,910
+好啦  那是对兴奋剂的个别看法
+All right, personal discretion on the stims.
+
+149
+00:10:28,000 --> 00:10:31,580
+我们现在准备如刚才所说让第一波平民上船
+We're taking the first load of civilians onboard as we speak.
+
+150
+00:10:31,670 --> 00:10:34,090
+就到这里 4小时以内开始
+That's it. Skids up in four hours.
+
+151
+00:10:40,800 --> 00:10:42,550
+这里没有食物
+DUALLA: There is no food here.
+
+152
+00:10:42,640 --> 00:10:45,350
+这艘船没有食品配给了
+There are no rations anywhere on this ship.
+
+153
+00:10:45,430 --> 00:10:48,480
+如果有谁跟你们说哪里有食物  那是他们在骗你们
+If someone told you there was food, they were lying.
+
+154
+00:10:48,560 --> 00:10:51,310
+如果你们离开这个区域  我们就会使用强制措施
+If you leave this area, force will be used.
+
+155
+00:10:51,400 --> 00:10:53,150
+当我们通过星团
+Once we get through the star cluster,
+
+156
+00:10:53,230 --> 00:10:56,730
+你们就可以返回原来所在的飞船
+you will all be returned to your designated ships.
+
+157
+00:11:01,570 --> 00:11:02,570
+萨沙
+Sasha.
+
+158
+00:11:06,240 --> 00:11:09,000
+跟上 直走向下到前面 对了
+CREWMAN: Keep following, straight down to the front. That's right.
+
+159
+00:11:09,080 --> 00:11:11,750
+我不叫萨沙
+My name isn't Sasha.
+
+160
+00:11:11,830 --> 00:11:15,500
+我是劳安·凯特瑞恩上尉 懂了吗?
+My name is Captain Louanne Katraine, you understand me?
+
+161
+00:11:15,590 --> 00:11:18,130
+萨沙和你是上辈子的事情
+Sasha and you were a lifetime ago.
+
+162
+00:11:18,210 --> 00:11:21,380
+好的 好的  就因为你现在有了杠杠了  对吗?
+Right, right, 'cause you got this now, right?
+
+163
+00:11:23,550 --> 00:11:26,350
+不会再被罪人连累了  对吗?
+No more hanging with the sinners, huh?
+
+164
+00:11:28,730 --> 00:11:33,400
+离我远点 你听懂了吗?
+Stay away from me. Do you understand me?
+
+165
+00:11:36,730 --> 00:11:39,190
+他们知道你是什么样的人吗?
+They even know who you really are?
+
+166
+00:11:47,950 --> 00:11:49,660
+噢  真巧在这里碰到你了
+Oh, fancy bumping into you here.
+
+167
+00:11:49,750 --> 00:11:51,210
+你能相信我又迷路了吗?
+Can you believe I'm lost again?
+
+168
+00:11:51,290 --> 00:11:53,330
+在这种地方我永远都找不到路
+I never find my way around this place.
+
+169
+00:11:53,420 --> 00:11:55,540
+你到哪去了?
+Where have you been?
+
+170
+00:11:55,630 --> 00:11:58,210
+我在和西蒙讨论去地球的下一步该怎么走
+I've been talking with Simon about our next move toward Earth.
+
+171
+00:11:58,300 --> 00:11:59,760
+这个问题很明显有些争论
+There's some debate about it, apparently.
+
+172
+00:11:59,840 --> 00:12:01,260
+当然了  如果我去问那个西蒙
+Of course, if I spoke to the relevant Simon,
+
+173
+00:12:01,340 --> 00:12:05,010
+他能确认是你参加了这个会议的吗?
+he'll actually ascertain you were at this meeting?
+
+174
+00:12:06,350 --> 00:12:08,220
+对不起  请再说一遍?
+Beg your pardon?
+
+175
+00:12:09,810 --> 00:12:13,640
+我听说是你自己独自离开后 一人做事的
+I hear that you've been going off by yourself, doing things.
+
+176
+00:12:14,520 --> 00:12:16,020
+真的吗?
+Really?
+
+177
+00:12:16,110 --> 00:12:20,360
+那么  是谁告诉你关于我的事的呢?
+Now who would tell you anything about my business?
+
+178
+00:12:21,150 --> 00:12:22,440
+那是真的了
+So it's true?
+
+179
+00:12:22,530 --> 00:12:23,570
+卡布里卡?
+Caprica?
+
+180
+00:12:27,030 --> 00:12:30,450
+你知不知道自己头发里有些干了的粘物?
+Did you know you have some dried goo in your hair?
+
+181
+00:12:30,540 --> 00:12:33,210
+那是你复活时候出现的吧
+That can happen when you resurrect.
+
+182
+00:12:34,830 --> 00:12:36,420
+你知道吗  现在我开始明白
+Yeah, now I'm beginning to understand
+
+183
+00:12:36,500 --> 00:12:39,040
+这些天的下午  你对自己做了什么
+just what you've been doing with yourself on all these afternoons.
+
+184
+00:12:39,130 --> 00:12:42,300
+你根本不了解你在指责我什么?
+Do you have any idea what you are accusing me of?
+
+185
+00:12:42,800 --> 00:12:43,800
+当然知道
+Yes.
+
+186
+00:12:44,800 --> 00:12:47,050
+故意的一次次的自杀
+Intentionally killing yourself over and over
+
+187
+00:12:47,140 --> 00:12:50,220
+这样你就可以一次又一次地复活
+so you can download over and over.
+
+188
+00:12:50,310 --> 00:12:53,230
+但死亡只像扇旋转门  对吧?
+But that's just a revolving door, isn't it?
+
+189
+00:13:00,610 --> 00:13:01,940
+过来!
+KAT: Come here!
+
+190
+00:13:05,070 --> 00:13:07,780
+你想干吗?
+What do you want?
+
+191
+00:13:07,870 --> 00:13:10,580
+别紧张  宝贝  放松
+Take it down a notch, baby. Relax.
+
+192
+00:13:11,240 --> 00:13:12,740
+我不是在寻找生意伙伴
+I'm looking for a business partner.
+
+193
+00:13:12,830 --> 00:13:14,790
+我说过你他妈的离我远点
+I told you to stay the frak away from me.
+
+194
+00:13:14,870 --> 00:13:16,080
+是啊  因为如果他们知道你的过去
+Yeah, 'cause if they find out who you really are,
+
+195
+00:13:16,170 --> 00:13:18,790
+他们就会把你开除  甚至更糟
+they'll kick you out of the service? Or worse?
+
+196
+00:13:20,300 --> 00:13:22,960
+现在  你是不是以为我想那么做?
+Now, do you think I want that?
+
+197
+00:13:23,050 --> 00:13:26,010
+我不会那么做的  因为那样做了
+I don't want that, 'cause if that happens,
+
+198
+00:13:26,630 --> 00:13:27,630
+谁来养我呢?
+who's gonna feed me?
+
+199
+00:13:30,310 --> 00:13:32,970
+噢  拜托  你搞到了三支  你以为我不知道吗?
+Oh, come on, you're getting three squares. You think I don't know that?
+
+200
+00:13:33,060 --> 00:13:36,140
+我们没有  我也没有隐瞒任何东西 恩佐 
+We don't. And I don't have anything stashed, Enzo.
+
+201
+00:13:36,230 --> 00:13:38,060
+是啊  你是没有
+Yeah, sure, you don't.
+
+202
+00:13:38,860 --> 00:13:41,020
+噢  让我们重头开始吧  宝贝
+Oh, we go back, baby.
+
+203
+00:13:42,230 --> 00:13:46,570
+什么时候照顾你也是犯法的了?
+Since when is it a crime to take care of your own?
+
+204
+00:13:50,240 --> 00:13:54,700
+记住  我知道你是谁  我还知道怎么让你快乐
+Remember, I know who you are, and I know how to make you happy.
+
+205
+00:13:56,080 --> 00:13:57,660
+把你的爪子拿开
+Get your hands off of me.
+
+206
+00:14:11,930 --> 00:14:12,930
+上校!
+Colonel.
+
+207
+00:14:16,060 --> 00:14:17,020
+继续
+Go ahead.
+
+208
+00:14:40,880 --> 00:14:42,330
+检查一下
+Check it out.
+
+209
+00:14:51,840 --> 00:14:53,180
+好的       欢迎回来  长官
+MAN 1: All right. MAN 2: Welcome back, sir.
+
+210
+00:14:53,260 --> 00:14:55,260
+欢迎回来  长官    很高兴见到你 长官
+MAN 3: Welcome back, sir. WOMAN 1: Good to see you, sir.
+
+211
+00:14:55,390 --> 00:14:58,480
+欢迎 很高兴见到你 长官 欢迎  长官
+Welcome. It's good to see you, sir. Welcome, sir.
+
+212
+00:14:58,600 --> 00:14:59,850
+上校    很高心见到你 上校
+Colonel. MAN 4: Good to see you, Colonel.
+
+213
+00:14:59,980 --> 00:15:02,270
+对 就这样    很高兴你回来
+HOSHI: Yeah. That's it. WOMAN 2: Good to have you back.
+
+214
+00:15:02,360 --> 00:15:03,650
+好了
+MAN 5: All right.
+
+215
+00:15:04,320 --> 00:15:05,320
+我们跟你了 长官
+We're with you, sir.
+
+216
+00:15:05,400 --> 00:15:06,730
+欢迎回来
+Welcome back.
+
+217
+00:15:07,820 --> 00:15:11,280
+够了 你们这些家伙都没事做吗?
+Enough! Don't you people have jobs to do?
+
+218
+00:15:14,780 --> 00:15:16,370
+欢迎回来  上校  
+Welcome back, Colonel.
+
+219
+00:15:16,450 --> 00:15:17,490
+上将
+Admiral.
+
+220
+00:15:22,500 --> 00:15:25,670
+阿波罗  这是卡拉狄加  命令你发射猛禽机
+Apollo, Galactica. Launch Raptors on your orders.
+
+221
+00:15:26,380 --> 00:15:28,396
+牧羊犬们  找到你要看管的"小羊羔" 
+APOLLO ON RADIO: Shepherds, find your sheep, 
+
+222
+00:15:28,397 --> 00:15:29,670
+跟近点 别把他们弄丢了
+stay close and never let them go.
+
+223
+00:15:29,760 --> 00:15:31,880
+这些家伙还要靠我们通过这段路呢
+These crews are counting on us to guide them through.
+
+224
+00:15:31,970 --> 00:15:33,430
+阿波罗 星芭 抵达指定位置
+STARBUCK: Apollo, Starbuck on station.
+
+225
+00:15:33,510 --> 00:15:35,300
+我看到Chiron号了
+KAT ON RADIO: I've got visual on Chiron.
+
+226
+00:15:35,390 --> 00:15:37,310
+热狗 看到Adriatic号了
+HOTDOG: Hotdog. Adriatic in sight.
+
+227
+00:15:37,390 --> 00:15:38,600
+好的
+Okay.
+
+228
+00:15:38,680 --> 00:15:40,930
+当跳跃进星云以后 你们会分不清方向
+When you jump into the cluster, you will be disoriented.
+
+229
+00:15:41,020 --> 00:15:42,640
+记住首先要做的
+Take it one step at a time.
+
+230
+00:15:42,730 --> 00:15:44,697
+就是找到你们要带的民用船 
+Find your sheep, work the jump 
+
+231
+00:15:44,698 --> 00:15:47,270
+然后计算下个跳跃点  把他们带出来
+calculations and get them out.
+
+232
+00:15:47,360 --> 00:15:51,320
+记住  我们不能待到受最大辐射剂量的时候
+Remember, we do not stay beyond our radiation dose limit.
+
+233
+00:15:52,240 --> 00:15:54,870
+阿波罗报告飞行员已准备好  长官
+GAETA: Apollo reports pilots in position, sir.
+
+234
+00:15:54,950 --> 00:15:57,030
+命令他开始跳跃
+Initiate jump on his command.
+
+235
+00:15:57,120 --> 00:15:58,200
+卡拉狄加会跟上
+Galactica will follow.
+
+236
+00:15:58,290 --> 00:15:59,410
+是  长官
+GAETA: Aye, aye, sir.
+
+237
+00:16:04,500 --> 00:16:07,750
+猛禽机  我是阿波罗  听我口令跳跃
+Raptors, Apollo. We jump on my mark.
+
+238
+00:16:07,840 --> 00:16:09,050
+三
+Three.
+
+239
+00:16:09,130 --> 00:16:10,300
+二  跳跃
+Two. Jumping.
+
+240
+00:16:10,380 --> 00:16:12,470
+一...开始
+One. Mark.
+
+241
+00:16:28,730 --> 00:16:32,860
+喔!这是什么?  我什么都看不到
+Whoa! What is this? I can't see anything.
+
+242
+00:16:34,780 --> 00:16:35,780
+妈的
+Frak.
+
+243
+00:16:54,260 --> 00:16:55,470
+找到你了!
+Got you!
+
+244
+00:16:56,550 --> 00:16:57,680
+凯特  你找到你的了吗?
+Kat, you got yours?
+
+245
+00:16:57,760 --> 00:16:59,180
+是的 阿波罗
+KAT: Affirmative, Apollo.
+
+246
+00:16:59,260 --> 00:17:03,140
+只看到了Chrion号  传送坐标中
+Only got eyes for the Chiron. Relaying coordinates.
+
+247
+00:17:03,230 --> 00:17:06,020
+飞行编队 我是阿波罗 我跟上了Thera Sita号了
+Squadron, Apollo. I have Thera Sita.
+
+248
+00:17:06,100 --> 00:17:09,310
+马上给她传送坐标
+Relaying jump coordinates to her right now.
+
+249
+00:17:09,940 --> 00:17:12,610
+阿波罗 我是星芭 我跟上我那艘了
+STARBUCK: Apollo, Starbuck. I got mine.
+
+250
+00:17:12,690 --> 00:17:14,360
+妈的  我就在这地方干等着
+Frak. I'm just barely holding on here.
+
+251
+00:17:14,450 --> 00:17:18,660
+我跟丢了 谁看见Adriatic号了?  他们没跳到预定坐标
+I lost mine. Did anyone see the Adriatic? She has lost her jump coordinates.
+
+252
+00:17:18,740 --> 00:17:19,740
+热狗 无信号
+APOLLO: Hotdog, negative.
+
+253
+00:17:19,830 --> 00:17:21,410
+无信号  热狗  没有Adriatic号的信号
+Negative, Hotdog. Negative on Adriatic.
+
+254
+00:17:22,580 --> 00:17:24,830
+热狗  猛禽需要放松点控制
+Hotdog, the Raptor needs to be under control, man.
+
+255
+00:17:24,960 --> 00:17:27,290
+放松点操作 这不是蝮蛇
+Ease up with the stick. This is not a Viper, it's a Raptor.
+
+256
+00:17:27,380 --> 00:17:28,460
+妈的  妈的!
+Frak it, frak it!
+
+257
+00:17:28,540 --> 00:17:30,460
+伙计 你能找到的 用眼睛去找
+APOLLO: Find her, man! Get a visual!
+
+258
+00:17:37,550 --> 00:17:39,930
+阿波罗  这里是卡拉狄加
+Apollo, it's Galactica Actual.
+
+259
+00:17:40,010 --> 00:17:43,890
+你们已达辐射剂量上限 必须跳跃走
+You've reached your radiation dose limit. You've got to jump.
+
+260
+00:17:43,980 --> 00:17:45,980
+我们倒计时!      收到 卡拉狄加
+Count us down. APOLLO: Roger that, Galactica.
+
+261
+00:17:46,060 --> 00:17:48,520
+不  阿波罗 请等下
+No! No, Apollo, please, wait!
+
+262
+00:17:48,600 --> 00:17:50,980
+热狗  听我的  我们现在必须离开这儿
+Hotdog, listen to me! We have to get out of here, now!
+
+263
+00:17:51,070 --> 00:17:53,900
+我能找到他们!    我能找到他们!  等等 
+I know I can find them! I can find them! Hold on!
+
+264
+00:17:53,990 --> 00:17:56,110
+请等等 不！    星芭  跟我倒计时一起跳跃  
+Please wait! No! Starbuck, jump on my mark.
+
+265
+00:17:56,200 --> 00:17:57,650
+不管是否找到飞船
+With or without your ships!
+
+266
+00:17:57,740 --> 00:18:00,410
+请等等         1  2  3... 
+Please! One, two, three.
+
+267
+00:18:00,490 --> 00:18:02,370
+不  请等等!!      跳跃
+No! Please! Wait! Mark!
+
+268
+00:18:02,450 --> 00:18:04,750
+我们不能这样离开他们!
+We can't leave without her!
+
+269
+00:18:10,790 --> 00:18:13,000
+他妈的!他妈的!
+Frak! Frak!
+
+270
+00:18:14,670 --> 00:18:16,720
+跳跃完成
+Jump complete.
+
+271
+00:18:17,300 --> 00:18:21,260
+雷达恢复上线 报告舰壳中度损伤
+Dradis is back online. Ship reports moderate hull damage.
+
+272
+00:18:21,350 --> 00:18:24,060
+卡拉狄加 阿波罗 第一波完成
+APOLLO: Galactica, Apollo. First trip complete.
+
+273
+00:18:24,140 --> 00:18:26,270
+猛禽机降落  
+Raptors, land your birds,
+
+274
+00:18:26,350 --> 00:18:30,060
+并准备跳跃回来护送第二波民用船只
+and prepare to jump back for the second group of civilians.
+
+275
+00:18:36,280 --> 00:18:38,360
+我们弄丢了Adriatic号
+We lost the Adriatic.
+
+276
+00:18:39,530 --> 00:18:41,320
+这只是我们的第一波
+It's only our first jump.
+
+277
+00:18:41,410 --> 00:18:42,740
+是  是啊
+Yes, it is.
+
+278
+00:18:59,970 --> 00:19:03,800
+Carina号  我是凯特!  报告你的方位
+Carina, Kat! Report your location!
+
+279
+00:19:04,970 --> 00:19:07,600
+凯特  阿波罗 你跟上Carina号了吗?
+Kat, Apollo. Do you have the Carina?
+
+280
+00:19:07,680 --> 00:19:11,140
+没有!  辐射影响了我的导航!
+Negative! Radiation's pissing on my nav.
+
+281
+00:19:12,860 --> 00:19:14,560
+我看不到
+I can't see frak!
+
+282
+00:19:16,940 --> 00:19:19,280
+好吧 去找到她
+Okay. Found her!
+
+283
+00:19:23,910 --> 00:19:25,330
+不 妈的     凯特！
+No! Frak! APOLLO: Kat!
+
+284
+00:19:25,410 --> 00:19:27,040
+凯特  报告情况!
+Kat, report!
+
+285
+00:19:27,120 --> 00:19:28,540
+真是该死的!
+Gods damn it!
+
+286
+00:19:28,830 --> 00:19:32,290
+好了   凯特  时间到了 我们跳跃 听我口令
+All right, Kat, Apollo! Time's up! We're jumping on my mark!
+
+287
+00:19:32,380 --> 00:19:35,540
+倒计时 3 2 1 开始!  没有Carina号!
+Three, two, one, mark! Not without the Carina!
+
+288
+00:19:39,220 --> 00:19:40,760
+我跟丢了
+I lost her.
+
+289
+00:19:41,760 --> 00:19:43,300
+我跟丢了
+I lost her.
+
+290
+00:20:54,170 --> 00:20:58,340
+好了  我们再次成功地让八艘船过去了
+APOLLO: All right. We managed to get another eight ships through.
+
+291
+00:20:59,170 --> 00:21:01,670
+但是我们也弄丢了一艘
+But we still lost one.
+
+292
+00:21:03,220 --> 00:21:06,680
+我们赶"羊"的技术是越来越好了
+We've got to get better at tracking our sheep.
+
+293
+00:21:07,800 --> 00:21:11,310
+在跳跃的时候反应得很快
+Quicker reaction times out of the jumps.
+
+294
+00:21:13,180 --> 00:21:16,940
+赛道别向不该发的船发送坐标
+Racetrack, don't be calling out coordinates to the wrong ship.
+
+295
+00:21:17,020 --> 00:21:19,110
+我搞混了
+I got mixed up.
+
+296
+00:21:19,190 --> 00:21:22,070
+检查你们的装备  检查完再检查
+Keep checking your instruments and recheck them.
+
+297
+00:21:22,150 --> 00:21:24,190
+那些设备没点用
+The instruments are crap.
+
+298
+00:21:29,240 --> 00:21:30,370
+好了
+All right.
+
+299
+00:21:31,620 --> 00:21:35,040
+这就是第四次护送任务的总结了
+That concludes Outbound Four.
+
+300
+00:21:35,710 --> 00:21:39,420
+现在是第四次休息了 一个个走
+This is Return Four. One to go.
+
+301
+00:21:41,380 --> 00:21:43,380
+好了  休息一会
+All right, get some rest.
+
+302
+00:21:48,430 --> 00:21:49,800
+来吧
+Come on.
+
+303
+00:21:56,270 --> 00:21:58,600
+这是医生那来的报告
+Here's a report from the Doc.
+
+304
+00:22:00,730 --> 00:22:03,480
+上百名陆战队员太虚弱无法工作
+A hundred Marines too weak to work.
+
+305
+00:22:03,940 --> 00:22:06,070
+200多名等着打点滴
+Two hundred more are ready to drop.
+
+306
+00:22:06,240 --> 00:22:08,490
+这是可以阻缓饥饿的
+That's gonna slow down the harvest.
+
+307
+00:22:09,530 --> 00:22:13,280
+刚才这批平民看来搞出不少麻烦
+The last batch of passengers kicked up some trouble.
+
+308
+00:22:13,620 --> 00:22:15,330
+你把这些家伙带到那一边
+You get these people to the other side
+
+309
+00:22:15,410 --> 00:22:18,960
+他们想着会有做好的饭等着他们去吃
+and they think there's a diner and a chef waiting to take their order.
+
+310
+00:22:19,040 --> 00:22:20,380
+我知道
+I know.
+
+311
+00:22:21,630 --> 00:22:25,590
+他们何时才学会得到就必须要付出呢?
+They got to learn we got to process the thing first, for frak's sake.
+
+312
+00:22:25,670 --> 00:22:29,010
+告诉他们这些话  让他们把自己肚子勒紧点
+Try telling that to a bunch of empty stomachs.
+
+313
+00:22:29,090 --> 00:22:32,800
+我听说他们还在吃纸 是不是这样?
+I hear they're still eating paper. Is that true?
+
+314
+00:22:32,890 --> 00:22:35,180
+不 纸张也短缺
+No. Paper shortage.
+
+315
+00:23:01,460 --> 00:23:02,960
+不是个好消息!
+Not a good sign.
+
+316
+00:23:06,090 --> 00:23:07,090
+的确不是  长官
+No, sir.
+
+317
+00:23:34,200 --> 00:23:38,620
+当你重生的时候 你看到其余五名赛昂人的脸了吗?
+So while you resurrect, do you see the faces of the Final Five?
+
+318
+00:23:39,960 --> 00:23:42,080
+没人见过他们
+The ones that no one's seen?
+
+319
+00:23:42,170 --> 00:23:43,960
+你为什么对他们感兴趣?
+Why do you want to know about them?
+
+320
+00:23:45,500 --> 00:23:47,840
+我可能是个赛昂人
+I could be a Cylon.
+
+321
+00:23:49,880 --> 00:23:52,840
+我可能不再是那帮人的叛徒
+I would stop being a traitor to one set of people
+
+322
+00:23:54,850 --> 00:23:58,220
+而是另一帮人的英雄
+and be a hero to another,
+
+323
+00:23:59,850 --> 00:24:02,020
+并且有一个归属的地方
+and have a place to belong.
+
+324
+00:24:04,860 --> 00:24:07,610
+你可以帮我了解我的使命
+You would help me understand my destiny.
+
+325
+00:24:11,490 --> 00:24:12,700
+你看到我的脸了吗?
+Have you seen my face?
+
+326
+00:24:12,780 --> 00:24:13,860
+你的脸?
+Your face?
+
+327
+00:24:14,700 --> 00:24:16,370
+是  我的脸
+Yes, my face.
+
+328
+00:24:19,040 --> 00:24:20,450
+我不记得了
+I can't remember.
+
+329
+00:24:23,170 --> 00:24:27,460
+当我脑子还清楚记得的时候我试图把他们都画到纸上  
+I've been trying to get it all down on paper while it's still fresh in my mind,
+
+330
+00:24:27,550 --> 00:24:30,340
+但是总无法记得比这些更多的
+but nothing much comes out.
+
+331
+00:24:32,130 --> 00:24:34,380
+我记得的都是些垃圾  我无法记住....
+It's rubbish. I can't remember.
+
+332
+00:24:36,100 --> 00:24:38,760
+是赛昂人  还是人类
+Cylons, humans...
+
+333
+00:24:42,180 --> 00:24:46,900
+是我们在探索我们是谁?
+We're all just trying to discover who we are.
+
+334
+00:24:49,020 --> 00:24:50,400
+不是吗?
+Aren't we?
+
+335
+00:25:02,370 --> 00:25:04,000
+嘿  恩佐
+Okay. Hey, Enzo.
+
+336
+00:25:10,670 --> 00:25:11,670
+是的
+Yeah?
+
+337
+00:25:16,510 --> 00:25:18,720
+我冒用了劳安·凯特瑞恩这个女孩的名字
+I took the name Louanne Katraine from a girl
+
+338
+00:25:18,800 --> 00:25:21,930
+她在卡布里卡受袭两天前就死了
+who died two days before the attack on Caprica.
+
+339
+00:25:23,980 --> 00:25:26,600
+这让我通过了背景调查
+It got me through the background checks.
+
+340
+00:25:26,940 --> 00:25:30,150
+是啊  当时确实不容易  继续讲
+Yeah, times were rough. Keep going.
+
+341
+00:25:36,610 --> 00:25:38,530
+我是个毒贩
+I was a drug runner.
+
+342
+00:25:39,450 --> 00:25:41,370
+恩佐是我的上家
+Enzo was my supplier.
+
+343
+00:25:43,910 --> 00:25:45,830
+你想干什么?  我们是贩毒的  行了吗?
+What do you want? We were truckers, okay?
+
+344
+00:25:45,920 --> 00:25:47,750
+我们只是跑腿的
+We just moved stuff.
+
+345
+00:25:48,670 --> 00:25:49,670
+民众
+People.
+
+346
+00:25:51,300 --> 00:25:56,470
+你知道的  某些人以为那是赛昂人渗透进卡布里卡的方法
+You see, some think that, that's the way that the Cylons infiltrated Caprica.
+
+347
+00:25:58,340 --> 00:26:00,010
+他们像种子一样撒遍整个殖民地外围地区
+They seeded themselves throughout the outer colonies,
+
+348
+00:26:00,100 --> 00:26:03,720
+然后通过犯罪进入首都
+and then they used criminals to get them into the capital.
+
+349
+00:26:05,810 --> 00:26:10,480
+不论是谁被发现帮助了赛昂人都会被认为是叛国者
+Anyone who's found guilty of helping the Cylons is considered a traitor.
+
+350
+00:26:11,980 --> 00:26:13,860
+我们没有带赛昂人 你怎么知道没有呢?
+We didn't carry Cylons. How do you know?
+
+351
+00:26:13,940 --> 00:26:15,240
+因为没人知道他们长得像我们
+Because nobody knew that they looked like us.
+
+352
+00:26:15,320 --> 00:26:17,490
+那你怎么知道你没带过呢?
+Then how do you know you didn't?
+
+353
+00:26:22,990 --> 00:26:24,040
+你怎么知道呢?
+How do you know?
+
+354
+00:26:24,120 --> 00:26:25,500
+你认为我是个叛国者
+You think I'm a traitor?
+
+355
+00:26:28,420 --> 00:26:30,330
+我认为我是个叛国者?
+You think I'm a traitor?
+
+356
+00:26:32,670 --> 00:26:36,630
+不 我不认为你是个叛国者
+No. I don't think you're a traitor.
+
+357
+00:26:39,090 --> 00:26:41,340
+你是个聪明的年轻女人
+You're a smart young woman.
+
+358
+00:26:42,600 --> 00:26:45,560
+那是老头子说的
+That's what the old man said.
+
+359
+00:26:45,640 --> 00:26:49,350
+你只是没有聪明到面对真正的自我
+You're just not smart enough to accept who you are.
+
+360
+00:26:50,690 --> 00:26:55,190
+你看  你通过欺骗的方法进入了我们这个好人帮
+You see, you lied your way into the company of good people.
+
+361
+00:27:01,910 --> 00:27:04,370
+星芭  不要告诉上将
+Starbuck, don't tell the Admiral.
+
+362
+00:27:05,450 --> 00:27:06,450
+求你
+Please.
+
+363
+00:27:07,540 --> 00:27:09,750
+不要告诉他  否则我…    否则什么?
+Please don't, or I... Or what?
+
+364
+00:27:11,420 --> 00:27:13,790
+星芭  请让我自己告诉他
+Please. Just let me tell him myself.
+
+365
+00:27:15,000 --> 00:27:16,920
+请让我自己说
+Please, just let me.
+
+366
+00:27:18,880 --> 00:27:20,510
+这样你同意吗?
+Can you do that?
+
+367
+00:27:30,600 --> 00:27:31,600
+老天
+Gods.
+
+368
+00:27:49,120 --> 00:27:52,580
+一度 名义角度
+HYBRID: One degree. Angle nominal.
+
+369
+00:27:54,630 --> 00:27:59,010
+妇女儿童的海景肖像画心灵的深处
+Seascape portrait of the woman-child, cavern of the soul.
+
+370
+00:27:59,090 --> 00:28:02,760
+压力下热度
+Under pressure heat ratio.
+
+371
+00:28:02,840 --> 00:28:05,640
+进化让他们不再恐惧
+lons of evolution have buried their fuse.
+
+372
+00:28:05,720 --> 00:28:11,480
+你就是在这里找到灵感?  不断地进行复活
+So, this is where you got the idea to start intentionally downloading?
+
+373
+00:28:12,600 --> 00:28:14,100
+完形治疗
+Gestalt therapy.
+
+374
+00:28:16,940 --> 00:28:19,650
+好  让我们看看能找到什么
+All right, let's see what we can find out.
+
+375
+00:28:19,940 --> 00:28:23,360
+历史上  人和机器的联结
+HYBRID: Throughout history, the nexus between man and machine
+
+376
+00:28:23,450 --> 00:28:27,580
+创造出了最具戏剧性的  最吸引人的  
+has spawned some of the most dramatic and compelling...
+
+377
+00:28:27,660 --> 00:28:32,830
+盖尤斯 你知道你在干什么吗?
+Gaius, what do you think you're doing?
+
+378
+00:28:40,960 --> 00:28:42,630
+别碰它!
+Don't touch it.
+
+379
+00:28:47,600 --> 00:28:49,310
+智能
+Intelligence.
+
+380
+00:28:49,970 --> 00:28:52,270
+想火一样燃烧的思想
+A mind that burns like a fire.
+
+381
+00:28:54,400 --> 00:28:56,020
+是的  我在
+Yes. I'm here.
+
+382
+00:28:56,110 --> 00:28:59,690
+找到光芒旁的那只手
+Find the hand that lies in the shadow of the light.
+
+383
+00:28:59,780 --> 00:29:02,860
+在母兽夫君的眼睛中
+In the eye of the husband of the eye of the cow.
+
+384
+00:29:09,330 --> 00:29:10,830
+你还好吗?
+You all right?
+
+385
+00:29:15,670 --> 00:29:18,130
+她只说些胡话  不是吗?
+It just speaks nonsense, doesn't it?
+
+386
+00:29:20,800 --> 00:29:23,340
+我不认为她说的是胡话
+I don't think anything it says is nonsense.
+
+387
+00:29:24,510 --> 00:29:28,590
+眼睛的丈夫 那眼睛是
+The husband of the eye. The eye of the...
+
+388
+00:29:30,930 --> 00:29:31,930
+是赫拉的
+Hera.
+
+389
+00:29:33,850 --> 00:29:38,770
+赫拉  有些时候被称为牛眼赫拉
+Hera, sometimes referred to as cow-eyed Hera.
+
+390
+00:29:41,650 --> 00:29:43,190
+赫拉的丈夫...
+And the husband of Hera...
+
+391
+00:29:43,280 --> 00:29:44,650
+是朱庇特
+Is Jupiter.
+
+392
+00:29:44,740 --> 00:29:46,360
+朱庇特之眼
+The Eye of Jupiter.
+
+393
+00:29:46,490 --> 00:29:48,700
+那是古代神书上的东西
+That's written about in the ancient texts.
+
+394
+00:29:50,780 --> 00:29:52,200
+天呀
+My God.
+
+395
+00:29:52,870 --> 00:29:56,000
+会不会在他们的神和我们的神之间有什么联系?
+Could there be a connection between their Gods and ours?
+
+396
+00:29:57,880 --> 00:30:00,000
+那意味着什么?
+What does it mean?
+
+397
+00:30:00,710 --> 00:30:02,380
+那是个方位
+It's a location.
+
+398
+00:30:03,420 --> 00:30:05,510
+一颗隐藏于光芒中的行星 
+A planet hidden in the shadow of light.
+
+399
+00:30:05,590 --> 00:30:08,130
+可能是在一堆星团中
+Probably a cluster of stars.
+
+400
+00:30:09,220 --> 00:30:11,600
+那会指引我们找到朱庇特之眼
+That will lead us to the Eye of Jupiter.
+
+401
+00:30:14,560 --> 00:30:19,400
+并找到藏在光芒中的那只手
+As to the hand hidden in the shadow of light,
+
+402
+00:30:21,060 --> 00:30:23,770
+可能是某种神器
+it's probably some type of artifact.
+
+403
+00:30:26,400 --> 00:30:27,400
+手
+Hand.
+
+404
+00:30:29,240 --> 00:30:31,320
+有五个手指
+As in five.
+
+405
+00:30:33,910 --> 00:30:35,580
+代表五张面孔
+Five faces.
+
+406
+00:30:40,000 --> 00:30:42,960
+现在我们需要做的就是找到那颗正确的行星
+Now all we have to do is find the right planet.
+
+407
+00:30:46,630 --> 00:30:48,220
+在一个星团里
+The right star cluster.
+
+408
+00:31:45,020 --> 00:31:46,400
+起来面对真正的自我
+Accept who you are.
+
+409
+00:31:50,490 --> 00:31:52,110
+起来面对真正的自我
+Accept who you are.
+
+410
+00:31:58,660 --> 00:32:00,200
+起来面对真正的自我
+Accept who you are.
+
+411
+00:32:00,750 --> 00:32:01,750
+对
+Yeah.
+
+412
+00:32:04,960 --> 00:32:07,090
+还记得我吗？
+You remember me?
+
+413
+00:32:07,170 --> 00:32:08,250
+没错
+Yeah.
+
+414
+00:32:09,800 --> 00:32:11,840
+没错  我当然记得你
+Yeah, I remember you.
+
+415
+00:32:12,800 --> 00:32:15,050
+狗娘养的杂种
+Thieving bastard.
+
+416
+00:32:15,140 --> 00:32:17,510
+你会毁了我的一切
+You'll ruin everything I've got.
+
+417
+00:32:18,640 --> 00:32:20,100
+靠近我
+Come here.
+
+418
+00:33:24,750 --> 00:33:25,920
+Faru Sadin号  
+Faru Sadin.
+
+419
+00:33:26,250 --> 00:33:27,670
+报告你的位置
+Report your location.
+
+420
+00:33:27,750 --> 00:33:31,460
+凯特  你找到Faru Sadin号了吗?
+Kat, you got Faru Sadin?
+
+421
+00:33:33,090 --> 00:33:35,260
+凯特  你找到Faru Sadin号了吗?
+Kat, you got Faru Sadin?
+
+422
+00:33:35,340 --> 00:33:36,550
+凯特?
+Kat?
+
+423
+00:33:37,140 --> 00:33:38,640
+凯特  请回答!
+Kat, report.
+
+424
+00:33:41,390 --> 00:33:42,390
+没有
+Negative.
+
+425
+00:33:43,310 --> 00:33:44,310
+凯特…
+Kat...
+
+426
+00:33:45,480 --> 00:33:48,190
+妈的!  我把Faru Sadin号弄丢了!
+Frak! I've lost the Faru Sadin!
+
+427
+00:33:48,270 --> 00:33:52,610
+长官  舰队普遍报告船体损坏加剧
+Sir, escalating damage reports, ship-wide.
+
+428
+00:33:52,690 --> 00:33:55,950
+维修小组报告出现连续的气压不稳定
+Engineers are reporting a cascade of pressure failures.
+
+429
+00:33:56,030 --> 00:33:59,030
+跳跃点开始变得不稳定 我们必须赶快离开这里
+Jump spot's become unstable. We've gotta get out of here.
+
+430
+00:33:59,120 --> 00:34:00,240
+打开全员频道
+Open line.
+
+431
+00:34:00,330 --> 00:34:01,530
+是  长官
+HOSHI: Aye, sir.
+
+432
+00:34:02,870 --> 00:34:04,120
+线路通了
+Channel open.
+
+433
+00:34:04,450 --> 00:34:08,210
+阿波罗 这里是卡拉狄卡 全体实施跳跃
+Apollo, Galactica Actual. Jump all.
+
+434
+00:34:08,290 --> 00:34:10,250
+重复一遍 全体实施跳跃
+Repeat. Jump all.
+
+435
+00:34:10,340 --> 00:34:12,210
+好啦 上将的命令
+All right, Admiral's calling it.
+
+436
+00:34:12,300 --> 00:34:15,010
+所有人听我的命令实施跳跃
+Everyone, jump on my mark.
+
+437
+00:34:16,260 --> 00:34:17,880
+我不能再带丢另一艘飞船
+I'm not losing another one.
+
+438
+00:34:17,970 --> 00:34:20,510
+3  2  1  实施跳跃!
+Three, two, one. Mark!
+
+439
+00:34:33,570 --> 00:34:36,360
+阿波罗 星芭 我没看见凯特
+Apollo, Starbuck. I don't see Kat.
+
+440
+00:34:48,500 --> 00:34:49,500
+报告情况
+Report.
+
+441
+00:34:53,000 --> 00:34:56,210
+我们弄丢了Faru Sadin号还有一架猛禽
+We're missing Faru Sadin and one Raptor.
+
+442
+00:34:56,300 --> 00:34:57,670
+是凯特的
+GAETA: It's Kat.
+
+443
+00:34:58,510 --> 00:35:01,430
+她一定是没听到命令  还在那里
+She must have missed the order. She's still out there.
+
+444
+00:35:01,510 --> 00:35:02,510
+见鬼
+Damn.
+
+445
+00:35:04,060 --> 00:35:08,270
+Faru Sadin号  我是凯特  报告你的位置
+Faru Sadin, this is Kat. Report your location.
+
+446
+00:35:15,480 --> 00:35:16,690
+他妈的!
+Frak!
+
+447
+00:35:46,720 --> 00:35:49,680
+回来吧  孩子  回家来吧
+TIGH: Come on, kid. Come on home.
+
+448
+00:36:12,250 --> 00:36:13,250
+是他们
+HOSHI: It's them.
+
+449
+00:36:15,290 --> 00:36:17,170
+凯特把Faru Sadin号带回来了
+She brought them home.
+
+450
+00:36:19,460 --> 00:36:22,340
+卡拉狄卡  我是凯特
+Galactica, Kat.
+
+451
+00:36:23,090 --> 00:36:24,930
+任务完成
+Mission accomplished.
+
+452
+00:37:26,320 --> 00:37:28,280
+他们说你想见我
+They said you wanted to see me.
+
+453
+00:37:28,370 --> 00:37:29,370
+对
+Yeah.
+
+454
+00:37:30,700 --> 00:37:33,080
+我觉得我们之间不应该象上次那样结束
+I don't think we should end the way we ended.
+
+455
+00:37:33,620 --> 00:37:35,000
+听着  嗯
+Listen.
+
+456
+00:37:37,830 --> 00:37:39,790
+每个人都...
+Everybody is...
+
+457
+00:37:42,260 --> 00:37:47,380
+每个人都在被自己曾经的过错所折磨
+Everybody is stuck with the things that they're not proud of.
+
+458
+00:37:49,890 --> 00:37:53,520
+那个  嗯  我的那个关于所谓好人的说法
+And that... That thing about good people, I...
+
+459
+00:37:55,020 --> 00:37:56,520
+我不是那个意思
+I didn't mean that.
+
+460
+00:37:58,810 --> 00:38:00,610
+我知道
+Yeah, I know.
+
+461
+00:38:06,360 --> 00:38:07,360
+给你
+Here.
+
+462
+00:38:08,870 --> 00:38:11,200
+拿着  这是安眠药
+Take these. Sleeping pills.
+
+463
+00:38:15,790 --> 00:38:16,790
+这些已经足够了
+Enough.
+
+464
+00:38:19,380 --> 00:38:21,880
+你想了断的话就用它吧
+So, take them if you want.
+
+465
+00:38:22,710 --> 00:38:23,840
+谢谢
+Thank you.
+
+466
+00:38:26,880 --> 00:38:28,380
+我得走了
+I got to go.
+
+467
+00:38:42,610 --> 00:38:44,110
+上将  我...
+Admiral, I...
+
+468
+00:38:44,730 --> 00:38:47,070
+我违背了您的命令  对不起
+I know. I'm sorry.
+
+469
+00:38:48,570 --> 00:38:50,570
+我不是来这儿说教的
+I'm not here to lecture.
+
+470
+00:38:53,200 --> 00:38:56,040
+我是来为你晋级的
+I'm letting you know about a promotion.
+
+471
+00:38:57,160 --> 00:38:59,750
+我现在重新晋升你为CAG(空军指挥官)
+I'm making you CAG again.
+
+472
+00:39:02,250 --> 00:39:04,920
+长官  你知道我是不会痊愈了的  对吗?
+Sir, you know I'm not getting out of here, right?
+
+473
+00:39:05,010 --> 00:39:06,380
+它是你用实际行动赢得的
+But you earned it.
+
+474
+00:39:08,590 --> 00:39:11,800
+你所做到的比面对枪林弹雨还要困难
+What you did was harder than facing a bullet,
+
+475
+00:39:11,890 --> 00:39:17,020
+而你却为了拯救其他人的生命毫不犹豫地去做
+and you did it without putting one other soul in harm's way.
+
+476
+00:39:18,060 --> 00:39:20,560
+如果换成是我  我都不知道自己能不能做到
+I don't know if I could've done that.
+
+477
+00:39:22,060 --> 00:39:24,360
+我真的希望能够给予你更高的奖赏和鼓励
+I wish there was something more that I could give you.
+
+478
+00:39:24,440 --> 00:39:27,940
+不 这足够好了
+No. It's good.
+
+479
+00:39:30,240 --> 00:39:32,780
+我非常愿意成为CAG
+I would like to be a CAG very much.
+
+480
+00:39:34,120 --> 00:39:35,450
+谢谢你
+Thank you.
+
+481
+00:39:45,340 --> 00:39:46,750
+有件事情
+There's a thing...
+
+482
+00:39:49,470 --> 00:39:52,590
+可能会让你后悔刚才的决定
+A reason why you might not want to do this.
+
+483
+00:39:55,310 --> 00:39:58,390
+卡拉知道这件事
+Kara knows what it is,
+
+484
+00:39:58,810 --> 00:40:01,060
+但我想亲自告诉你
+but I wanted to tell you myself.
+
+485
+00:40:01,480 --> 00:40:05,360
+除了我已经知道的 我不想再知道更多了
+I don't need to know anything other than what I already know.
+
+486
+00:40:06,070 --> 00:40:07,610
+当初你还是CAG的时候
+When you were CAG,
+
+487
+00:40:09,110 --> 00:40:10,610
+你尽力保护你的队员
+you protected your people,
+
+488
+00:40:11,490 --> 00:40:14,160
+你让他们感觉到安全进而英勇无畏
+made them feel safe enough to be brave.
+
+489
+00:40:16,160 --> 00:40:19,870
+你刚才想要说的能改变你所做出的杰出贡献吗？
+What you were gonna say doesn't change that.
+
+490
+00:40:37,060 --> 00:40:40,430
+你...你不走吗？
+Are you... Are you staying?
+
+491
+00:40:41,140 --> 00:40:44,190
+嗯  我留下来陪你
+Oh, I'm staying.
+
+492
+00:40:46,360 --> 00:40:49,320
+某种程度上我喜欢这间病房
+I love this sick bay, in a way.
+
+493
+00:40:52,200 --> 00:40:56,280
+会让我想起我儿子Zak出生的地方
+It reminds me of where my son, Zak, was born.
+
+494
+00:40:58,450 --> 00:41:01,660
+卡罗安妮当时是那么的高兴
+Carolanne was so happy.
+
+495
+00:41:03,710 --> 00:41:05,920
+她以为
+She was convinced,
+
+496
+00:41:07,630 --> 00:41:10,710
+两次怀的都是女孩
+both times, that she was having a girl.
+
+497
+00:41:12,300 --> 00:41:15,010
+所以最后都是非常的惊喜
+So it was a surprise at the end.
+
+498
+00:41:16,220 --> 00:41:18,930
+你也想要个女儿吗？
+Did you want a girl, too?
+
+499
+00:41:21,930 --> 00:41:23,350
+是啊
+Yeah.
+
+500
+00:41:23,890 --> 00:41:25,850
+三是个吉利的数字
+Three's a good round number.
+

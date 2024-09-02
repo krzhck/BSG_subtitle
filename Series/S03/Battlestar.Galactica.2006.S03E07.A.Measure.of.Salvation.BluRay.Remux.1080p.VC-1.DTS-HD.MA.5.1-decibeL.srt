@@ -1,0 +1,2575 @@
+1
+00:00:22,850 --> 00:00:25,560
+《太空堡垒卡拉狄加》 前情提要
+HELO: Previously on Battlestar Galactica.
+
+2
+00:00:25,650 --> 00:00:28,820
+舰队里的一些人相信 地球的传说
+Some people in the Fleet believe that the legend of Earth held,
+
+3
+00:00:28,900 --> 00:00:31,690
+也许是我们生存下去的最好保证
+perhaps, the greatest promise for our survival.
+
+4
+00:00:31,780 --> 00:00:32,990
+知道怎么找到它吗?
+Do you know how to find it?
+
+5
+00:00:33,070 --> 00:00:34,860
+不太清楚
+Not really, no.
+
+6
+00:00:34,950 --> 00:00:38,120
+有个希望 如果你知道去地球的方法
+There was a hope, my hope, that if you knew the way to Earth,
+
+7
+00:00:38,200 --> 00:00:40,660
+那能确保让你活得更久一些
+it would justify keeping you alive a little longer.
+
+8
+00:00:40,740 --> 00:00:44,250
+我不知道地球的具体位置
+Now when I say that I do not know exactly where Earth is,
+
+9
+00:00:44,330 --> 00:00:45,790
+并不意味我不知道 
+that is not to say that I do not know
+
+10
+00:00:45,870 --> 00:00:48,080
+大量关于地球大概位置的信息
+a very great deal about its probable location.
+
+11
+00:00:48,170 --> 00:00:49,340
+那艘基地之星
+DORAL: A Baseship,
+
+12
+00:00:49,420 --> 00:00:52,260
+就是我们派过去调查狮子星云中脉冲星的那艘
+the one we sent to investigate the pulsars in the Lion nebula,
+
+13
+00:00:52,340 --> 00:00:53,420
+我们失去了联络
+we've lost contact.
+
+14
+00:00:53,510 --> 00:00:54,630
+失踪的基地之星
+CAPRICA SIX: The missing Baseship,
+
+15
+00:00:54,720 --> 00:00:56,220
+可能感染了某种病毒
+it's been infected by some kind of disease.
+
+16
+00:00:56,300 --> 00:00:57,930
+如果一个感染的赛昂人死亡
+If an infected Cylon dies
+
+17
+00:00:58,010 --> 00:01:00,220
+把病毒带着一起返回了复活船 
+and carries this disease with them into a Resurrection ship,
+
+18
+00:01:00,310 --> 00:01:03,560
+那可能会快速蔓延 会威胁到我们整个族群
+it could rapidly spread, potentially infecting our entire race.
+
+19
+00:01:03,640 --> 00:01:08,350
+只要我们其中一个复活了 那个病毒就会跟随而入
+If one of us is resurrected, the disease will follow.
+
+20
+00:01:08,440 --> 00:01:11,730
+没有一个赛昂人能不被感染地登上那艘船
+Then no Cylon can board that ship without risking infection.
+
+21
+00:01:11,820 --> 00:01:14,650
+我去 是的 我去
+I'll go. Yes, I'll go.
+
+22
+00:01:14,740 --> 00:01:16,240
+我可以去那个基地之星
+I can go to the Baseship.
+
+23
+00:01:16,320 --> 00:01:19,320
+我可以对上面的赛昂人进行观察 检查他们的身体状况
+I can make observations about the Cylons, their physical condition,
+
+24
+00:01:19,410 --> 00:01:24,290
+带回关于让你们都在恐惧的病毒的信息
+bring back information about this disease which now threatens all of you.
+
+25
+00:01:24,370 --> 00:01:25,910
+你知道这是什么吗?
+BALTAR: Do you know what this is?
+
+26
+00:01:26,000 --> 00:01:28,290
+肯定是某种信标
+It must be some kind of beacon.
+
+27
+00:01:28,380 --> 00:01:31,590
+第13部落遗留下来的
+It must have been left here by the Thirteenth Tribe.
+
+28
+00:01:31,670 --> 00:01:36,470
+那个信标带有病毒 是人类留下来毁灭我们的
+A beacon carried the disease, left by some humans like you to destroy us.
+
+29
+00:01:36,550 --> 00:01:39,590
+你没发现被感染船上有什么可疑的吗?
+You noticed nothing suspicious on the infected ship?
+
+30
+00:01:39,680 --> 00:01:41,760
+没有什么特别的
+Nothing whatsoever.
+
+31
+00:01:41,850 --> 00:01:44,640
+我和你一样困惑
+I am just as baffled as you are.
+
+32
+00:01:51,060 --> 00:01:52,520
+就如那份手稿所写 
+RACETRACK: Just like the scriptures say.
+
+33
+00:01:52,610 --> 00:01:56,360
+就在那里  狮头星云  还有闪耀的眼睛
+There it is, the Lion's Head nebula and the Blinking Eye.
+
+34
+00:01:57,610 --> 00:02:00,360
+我的天 那是通往地球的道路
+Holy crap, it's the road to Earth!
+
+35
+00:02:08,870 --> 00:02:12,290
+这里是战斗分队  A计划准备完毕
+APOLLO: This is Combat, dressed and ready, plan A.
+
+36
+00:02:12,380 --> 00:02:13,750
+我们正在接近基地之星
+We are approaching the Baseship.
+
+37
+00:02:25,600 --> 00:02:27,430
+这很反常
+It is just so wrong.
+
+38
+00:02:27,520 --> 00:02:29,440
+到底里面发生了什么?
+What the hell happened here?
+
+39
+00:02:29,520 --> 00:02:31,900
+不管发生了什么 对我们来说都是新的机遇
+ATHENA: Whatever this is, it's something new.
+
+40
+00:02:38,740 --> 00:02:39,900
+执行
+Go.
+
+41
+00:02:40,490 --> 00:02:42,910
+阿波罗  这是卡拉狄加  开始行动
+Apollo, Galactica. You are cleared hot.
+
+42
+00:02:43,740 --> 00:02:46,200
+收到 卡拉狄加
+APOLLO: Roger that, Galactica.
+
+43
+00:02:46,290 --> 00:02:47,660
+我们现在离它相当近
+We're in pretty close now.
+
+44
+00:02:47,750 --> 00:02:51,540
+可用肉眼观察它 飞船看起来没有战斗能力了
+By the look of it, that ship's in no condition to put up a fight.
+
+45
+00:02:51,630 --> 00:02:54,460
+我从未见过这种情况  我们继续吗?  
+I've never seen anything like this. Shall we proceed?
+
+46
+00:02:54,550 --> 00:02:56,090
+坐好了 伙计们
+Hang on, guys!
+
+47
+00:02:56,170 --> 00:02:58,630
+多加小心  阿波罗
+HELO: Use extreme caution, Apollo.
+
+48
+00:03:24,830 --> 00:03:27,330
+设置防御带  准备进入
+APOLLO: Set perimeter. Up inside, everyone.
+
+49
+00:03:48,560 --> 00:03:50,930
+卡拉狄加 我是阿波罗 我们进来了
+Galactica, Apollo. We're in.
+
+50
+00:04:03,530 --> 00:04:05,320
+卡拉狄加 我是阿波罗 没有生命迹象
+Galactica, Apollo. No sign of life.
+
+51
+00:04:05,450 --> 00:04:08,830
+飞船看起来是被遗弃并关闭了
+Ship appears to be abandoned and powering down.
+
+52
+00:04:26,470 --> 00:04:28,390
+见鬼了?
+APOLLO: What the hell?
+
+53
+00:04:40,320 --> 00:04:42,530
+上帝 这里发生过什么?
+Gods. What happened here?
+
+54
+00:04:42,610 --> 00:04:46,910
+我不知道 但他们该死的复活船有得忙了
+I don't know, but their frakking Resurrection ship's gonna overheat.
+
+55
+00:04:56,540 --> 00:04:59,460
+卡拉狄加  我是阿波罗  我们到了控制中心
+Galactica, Apollo. We've reached the control center.
+
+56
+00:04:59,540 --> 00:05:02,210
+有30...也许是40具人形赛昂的尸体
+Thirty, maybe forty dead skin jobs.
+
+57
+00:05:02,880 --> 00:05:05,550
+马赛厄斯 设置防御带!
+Mathias, set a perimeter!
+
+58
+00:05:05,630 --> 00:05:10,010
+莎伦...雅典娜  去看看能从电脑那里找到什么
+Sharon, Athena, see what you can pick up in the computers.
+
+59
+00:05:10,810 --> 00:05:13,470
+分成3个火力小分队  每个队守一个门  快去
+MATHIAS: Three fire teams, each doorway. Go!
+
+60
+00:05:13,560 --> 00:05:14,770
+是 长官
+MARINE: Yes, sir.
+
+61
+00:05:19,400 --> 00:05:21,480
+好的 我准备连入数据库
+ATHENA: Okay, I'm gonna try to call up the database.
+
+62
+00:05:21,570 --> 00:05:24,780
+如果我能联接上 把固体继电器导入那边的液体中
+If I get a connection, put the SSR leads in the water over there.
+
+63
+00:05:24,860 --> 00:05:28,490
+降低错误检校级别 来扩大数据传输带宽
+Reduce the error correction levels for highest throughput.
+
+64
+00:05:35,710 --> 00:05:37,460
+你确定想这么做吗?
+RACETRACK: You sure you wanna do that?
+
+65
+00:05:37,540 --> 00:05:39,000
+就这么做了
+ATHENA: It's how it works.
+
+66
+00:05:48,930 --> 00:05:50,390
+你还好吗?
+You okay?
+
+67
+00:05:53,140 --> 00:05:55,980
+还好  数据库已经差不多都损坏了
+Yeah. The data points are almost completely corroded.
+
+68
+00:05:56,060 --> 00:06:00,020
+我不知道我能够得到什么信息 但我会试的
+I don't know if I'm gonna get much out of here, but let's try.
+
+69
+00:06:08,110 --> 00:06:10,450
+进行得怎么样了?
+What is going on?
+
+70
+00:06:10,530 --> 00:06:13,120
+已进入所有防御带
+MARINE: We're now inside all perimeters.
+
+71
+00:06:16,460 --> 00:06:19,080
+妈的! 这个还活着呢!
+Frak me! This one's alive!
+
+72
+00:06:19,170 --> 00:06:21,920
+这儿! 我们找到个活的!
+We got a live one over here!
+
+73
+00:06:22,000 --> 00:06:23,920
+丹利 彼得斯 掩护大家!
+MATHIAS: Danelli, Peters, cover the Major!
+
+74
+00:06:24,000 --> 00:06:26,050
+他们是活的!
+APOLLO: They're alive!
+
+75
+00:06:26,130 --> 00:06:30,760
+卡拉狄加 我是阿波罗 我们找到1 2 3 4 
+Galactica, Apollo. We've got one, two, three, four,
+
+76
+00:06:30,840 --> 00:06:32,850
+5个活的赛昂人
+five living skin jobs down here.
+
+77
+00:06:32,930 --> 00:06:35,390
+我重复一次 5个活着的
+I say again, five... Five living.
+
+78
+00:06:36,100 --> 00:06:37,310
+你们开火了吗?
+HELO: Are you taking fire?
+
+79
+00:06:37,390 --> 00:06:39,350
+没有 没有
+Negative, negative.
+
+80
+00:06:39,440 --> 00:06:40,850
+他们看起来状况不妙
+They seem in pretty bad shape.
+
+81
+00:06:40,940 --> 00:06:43,270
+不要大意 如果他们有什么危险举动
+Don't take any chances. If they make any threatening moves...
+
+82
+00:06:43,360 --> 00:06:45,650
+相信我吧
+APOLLO: You can trust me on that one.
+
+83
+00:06:45,730 --> 00:06:47,110
+趴下
+MARINE: Stay down!
+
+84
+00:06:47,190 --> 00:06:49,990
+上尉  我们该怎么办?  要把他们带出去吗?
+Major, what do we do? Should we take them out?
+
+85
+00:06:50,070 --> 00:06:52,660
+不要开火 不要开火!
+APOLLO: Hold your fire. Hold your fire!
+
+86
+00:06:55,990 --> 00:06:57,410
+别动 妈的
+MATHIAS: Stay, you frakkers!
+
+87
+00:06:57,500 --> 00:06:59,830
+我说了别开火!
+I said hold your fire!
+
+88
+00:07:03,040 --> 00:07:07,710
+赐予我们...力量...智慧...
+NO. 6:Grant us the strength, the wisdom.
+
+89
+00:07:07,800 --> 00:07:08,760
+他们在干什么呢?
+APOLLO: What are they doing?
+
+90
+00:07:08,840 --> 00:07:11,970
+最重要的...承诺的量度
+Above all, a measure...
+
+91
+00:07:12,050 --> 00:07:14,930
+嗨 雅典娜 你在干什么?  雅典娜!
+Hey, Athena, what are you doing? Athena!
+
+92
+00:07:15,010 --> 00:07:17,390
+你在干什么?  雅典娜!
+What are you doing? Athena!
+
+93
+00:07:17,470 --> 00:07:20,480
+赐予我们...力量...智慧...
+Grant us the strength, the wisdom...
+
+94
+00:07:25,860 --> 00:07:27,440
+叛徒
+Traitor.
+
+95
+00:07:30,780 --> 00:07:32,610
+拯救你自己吧
+Save yourself.
+
+96
+00:07:32,700 --> 00:07:33,740
+从何说起?
+From what?
+
+97
+00:07:34,530 --> 00:07:36,370
+离我们远点
+Keep away from us.
+
+98
+00:07:36,990 --> 00:07:38,450
+这儿发生什么了?
+What happened here?
+
+99
+00:07:38,540 --> 00:07:43,710
+一个信标 我们把它带上船了
+NO. 6: The beacon, we brought it onboard.
+
+100
+00:07:46,550 --> 00:07:48,550
+它有病毒
+It carried a disease.
+
+101
+00:07:50,630 --> 00:07:52,720
+我们被感染了
+We're infected.
+
+102
+00:07:53,800 --> 00:07:55,470
+感染?
+Infected?
+
+103
+00:07:55,550 --> 00:07:56,510
+噢 他妈的!
+Son-of-a-bitch!
+
+104
+00:07:56,600 --> 00:07:57,680
+行了 行了 行了! 
+Okay, okay, okay!
+
+105
+00:07:57,760 --> 00:08:00,270
+冷静下来!
+Settle down, keep your heads!
+
+106
+00:08:00,350 --> 00:08:03,060
+看好门 看好门!
+Watch the doorways! Get the doorways!
+
+107
+00:08:06,400 --> 00:08:09,730
+卡拉狄加  我是阿波罗  我们这儿有个状况
+Galactica, Apollo. We have a situation down here.
+
+108
+00:08:13,990 --> 00:08:17,070
+那些赛昂人感染了一种病毒
+The Cylons have been infected with a disease.
+
+109
+00:08:18,410 --> 00:08:22,750
+我们都暴露在这里了 我们都暴露在这里了
+We have all been exposed. We've all been exposed.
+
+110
+00:09:24,020 --> 00:09:26,850
+他们登船后一定要执行隔离程序
+COTTLE: They'll have to come aboard under quarantine procedures.
+
+111
+00:09:26,940 --> 00:09:29,810
+从机库里清理出一条路通到医务室 并要消毒
+Clear a path from the hangar deck to sickbay and sterilize it,
+
+112
+00:09:29,900 --> 00:09:31,230
+而猛禽机跟随他们后面进来
+and the Raptors after they're in.
+
+113
+00:09:31,320 --> 00:09:32,900
+就交给我处理
+I'll handle that.
+
+114
+00:09:32,980 --> 00:09:34,740
+他们要隔离多长时间呢?
+How long will they have to stay in quarantine?
+
+115
+00:09:34,820 --> 00:09:36,150
+在血检结果出来前  我也不知道要多长时间
+I won't know that until I do the blood work.
+
+116
+00:09:36,240 --> 00:09:38,610
+可能几天或几星期  这是没法说的事情
+Could be days, weeks, there's no way to tell.
+
+117
+00:09:38,700 --> 00:09:40,990
+你说他们是被那个信标感染的?
+You said they picked up this disease from a beacon?
+
+118
+00:09:41,080 --> 00:09:42,580
+是赛昂人说的
+According to the Cylons.
+
+119
+00:09:42,660 --> 00:09:45,160
+能得到病原体的话就好了
+Always good to have the source of the pathogen.
+
+120
+00:09:45,250 --> 00:09:47,000
+你能把它给弄到卡拉狄加上吗?
+Can you bring it aboard Galactica?
+
+121
+00:09:47,080 --> 00:09:49,920
+不 太危险了 要限制暴露的危险
+No, too dangerous. I want to limit our exposure.
+
+122
+00:09:50,000 --> 00:09:51,460
+囚犯怎么样了?
+What about the prisoners?
+
+123
+00:09:51,540 --> 00:09:52,590
+囚犯?
+Prisoners?
+
+124
+00:09:52,670 --> 00:09:54,590
+他们体内的病毒要更高级一些
+The disease is more advanced in their systems,
+
+125
+00:09:54,670 --> 00:09:58,470
+所以我有了点想法 看看接下来病情会如何发展
+so it'll give me at least an idea of what to expect as it progresses.
+
+126
+00:09:58,550 --> 00:10:02,930
+而且等他们死后 就能知道我们的人能活多久了
+And when they die, it'll tell me how long our people have to live.
+
+127
+00:10:03,010 --> 00:10:04,180
+有多少囚犯?
+How many prisoners?
+
+128
+00:10:04,270 --> 00:10:05,810
+你抓到多少个?
+How many you got?
+
+129
+00:10:12,820 --> 00:10:15,480
+阿波罗 这是卡拉狄加 第一次检查
+HELO: Apollo, Galactica. Alpha check.
+
+130
+00:10:15,570 --> 00:10:18,700
+卡拉狄加 我们看到你们了 正在接近右舷机库
+Galactica. We have you in visual range. Approaching starboard hangar.
+
+131
+00:10:20,870 --> 00:10:22,700
+阿波罗  那是什么?
+HELO: Apollo, what was that?
+
+132
+00:10:25,040 --> 00:10:28,000
+基地之星释放出大量能量
+GAETA: Massive energy discharge from the Baseship!
+
+133
+00:10:30,330 --> 00:10:31,750
+它爆炸了 长官
+It exploded, sir.
+
+134
+00:10:31,840 --> 00:10:33,880
+阿波罗 这是卡拉狄加  你们大家都还好吧?
+Apollo, Galactica. You all right out there?
+
+135
+00:10:33,960 --> 00:10:36,960
+嗯  没事  我们还在这儿
+Yeah, affirmative. We're still here.
+
+136
+00:10:37,050 --> 00:10:38,260
+发生什么了?
+What the hell happened?
+
+137
+00:10:38,340 --> 00:10:40,430
+基地之星爆炸了 一定是自毁
+Baseship exploded. Must've self-destructed.
+
+138
+00:10:40,510 --> 00:10:42,470
+你们这些家伙真走运 能平安出来
+You guys are lucky you got out when you did.
+
+139
+00:10:42,550 --> 00:10:44,220
+收到
+Roger that.
+
+140
+00:11:14,340 --> 00:11:16,340
+我相信没什么问题
+Nothing the matter, I trust?
+
+141
+00:11:16,420 --> 00:11:17,840
+我们有些问题
+We have some questions.
+
+142
+00:11:17,920 --> 00:11:20,920
+为了背叛我们  你计划了多久   盖尤斯?
+How long have you planned to betray us, Gaius?
+
+143
+00:11:23,470 --> 00:11:24,890
+有趣
+Funny.
+
+144
+00:11:31,690 --> 00:11:33,350
+你当然是在开玩笑了
+You're joking, of course.
+
+145
+00:11:33,440 --> 00:11:35,270
+你这是对你自己不负责任了
+You're only making this harder on yourself.
+
+146
+00:11:35,360 --> 00:11:37,110
+等一等
+Wait a minute.
+
+147
+00:11:37,190 --> 00:11:41,200
+我是非常非常合作的 自从我来了以后
+I have been more than very accommodating since I arrived here.
+
+148
+00:11:41,280 --> 00:11:44,110
+我帮你们找到了莎伦的孩子
+I helped you find Sharon's baby.
+
+149
+00:11:44,200 --> 00:11:45,870
+我还帮你们搞到了通往地球的地图
+I've helped you with the map towards Earth.
+
+150
+00:11:45,950 --> 00:11:47,830
+我们知道信标的事情了 盖尤斯
+We know about the beacon, Gaius.
+
+151
+00:11:47,910 --> 00:11:51,750
+你知道它在那儿的 你知道那里有致命的病毒
+You knew it was out there. You knew it contained a deadly virus.
+
+152
+00:11:51,830 --> 00:11:54,250
+不 我不知道
+No, I didn't. I didn't.
+
+153
+00:11:54,330 --> 00:11:57,170
+是卡拉狄加发明了那种病毒吗?
+Was the virus created by Galactica?
+
+154
+00:11:57,250 --> 00:12:00,210
+自从你登船以后  你和他们联系过吗?
+D'ANNA: Have you been in contact with them since you've been on onboard,
+
+155
+00:12:00,300 --> 00:12:03,970
+或者说 在那次新卡布里卡大撤退之前就开始计划了?
+or did you plan this before the evacuation of New Caprica?
+
+156
+00:12:09,350 --> 00:12:12,980
+这是一个很大的误解
+This is a most profound misunderstanding.
+
+157
+00:12:13,060 --> 00:12:17,730
+我和那个病毒或那个信标没一点关系
+No. I had nothing to do with the virus or the beacon.
+
+158
+00:12:17,820 --> 00:12:22,530
+没错 我在基地之星上确实看到了它
+Yes. Yes, I did discover it on the Baseship
+
+159
+00:12:22,610 --> 00:12:26,070
+我是应该把这个情况及时跟你们说的 但是我没有
+and I should have told you about it sooner, and I didn't.
+
+160
+00:12:26,160 --> 00:12:28,740
+因为我想你们会把病毒和我…
+Because I thought, you know, you'd try and link me, you know,
+
+161
+00:12:28,830 --> 00:12:31,790
+联系起来 事实也是如此
+to the virus, which is what is going on right now.
+
+162
+00:12:31,870 --> 00:12:33,410
+我错了 那是个错误
+I was wrong and it was a mistake,
+
+163
+00:12:33,500 --> 00:12:35,370
+我完全承认我有责任
+and I fully admit my responsibility.
+
+164
+00:12:35,460 --> 00:12:36,750
+再也不会有这种事情了
+It will never happen again,
+
+165
+00:12:36,840 --> 00:12:42,710
+并且我希望你们接受我最真诚的歉意
+and I hope you accept my most, you know, my most humble apology.
+
+166
+00:12:48,350 --> 00:12:53,350
+我正在对那个道标的来历进行研究
+On a brighter note, I have a working theory as to where this beacon may...
+
+167
+00:13:01,190 --> 00:13:03,240
+对不起 盖尤斯
+I'm sorry, Gaius.
+
+168
+00:13:03,320 --> 00:13:07,450
+如果你告诉我们真相  事情会更简单些
+Things would've been so much simpler had you only told the truth.
+
+169
+00:13:10,160 --> 00:13:14,500
+我们认为你知道更多的病毒信息 我们得找出来
+We think you know more about this virus and we intend to find out.
+
+170
+00:13:38,900 --> 00:13:41,060
+放松 喝点东西吧
+Relax, have a drink.
+
+171
+00:13:43,190 --> 00:13:44,570
+我办不到
+I can't.
+
+172
+00:13:47,530 --> 00:13:50,820
+疼 疼
+The pain, the pain...
+
+173
+00:13:50,910 --> 00:13:53,040
+都是在你脑里的 盖尤斯
+It's all in your head, Gaius.
+
+174
+00:13:53,120 --> 00:13:57,080
+疼痛  快乐  那只是神经系统反馈给大脑的
+Pain, pleasure, they're just neural impulses sent to the brain.
+
+175
+00:13:57,170 --> 00:13:59,170
+是你决定怎么去解读这些信息
+You decide how to interpret them.
+
+176
+00:14:00,420 --> 00:14:03,130
+它们可以是愉快的或者不愉快的
+They can be pleasant or unpleasant.
+
+177
+00:14:23,110 --> 00:14:25,650
+不  不 请别这样!
+No! No, please!
+
+178
+00:14:28,150 --> 00:14:30,780
+求你们了!
+Please! No!
+
+179
+00:14:43,550 --> 00:14:45,800
+我也想停下来了 盖尤斯
+I want it to stop, Gaius.
+
+180
+00:14:46,800 --> 00:14:49,130
+我不想让你感受这种痛楚
+I don't want you to feel this pain.
+
+181
+00:14:49,220 --> 00:14:52,220
+卡布里卡  你也不想  对吧?
+And neither does Caprica. Do you?
+
+182
+00:14:52,300 --> 00:14:53,800
+是的
+No.
+
+183
+00:14:56,140 --> 00:14:58,100
+我爱你
+I love you.
+
+184
+00:15:06,780 --> 00:15:08,400
+你有什么感觉吗?
+You feel anything yet?
+
+185
+00:15:08,490 --> 00:15:11,280
+是的 我感觉恶心  被你烦得恶心
+Yeah. I feel sick. Sick of you bugging me.
+
+186
+00:15:11,360 --> 00:15:13,370
+你没有接触任何感染的尸体
+You didn't touch any infected skin jobs.
+
+187
+00:15:13,450 --> 00:15:15,330
+不是我的错 是你们笨
+It's not my fault you're clumsy.
+
+188
+00:15:15,410 --> 00:15:17,080
+你可以亲我感染了的屁股
+You can kiss my infected ass.
+
+189
+00:15:17,160 --> 00:15:20,540
+很好 你可以亲它  但它没有被感染  我把血检结果带来了
+Well, you can kiss it, but it's not infected. I got your blood work back.
+
+190
+00:15:20,620 --> 00:15:22,960
+人类对这种病毒是免疫的 你们都是健康的
+Humans are immune to the virus. You're all healthy.
+
+191
+00:15:23,040 --> 00:15:24,170
+谢谢
+Thank you.
+
+192
+00:15:24,250 --> 00:15:26,090
+好的 伙计们 干得好 让我们离开这里吧
+All right, people, nice job. Let's get out of here.
+
+193
+00:15:26,170 --> 00:15:28,630
+让我们离开这里吧
+PILOT: Come on, let's get out of here.
+
+194
+00:15:28,720 --> 00:15:31,130
+你不行 你要多待一段时间
+No. You stay put for a while.
+
+195
+00:15:38,600 --> 00:15:39,730
+是
+Yes!
+
+196
+00:15:43,900 --> 00:15:46,230
+不 不 不 不 请告诉我她没问题吧
+No, no, no, no, no. Please. Tell me she's okay.
+
+197
+00:15:46,320 --> 00:15:48,110
+我还没做她的血检呢
+I haven't done her blood work yet.
+
+198
+00:15:48,190 --> 00:15:49,190
+什么?
+What?
+
+199
+00:15:50,280 --> 00:15:52,780
+我知道了 她可以等 因为她不是人
+I see. She can wait because of who she isn't.
+
+200
+00:15:52,860 --> 00:15:54,360
+莎伦?
+Sharon?
+
+201
+00:15:56,870 --> 00:15:59,370
+你会没事的 我保证
+You're gonna be okay, I promise.
+
+202
+00:16:05,880 --> 00:16:07,380
+你是冲着我来的 该死的
+You come for me, Gods damn it,
+
+203
+00:16:07,460 --> 00:16:10,090
+你这样做就是冲着我的 你知道的
+you come for me the second you know.
+
+204
+00:16:53,340 --> 00:16:55,760
+把他带走 他快不行了
+Take him. He's the furthest gone.
+
+205
+00:16:59,350 --> 00:17:01,930
+不 不 不
+No! No! No.
+
+206
+00:17:09,360 --> 00:17:10,690
+你可以让赛昂人活下去?
+ROSLIN: You can keep the Cylons alive?
+
+207
+00:17:10,780 --> 00:17:12,690
+我没把握治愈他们 不过没错…
+I can't cure them, but yes.
+
+208
+00:17:12,780 --> 00:17:14,190
+多长时间?
+How long?
+
+209
+00:17:14,280 --> 00:17:15,700
+还不确定
+Indefinitely.
+
+210
+00:17:15,780 --> 00:17:20,490
+我识别出了病毒 我们把它叫做淋巴球性脑炎
+I identified the virus. We know it as "Lymphocytic encephalitis. "
+
+211
+00:17:20,580 --> 00:17:22,830
+是啮齿目动物会得的病 多数是鼠科
+The disease is carried by rodents, rats, mostly.
+
+212
+00:17:22,910 --> 00:17:26,500
+但几百年以前 人类对它有了免疫性
+But a couple of hundred years ago, humans developed an immunity.
+
+213
+00:17:26,580 --> 00:17:28,710
+现在我也可以做出一个简单的疫苗
+Now I can create a simple vaccine
+
+214
+00:17:28,790 --> 00:17:32,590
+可以把赛昂人体内病毒引起的病状明显改善
+that will dramatically reverse the effect of the virus on the Cylons.
+
+215
+00:17:32,670 --> 00:17:35,380
+但是 他们的血液里有抗体
+But they have an antibody in their blood 
+
+216
+00:17:35,381 --> 00:17:38,090
+会把疫苗的RNA给破坏
+which breaks down the RNA of the vaccine.
+
+217
+00:17:38,180 --> 00:17:41,818
+那样它们就需要高频率、短间隙的注射疫苗
+So they will need regular, close-interval injections
+
+218
+00:17:41,819 --> 00:17:43,350
+否则他们就会死
+ of the vaccine or they will die.
+
+219
+00:17:43,430 --> 00:17:44,890
+我能问个难听的问题吗?
+Can I ask the ugly question here?
+
+220
+00:17:44,980 --> 00:17:47,890
+能找出一个让它们继续活着的理由吗?
+Is there any reason to keep them alive?
+
+221
+00:17:47,980 --> 00:17:51,190
+我们可以审问一些情报
+We could interrogate them for intelligence.
+
+222
+00:17:51,270 --> 00:17:54,740
+我同意 我们有很多未解的疑问
+I agree. We have a lot of unanswered questions.
+
+223
+00:17:54,820 --> 00:17:56,820
+那好 就这样        但它们不会说的
+Yeah, okay, but they're not gonna talk.
+
+224
+00:17:56,900 --> 00:17:58,410
+我们给它们疫苗的时候它们就会说的
+ROSLIN: Well, they might if we dangle the vaccine.
+
+225
+00:17:58,490 --> 00:18:01,830
+它们也没必要知道那只是短期有效 而不是痊愈药剂
+They don't need to know it's a stopgap, not a cure.
+
+226
+00:18:03,290 --> 00:18:06,080
+它们在被感染的船上做了祷告
+They prayed on the infected ship.
+
+227
+00:18:06,160 --> 00:18:09,620
+西洛的老婆说 那是个叫做 "什么什么云的祈祷"
+Karl's wife said it was something called, "The Prayer to the Cloud of Unknowing,"
+
+228
+00:18:09,710 --> 00:18:10,790
+管他妈的是什么
+whatever the hell that is.
+
+229
+00:18:10,880 --> 00:18:14,250
+总之 关键是她说 它们只会在面对
+Anyway, the point is, she said they only use it
+
+230
+00:18:14,340 --> 00:18:16,630
+最终的死亡的时候
+when they're facing an imminent death that is final,
+
+231
+00:18:16,720 --> 00:18:18,760
+没有重新下载的机会时
+no possibility of downloading.
+
+232
+00:18:18,840 --> 00:18:19,800
+它们在准备面对死亡
+They're ready to die.
+
+233
+00:18:19,890 --> 00:18:21,050
+他们可能是准备好要死了
+They may be ready to die,
+
+234
+00:18:21,140 --> 00:18:25,560
+但是这并不意味着他们不会再跳起来
+but it doesn't mean that one of them won't jump at a second chance.
+
+235
+00:18:38,450 --> 00:18:40,910
+它感染了所有的东西
+It infected everything,
+
+236
+00:18:42,580 --> 00:18:48,040
+基地之星 赛昂武士 突袭机
+the Baseship, Centurions, Raiders,
+
+237
+00:18:49,210 --> 00:18:54,840
+直到我们被别的赛昂人飞船彻底遗弃
+and so we were finally abandoned by the other Cylon ships.
+
+238
+00:18:54,920 --> 00:18:56,300
+为什么?
+Why?
+
+239
+00:18:57,760 --> 00:19:01,680
+为什么不把你们隔离起来直到找到治疗的方法?
+Why not just put you under quarantine until they found a cure?
+
+240
+00:19:01,760 --> 00:19:05,310
+是怕病毒会扩散
+Fear of spreading the disease.
+
+241
+00:19:08,890 --> 00:19:13,020
+他们告诉我们 在病原体的组成中
+They told us that there was a bio-electric feedback component
+
+242
+00:19:13,110 --> 00:19:15,070
+有一个生物电反馈部分
+to the pathogen.
+
+243
+00:19:16,070 --> 00:19:19,610
+它会破坏我们大脑对免疫系统的控制
+It corrupts how our brains manage our immune systems.
+
+244
+00:19:23,700 --> 00:19:29,700
+如果我们死掉并被复活 病毒也会跟着
+If one of us dies and is resurrected, the disease will follow,
+
+245
+00:19:30,580 --> 00:19:35,840
+感染复活船 还有舰队
+infecting the Resurrection ship and the Fleet.
+
+246
+00:19:35,920 --> 00:19:39,010
+你们为什么会在这里首先出现?
+Why were you in this area in the first place?
+
+247
+00:19:39,920 --> 00:19:41,590
+我们被派过来
+We were sent.
+
+248
+00:19:41,680 --> 00:19:46,430
+我们被派到这儿来寻找狮子星云
+We were sent here to look for the Lion nebula.
+
+249
+00:19:48,680 --> 00:19:53,230
+波塔尔说狮子星云会指出通往地球之路
+Baltar said it would point the way to Earth.
+
+250
+00:19:53,310 --> 00:19:54,730
+你刚才说什么?
+What did you just say?
+
+251
+00:19:54,810 --> 00:19:57,480
+波塔尔...波塔尔还活着?
+Baltar... Baltar's alive?
+
+252
+00:19:57,570 --> 00:20:00,940
+波塔尔在我们的基地之星上
+Baltar is on our Baseship.
+
+253
+00:20:03,070 --> 00:20:06,410
+他在帮我们寻找地球
+He's helping us find Earth.
+
+254
+00:20:06,490 --> 00:20:12,000
+他在用我们的导航图 还有我们从科波上发现的地图
+He's using our navigation charts along with our map of Kobol.
+
+255
+00:20:12,080 --> 00:20:14,170
+他在带它们找地球
+He's leading them to Earth.
+
+256
+00:20:18,500 --> 00:20:24,300
+我们想要一个新的开始
+We want a new beginning,
+
+257
+00:20:27,100 --> 00:20:28,850
+多像你们
+much like you.
+
+258
+00:20:33,230 --> 00:20:35,480
+我告诉了你们信息
+I gave you information.
+
+259
+00:20:36,520 --> 00:20:39,610
+她说会有解药
+She said that there was a cure.
+
+260
+00:20:40,900 --> 00:20:44,740
+科特尔医生会给你药物的
+Doc Cottle will be giving you the medicine.
+
+261
+00:20:44,820 --> 00:20:46,280
+把他带回医务室
+Take him back to the infirmary.
+
+262
+00:20:46,370 --> 00:20:47,820
+是 长官
+MARINE: Yes, sir.
+
+263
+00:21:13,810 --> 00:21:15,850
+这有什么好笑的?
+What the hell is so funny?
+
+264
+00:21:19,360 --> 00:21:23,530
+我想我找到了一个方法 可以解决掉我们的麻烦
+I think I just thought of a way to solve all of our problems,
+
+265
+00:21:24,780 --> 00:21:28,200
+可以把赛昂人的威胁一次性地全部消除
+to get rid of the Cylon threat for once and for all.
+
+266
+00:21:28,280 --> 00:21:32,200
+我们可以把它们全部消灭 灭掉整个赛昂人种族
+We can wipe them out. We can destroy the entire Cylon race.
+
+267
+00:21:42,630 --> 00:21:46,170
+我们可以跳跃到一个已知的赛昂人补给线地域
+APOLLO: We jump to an area we know the Cylons use as a supply line,
+
+268
+00:21:46,260 --> 00:21:47,930
+星云坐标2539
+NCD2539.
+
+269
+00:21:48,010 --> 00:21:52,390
+我们在那儿故意暴露 我们假装要向它们寻战
+We stay there, exposed. We look as if we're spoiling for a fight.
+
+270
+00:21:52,470 --> 00:21:54,020
+它们会派出舰队
+They'll send their fleet.
+
+271
+00:21:54,100 --> 00:21:56,480
+只要有舰队 那就肯定有复活船
+And where there's a fleet, there's a Resurrection ship.
+
+272
+00:21:56,560 --> 00:22:00,230
+只要复活船在我们范围内
+Now, once the Resurrection ship is within our reach,
+
+273
+00:22:00,310 --> 00:22:04,480
+我们处死这里受感染的囚犯 接着撤退
+we execute our infected prisoners. We bug out.
+
+274
+00:22:04,570 --> 00:22:06,900
+被处死的囚犯就会在复活船下载
+The executed prisoners download into the Resurrection ship
+
+275
+00:22:06,990 --> 00:22:08,320
+它们还带着病毒
+and with them, the virus.
+
+276
+00:22:08,410 --> 00:22:10,740
+你肯定病毒能下载到它们新躯体里吗?
+You're sure the virus will download to a new body?
+
+277
+00:22:10,830 --> 00:22:13,580
+是赛昂人自己肯定的
+The Cylons are sure of it.
+
+278
+00:22:13,660 --> 00:22:18,920
+它们把自己的病号都留在那里等死 毫无挽救的希望
+They left their wounded out here to die alone with no hope of being rescued,
+
+279
+00:22:19,000 --> 00:22:20,580
+还告诉我们想知道的东西
+that tells me all I need to know.
+
+280
+00:22:20,670 --> 00:22:24,500
+只要病毒在复活船上
+And once the virus is in the Resurrection ship,
+
+281
+00:22:24,590 --> 00:22:25,840
+它们就停不了了
+there'll be no stopping it.
+
+282
+00:22:25,920 --> 00:22:28,930
+去救助的人就可以成为瘟疫的携带者
+Rescuers become carriers of the plague.
+
+283
+00:22:29,010 --> 00:22:32,970
+赛昂人自己都不相信它们能找到治疗方法
+The Cylons themselves don't believe that they'll develop a cure.
+
+284
+00:22:35,890 --> 00:22:37,480
+噢 我的天
+My Gods.
+
+285
+00:22:38,440 --> 00:22:40,940
+这样就可以把赛昂人彻底消灭
+This could be the end of the Cylons entirely.
+
+286
+00:22:41,020 --> 00:22:42,900
+永远的    屠杀?
+Forever. Genocide?
+
+287
+00:22:44,780 --> 00:22:46,530
+那就是我们要做的?
+So that's what we're about now?
+
+288
+00:22:46,610 --> 00:22:50,860
+它们不是人类 它们是被造出来的
+They're not human. They were built, not born.
+
+289
+00:22:50,950 --> 00:22:53,450
+没有父亲 没有母亲 没有儿子 没有女儿
+No fathers, no mothers, no sons, no daughters...
+
+290
+00:22:53,530 --> 00:22:55,740
+我有一个女儿 我还用我的胳膊抱过她
+I had a daughter. I held her in my arms.
+
+291
+00:22:55,830 --> 00:22:57,330
+她是半人类
+She was half human.
+
+292
+00:22:57,410 --> 00:22:59,870
+但它们是东西 是危险的东西
+These are things, dangerous things.
+
+293
+00:22:59,960 --> 00:23:01,670
+这是我们一个消灭它们的机会
+This is our one chance to be rid of them.
+
+294
+00:23:01,750 --> 00:23:03,840
+你可以说一些听起来合理的东西
+You can rationalize it any way you want.
+
+295
+00:23:03,920 --> 00:23:07,420
+我们这么做 我们将它们灭族
+We do this, we wipe out their race,
+
+296
+00:23:07,510 --> 00:23:08,630
+那么 我们就和他们没有什么区别了
+then we're no different than they are.
+
+297
+00:23:09,470 --> 00:23:12,140
+上尉 我不认同你的看法
+ROSLIN: Captain, I respectfully disagree.
+
+298
+00:23:12,220 --> 00:23:14,220
+是赛昂人首先发起攻击
+The Cylons struck first in this war.
+
+299
+00:23:14,310 --> 00:23:17,520
+并且他们不满足于灭绝了数十亿的人类
+And not being content with the annihilation of billions of human beings,
+
+300
+00:23:17,600 --> 00:23:20,020
+他们残酷地在星系间追逐我们
+they've pursued us relentlessly through the galaxies,
+
+301
+00:23:20,100 --> 00:23:21,270
+想把我们全灭掉
+determined to wipe us out.
+
+302
+00:23:21,350 --> 00:23:24,060
+他们试图在新卡布里卡上和我们共同生活
+They tried to live with us on New Caprica.
+
+303
+00:23:24,150 --> 00:23:25,190
+你说什么?
+What did you say?
+
+304
+00:23:25,270 --> 00:23:27,730
+他们试图在新卡布里卡上和我们共同生活
+They tried to live with us on New Caprica.
+
+305
+00:23:27,820 --> 00:23:32,280
+你没在新卡布里卡待过 根据我的记忆 你没去过那里
+You were not on New Caprica. To my recollection you didn't set foot there.
+
+306
+00:23:32,360 --> 00:23:34,740
+如此地不顾及你的几百名男女手下
+So out of respect for the hundreds of men and women on your crew
+
+307
+00:23:34,830 --> 00:23:36,740
+在那个蛇窟里遭受的折磨
+who suffered through that snake pit,
+
+308
+00:23:36,830 --> 00:23:39,330
+我希望没听到你刚才说的话
+I'm gonna pretend I didn't hear that.
+
+309
+00:23:40,920 --> 00:23:43,750
+你能更好地为舰队服务  如果你能偶尔想想 
+You would serve your fleet well if you would remember occasionally
+
+310
+00:23:43,830 --> 00:23:45,090
+对于幸存下的人类来说
+that the Cylons are a mortal threat
+
+311
+00:23:45,170 --> 00:23:46,500
+赛昂人是个致命的威胁
+to the survival of the human race.
+
+312
+00:23:46,590 --> 00:23:49,840
+我在说的是:对和错
+I'm talking about right and wrong.
+
+313
+00:23:49,920 --> 00:23:52,970
+我在说的是:我们丧失了自身的一部分灵魂
+I'm talking about losing a piece of our souls.
+
+314
+00:23:54,100 --> 00:23:57,720
+没人想听 对吗?  那就从我来说吧
+But no one wants to hear that, right? Let's keep it on me.
+
+315
+00:23:58,890 --> 00:24:02,440
+没错 我是和一个赛昂人结婚
+Yeah, I'm married to a Cylon
+
+316
+00:24:02,520 --> 00:24:05,520
+多少次 她为我们大家吃尽了苦头
+who walked through hell for all of us how many times?
+
+317
+00:24:05,610 --> 00:24:08,270
+同时 她还不是那个什么半个东西
+And she's not half anything.
+
+318
+00:24:08,360 --> 00:24:10,940
+我们怎么知道没有其他与她同样的人呢?
+Okay, how do we know there aren't others like her?
+
+319
+00:24:11,030 --> 00:24:15,910
+她做出了决定 她要做个人 他们也是人
+She made a choice. She's a person, they're a race of people.
+
+320
+00:24:15,990 --> 00:24:20,080
+用生化武器把他们灭族 那就是一个反…
+Wiping them out with a biological weapon is a crime against...
+
+321
+00:24:20,160 --> 00:24:22,790
+就是一个反人类罪
+Is a crime against humanity.
+
+322
+00:24:22,870 --> 00:24:25,750
+但它们不是人类 它们是程序设定好的
+But they're not human. They're programmed.
+
+323
+00:24:28,550 --> 00:24:33,220
+我们会考虑你所说的话 谢谢你们两个
+We will take your input under advisement. Thank you both.
+
+324
+00:24:33,300 --> 00:24:35,050
+谢谢 女士
+Thank you, ma'am.
+
+325
+00:24:38,560 --> 00:24:40,140
+解散
+Dismissed.
+
+326
+00:25:17,430 --> 00:25:18,680
+我可以帮你
+I can help you.
+
+327
+00:25:18,760 --> 00:25:20,180
+我可以让你度过这折磨
+I can guide you through the torment and beyond,
+
+328
+00:25:20,260 --> 00:25:21,720
+但你要做点事
+but you'll have to do the work.
+
+329
+00:25:24,810 --> 00:25:27,190
+我会做任何事 任何事!
+I'll do anything. Anything!
+
+330
+00:25:27,270 --> 00:25:29,770
+那就告诉我们想知道的
+Then tell us what we want to know.
+
+331
+00:25:30,770 --> 00:25:35,240
+病毒是怎么创造出来的?  有治愈方法吗?
+How was the virus invented? Did they make a cure?
+
+332
+00:25:37,740 --> 00:25:41,080
+看着我 看着我
+Look at me. Look at me.
+
+333
+00:25:41,160 --> 00:25:43,450
+当你和我做爱的时候 盖尤斯
+When you make love to me, Gaius,
+
+334
+00:25:43,540 --> 00:25:45,870
+你不是总想着我的
+you don't always think about me.
+
+335
+00:25:45,960 --> 00:25:48,460
+你的思维漂走了 我知道的
+Your mind wanders, I know that.
+
+336
+00:25:48,540 --> 00:25:52,380
+你会想到方程式、难题 你要烫洗的衣服
+You think of equations, puzzles, your laundry...
+
+337
+00:25:54,130 --> 00:25:58,970
+那是大脑的本能 断开和身体的连接
+It's the nature of the mind to disconnect from the body and journey on its own.
+
+338
+00:26:02,220 --> 00:26:06,390
+将你的思维与身体分离 把你的思维留在那个房间
+Separate your mind from your body. Keep your mind in that room.
+
+339
+00:26:07,690 --> 00:26:10,060
+用你的智力来对付她
+Use your intellect against her.
+
+340
+00:26:10,150 --> 00:26:14,030
+理由 逻辑 分析
+Reason. Logic. Analysis.
+
+341
+00:26:15,530 --> 00:26:17,400
+寻找她心灵的漏洞
+Find the holes in her psyche.
+
+342
+00:26:17,990 --> 00:26:19,320
+我不能啊 很疼
+I can't. The pain...
+
+343
+00:26:19,490 --> 00:26:24,080
+疼痛只存在你的身体里 让你的身体与我在一起吧
+The pain is only in your body, so keep your body here with me.
+
+344
+00:26:26,500 --> 00:26:30,630
+别担心 我会好好照顾它的
+Don't worry, I'll care take of it.
+
+345
+00:26:35,590 --> 00:26:40,010
+你看 盖尤斯  这就是不疼的感觉
+D'ANNA: You see, Gaius, this is what the absence of pain feels like.
+
+346
+00:26:49,060 --> 00:26:50,690
+很容易忘掉疼痛
+It's easy to forget.
+
+347
+00:26:50,770 --> 00:26:55,940
+我和病毒没有关系 那只是个巧合
+I had nothing to do with the virus. It was a coincidence.
+
+348
+00:26:56,030 --> 00:26:59,320
+没有巧合这个说法
+There's no such thing as coincidence.
+
+349
+00:26:59,410 --> 00:27:02,700
+世界是按照上帝的旨意运作的
+God wills the universe according to His design.
+
+350
+00:27:03,910 --> 00:27:08,540
+现在专注于她 把她当成赛昂人 而不是女人
+Now focus on her as a Cylon, not a woman.
+
+351
+00:27:09,870 --> 00:27:13,130
+并以科学家的眼光 测试她的信念
+Be a scientist. Examine her faith.
+
+352
+00:27:14,670 --> 00:27:16,960
+你的分析结果呢 博士?
+What's your analysis, Doctor?
+
+353
+00:27:21,720 --> 00:27:23,550
+我是个科学家
+I'm a scientist.
+
+354
+00:27:26,390 --> 00:27:28,430
+并且作为一个科学家
+And as a scientist,
+
+355
+00:27:29,730 --> 00:27:30,543
+如果上帝存在 
+I believe that if God exists, 
+
+356
+00:27:30,544 --> 00:27:33,100
+那我们对他的了解是不完全的    为什么呢?
+our knowledge of him is imperfect. Why?
+
+357
+00:27:33,980 --> 00:27:35,320
+因为我们现有的故事和神话
+Because the stories and myths we have
+
+358
+00:27:35,400 --> 00:27:39,030
+是由人编撰出来的 人是时间的过客
+are the products of men, the passage of time.
+
+359
+00:27:39,110 --> 00:27:43,570
+这种宗教是基于这么一个前提 无法被证明
+The religion you practice is based on a theory, impossible to prove,
+
+360
+00:27:43,660 --> 00:27:46,580
+你现在完全地信任神话
+yet you bestow it with absolutes like
+
+361
+00:27:46,660 --> 00:27:48,660
+就像"没有巧合这个说法"
+"there is no such thing as coincidence. "
+
+362
+00:27:48,750 --> 00:27:50,540
+这叫信念
+It's called faith.
+
+363
+00:27:50,620 --> 00:27:54,710
+对上帝意志的完全信仰就意味着万物的存在都有理由
+Absolute belief in God's will means there's a reason for everything.
+
+364
+00:27:54,790 --> 00:27:56,630
+万物!
+Everything!
+
+365
+00:27:56,710 --> 00:27:59,170
+还有现在...
+And yet,
+
+366
+00:27:59,260 --> 00:28:04,430
+你不禁自问 上帝如何行使死亡与毁灭
+you can't help ask yourself how God can allow death and destruction,
+
+367
+00:28:04,510 --> 00:28:06,760
+然后鄙视自己的疑问
+and then despise yourself for asking.
+
+368
+00:28:06,850 --> 00:28:08,840
+但现实是 如果我们能知道上帝的旨意
+But the truth is, if we knew God's will, 
+
+369
+00:28:08,841 --> 00:28:10,480
+那我们就都是神了 不是吗?
+we'd all be Gods, wouldn't we?
+
+370
+00:28:10,560 --> 00:28:12,810
+我可以从你的眼里看出 戴安娜
+I can see it in your eyes, D'Anna.
+
+371
+00:28:12,900 --> 00:28:16,560
+你失落 你矛盾 让我来帮你吧
+You're frustrated. You're conflicted. Let me help you.
+
+372
+00:28:16,650 --> 00:28:18,940
+让我来帮助你改变吧
+Let me help you change,
+
+373
+00:28:19,030 --> 00:28:22,740
+找到一个...能让你的信仰与现实统一的办法
+find a way to reconcile your faith with fact,
+
+374
+00:28:22,820 --> 00:28:25,200
+找到一条通往理性世界的道路
+find a way towards a rational universe!
+
+375
+00:28:25,280 --> 00:28:26,660
+我不知道你在玩什么游戏
+I don't know what your game is,
+
+376
+00:28:26,740 --> 00:28:29,040
+但那是没用的
+but it's not going to work.
+
+377
+00:28:31,250 --> 00:28:34,250
+你故意把我们的一艘船引到那个信标那儿 是不是?
+You intentionally led one of our ships to that beacon, didn't you?
+
+378
+00:28:37,800 --> 00:28:41,800
+把你的身体交给我 只把你的思维留下
+Give your body to me. Only your mind is there.
+
+379
+00:28:43,220 --> 00:28:46,890
+感受我 感受这些而不管她给你的疼痛
+Feel me. Feel this where she wants you to feel pain.
+
+380
+00:28:48,220 --> 00:28:51,770
+看着我 看着我 盖尤斯
+Look at me. Look at me, Gaius.
+
+381
+00:28:51,850 --> 00:28:54,230
+你想让我相信你是值得被拯救的吗?
+Do want me to believe you're worth saving?
+
+382
+00:28:54,310 --> 00:28:57,650
+你想吗? 你想吗? 说出来
+Do you? Do you? Say it.
+
+383
+00:29:04,450 --> 00:29:07,820
+我想让你信任我
+I want you to believe in me!
+
+384
+00:29:07,910 --> 00:29:11,580
+别停下! 别停下!
+Don't stop. Don't stop!
+
+385
+00:29:11,660 --> 00:29:14,210
+请 请你别停下
+Please! Please don't stop!
+
+386
+00:29:14,290 --> 00:29:17,000
+你一定会信任我的 你是我的全部
+You have to believe in me, you're all I have left!
+
+387
+00:29:19,380 --> 00:29:21,590
+现在告诉我 你信任我
+Now tell me you believe in me.
+
+388
+00:29:21,670 --> 00:29:23,840
+告诉我 你相信我的力量
+Tell me you believe in my strength.
+
+389
+00:29:25,970 --> 00:29:30,260
+我信任你! 我信任你!
+I believe in you! I believe in you.
+
+390
+00:29:31,520 --> 00:29:33,180
+我爱你
+BALTAR: I love you.
+
+391
+00:29:34,020 --> 00:29:36,230
+我全心全意的爱你
+I love you with all my heart.
+
+392
+00:29:43,650 --> 00:29:45,950
+我全心全意地爱你
+I love you with all my heart.
+
+393
+00:30:19,900 --> 00:30:21,230
+怎么样?
+How?
+
+394
+00:30:21,980 --> 00:30:25,490
+科特尔医生说与怀过半人类的小孩有关
+Cottle said it had something to do with carrying a half-human child,
+
+395
+00:30:25,570 --> 00:30:28,990
+婴儿的血细胞进入到了母体的循环系统
+how the fetal blood cells enter the maternal circulatory system,
+
+396
+00:30:29,070 --> 00:30:33,080
+让我也拥有了抗体 不管怎么样 我是免疫的
+causing the mother to create antibodies, whatever. I'm immune!
+
+397
+00:30:34,080 --> 00:30:36,160
+噢 上帝啊
+Oh, you.
+
+398
+00:30:44,210 --> 00:30:47,470
+我们的孩子救了我的命
+Our baby saved my life.
+
+399
+00:30:49,470 --> 00:30:54,510
+她永远地走了 还救了我的命  赫拉与我们同在
+She's gone forever and she saved my life. Hera kept us together.
+
+400
+00:30:58,060 --> 00:30:59,390
+分享这些
+To share this.
+
+401
+00:30:59,480 --> 00:31:01,270
+这些?
+"This"?
+
+402
+00:31:01,360 --> 00:31:05,530
+你说我们?  一起?  你说我们?
+What, you mean us, together? You mean us?
+
+403
+00:31:05,610 --> 00:31:09,490
+他们  他们  我是说他们
+Them, them. I mean them.
+
+404
+00:31:10,530 --> 00:31:12,200
+谁是"他们?"
+Who's "them"?
+
+405
+00:31:24,000 --> 00:31:27,630
+他们准备处死被感染的囚犯
+They're gonna execute the infected prisoners,
+
+406
+00:31:27,710 --> 00:31:31,090
+但要到跳跃进入赛昂人的地界
+but not until we jump into a Cylon region,
+
+407
+00:31:31,180 --> 00:31:33,890
+在复活船范围内
+with a Resurrection ship present.
+
+408
+00:31:37,350 --> 00:31:40,230
+那样就能感染到各处
+The infection's gonna spread everywhere.
+
+409
+00:31:55,200 --> 00:31:57,620
+我想说一点
+There's a point I'd like to make.
+
+410
+00:31:59,660 --> 00:32:03,830
+法律禁止我们使用生化武器
+The law forbids me to use biological weapons
+
+411
+00:32:03,920 --> 00:32:05,710
+在没有总统命令的情况下
+without a direct presidential order.
+
+412
+00:32:05,790 --> 00:32:08,750
+那意味着你要遇到麻烦了
+Which means you're passing the buck.
+
+413
+00:32:08,840 --> 00:32:10,550
+在这件事上 是的
+On this one, yes.
+
+414
+00:32:11,840 --> 00:32:14,010
+西洛在这件事上是对的
+Helo's right on one thing.
+
+415
+00:32:15,760 --> 00:32:20,770
+我们在毁灭整个种族 哪怕它们是机器种族
+We start destroying entire races, even mechanical races,
+
+416
+00:32:20,850 --> 00:32:24,940
+我们会遭受心灵的谴责
+we're liable to tear off a piece of a man's soul.
+
+417
+00:32:25,020 --> 00:32:28,020
+赛昂人在寻找地球
+The Cylons are coming to Earth.
+
+418
+00:32:28,110 --> 00:32:31,240
+如果它们找到我们 他们就会袭击我们
+If they find us, they are coming for us.
+
+419
+00:32:31,320 --> 00:32:34,950
+它们都是木头脑袋 它们一直都是这样的 比尔
+Those are the stakes. They always have been, Bill.
+
+420
+00:32:39,790 --> 00:32:43,160
+我们说的是你整个种族的屠杀
+We're talking about the genocide of your entire race.
+
+421
+00:32:47,670 --> 00:32:51,210
+是的 你以为我不知道吗
+Yeah. You think I don't know that?
+
+422
+00:32:53,180 --> 00:32:56,720
+我做了穿上这身制服的决定
+I made a choice to wear a uniform.
+
+423
+00:32:59,220 --> 00:33:00,890
+来当个人
+To be a person.
+
+424
+00:33:00,970 --> 00:33:04,980
+你在穿上这身制服前 就已经是人了
+You were a person before you put on that uniform, okay?
+
+425
+00:33:05,060 --> 00:33:07,150
+你在与我相爱前就已经是个人了
+You were a person before I fell in love with you.
+
+426
+00:33:07,230 --> 00:33:08,480
+你不需要证明这个
+You don't have to prove that.
+
+427
+00:33:08,570 --> 00:33:11,230
+我每天都要证明
+I have to prove it every day.
+
+428
+00:33:12,690 --> 00:33:16,200
+让我告诉你 西洛
+Let me tell you something, Helo.
+
+429
+00:33:16,280 --> 00:33:21,410
+我们的人可能会死掉 整个族群可能会被灭掉
+My people may die, my entire race may be wiped out,
+
+430
+00:33:27,380 --> 00:33:30,380
+但这个赛昂人会一直遵守她的诺言
+but this Cylon will keep her word,
+
+431
+00:33:30,460 --> 00:33:34,260
+哪怕那意味着她是世界上唯一的赛昂人
+even if it means she's the last Cylon left in the universe.
+
+432
+00:33:38,430 --> 00:33:40,720
+这是否有哪个人类能做到呢?
+Can a human being do that?
+
+433
+00:33:46,940 --> 00:33:50,360
+我们的后代不会宽容我们的种族灭绝计划
+Posterity really doesn't look too kindly on genocide.
+
+434
+00:33:50,440 --> 00:33:54,490
+你只是在假设我们的后代会把这定义为种族灭绝
+You're making an assumption that posterity will define this as genocide.
+
+435
+00:33:54,570 --> 00:33:58,780
+如果他们这样想 至少他们还可以活着来憎恨我们
+If they do, at least there'll be someone alive to hate us for it.
+
+436
+00:34:01,490 --> 00:34:04,410
+赛昂人的产生是我们的错误 我们创造了他们
+The Cylons are our mistake, we created them.
+
+437
+00:34:07,620 --> 00:34:08,920
+好吧 阿达玛上将
+All right, Admiral Adama,
+
+438
+00:34:09,000 --> 00:34:12,380
+作为总统  我决定赛昂人要被消灭
+as President, I have determined the Cylons be made extinct.
+
+439
+00:34:12,460 --> 00:34:15,800
+生化武器的使用已被授权
+The use of biological weapons is authorized.
+
+440
+00:34:19,140 --> 00:34:20,890
+齐心协力
+So say we all.
+
+441
+00:34:23,810 --> 00:34:25,640
+齐心协力
+So say we all.
+
+442
+00:34:38,740 --> 00:34:41,570
+跳跃完毕 雷达上显示没有赛昂人 长官
+Jump complete. Dradis is clear, no Cylons, sir.
+
+443
+00:34:41,660 --> 00:34:45,160
+它们一会儿就会来的 让我们的"小鸟"上天吧
+They'll be here soon enough. Get our birds in the air.
+
+444
+00:34:46,200 --> 00:34:48,000
+命令蝮蛇战机与导航侦察猛禽机升空
+Commence Viper and nav Raptor launch.
+
+445
+00:34:49,000 --> 00:34:50,670
+又是那里 关了它 走吧
+CREWMAN: Once more there! Let's get it closed. Let's go!
+
+446
+00:34:50,750 --> 00:34:53,130
+我们干吧  赛道
+Let's do this, Racetrack.
+
+447
+00:34:53,210 --> 00:34:54,670
+行动 行动
+CREWMAN 1: Let's go, let's go, let's go!
+
+448
+00:34:54,760 --> 00:34:55,840
+准备发射道
+CREWMAN 2: Prepare the tubes!
+
+449
+00:34:55,920 --> 00:34:57,840
+旋压向上
+CREWMAN 3: Spinning up.
+
+450
+00:34:57,920 --> 00:34:59,510
+准备好了
+CREWMAN 4: All up!
+
+451
+00:35:31,540 --> 00:35:35,250
+行动 行动 把那些挪走
+Let's go! Let's go! Move them back!
+
+452
+00:35:36,210 --> 00:35:37,550
+快行动 快行动!跟上!
+Let's go! Let's go! Come on!
+
+453
+00:35:45,470 --> 00:35:48,140
+CAP编队升空  导航机已在雷达上看到
+Cap is away. Nav Bird has them on Dradis.
+
+454
+00:36:05,910 --> 00:36:09,830
+雷达发现目标 一队赛昂人突袭机
+Dradis contact. Pair of Cylon Raiders.
+
+455
+00:36:09,910 --> 00:36:11,330
+和它们保持距离
+Keeping their distance for now.
+
+456
+00:36:11,410 --> 00:36:15,290
+不要花太长时间 它们只是侦查机
+Didn't take them that long. It's just scouts.
+
+457
+00:36:15,380 --> 00:36:18,550
+它们会跳跃走  向舰队报告
+They'll jump away and report back to their fleet.
+
+458
+00:36:18,630 --> 00:36:19,920
+来看我们有没有什么圈套的
+See if they take our bait.
+
+459
+00:36:24,930 --> 00:36:28,390
+发现它们了 它们中有一艘复活船
+Got it. There's a Resurrection ship with them.
+
+460
+00:36:28,470 --> 00:36:32,940
+是对我们的赛昂人囚犯执行死刑的时候了 下命令
+Then it's time to execute our Cylon prisoners. Call it in.
+
+461
+00:36:37,230 --> 00:36:39,320
+处死囚犯
+Terminate the prisoners.
+
+462
+00:36:44,740 --> 00:36:46,120
+射击头部 好吗?
+Head shots, okay?
+
+463
+00:36:46,200 --> 00:36:47,240
+是 长官
+Yes, sir.
+
+464
+00:36:47,330 --> 00:36:48,950
+让我们搞定
+Let's do it.
+
+465
+00:36:55,080 --> 00:36:59,880
+好了 让我们看看能否干掉些烤面包机 伙计们
+Let's see if we can't frak up some toasters on this joyride, people.
+
+466
+00:37:10,020 --> 00:37:12,220
+大家一起加油  我在上面感觉要死哦
+HOTDOG: Bogies holding hands, I'm notching like hell up here!
+
+467
+00:37:12,310 --> 00:37:13,930
+热狗 我是星芭
+Hot Dog, Starbuck.
+
+468
+00:37:14,020 --> 00:37:16,980
+闭上你的臭嘴 继续掩护我们
+Quit your bitching and continue to cover us, frak!
+
+469
+00:37:26,620 --> 00:37:28,700
+好 让开
+All right, out of the way.
+
+470
+00:37:40,210 --> 00:37:43,920
+妈的! 它们全死了  它们都死了
+Frak! They're already dead. They're already dead.
+
+471
+00:37:47,680 --> 00:37:49,550
+长官 你应该听下这个
+Sir, you should hear this.
+
+472
+00:37:49,640 --> 00:37:52,100
+它们在复活船出现前都死了
+APOLLO: They were dead before the Resurrection ship was in range.
+
+473
+00:37:52,180 --> 00:37:56,230
+它们没有下载病毒 我们失去机会了
+They didn't download the disease. We have missed our window.
+
+474
+00:37:59,610 --> 00:38:01,980
+卡拉狄加  星芭  基地之星刚跳跃过来
+Galactica, Starbuck. The Baseship just jumped in.
+
+475
+00:38:02,070 --> 00:38:04,190
+招回我们的"小鸟"  撤离
+Call our birds in. Spool up.
+
+476
+00:38:04,280 --> 00:38:05,610
+让我们离开这鬼地方
+Let's get the hell out of here.
+
+477
+00:38:05,700 --> 00:38:06,950
+执行命令 西奥       是 长官
+Commence it, Theo! Yes, sir!
+
+478
+00:38:07,030 --> 00:38:08,740
+长官 我们没机会听好消息了
+Sir, we've lost time waiting to hear from quarantine.
+
+479
+00:38:08,820 --> 00:38:12,370
+我们想好好打一仗的在我们撤退的时候
+We're going to take significant fire while we spool up.
+
+480
+00:38:14,660 --> 00:38:15,960
+等等
+Wait a minute.
+
+481
+00:38:24,050 --> 00:38:26,050
+继续跳跃
+Continue jump.
+
+482
+00:38:26,130 --> 00:38:28,090
+让我们回舰队去
+Take us back to our fleet.
+
+483
+00:38:28,180 --> 00:38:29,220
+是 长官
+Yes, sir.
+
+484
+00:38:41,980 --> 00:38:45,110
+他们会来找我麻烦的 你或是我
+They're coming for me. You or me.
+
+485
+00:38:49,450 --> 00:38:52,780
+看起来他们会经常找我们之一的麻烦
+It seems like they're always coming for one of us.
+
+486
+00:38:56,450 --> 00:39:01,080
+我不是个叛徒 我爱我的人民 我爱这艘船
+I'm not a traitor. I love my people, I love this ship.
+
+487
+00:39:04,420 --> 00:39:09,260
+除了你 我在早上最想能看到的就是作战指挥中心里的灯光
+Besides you, the first I want to see on any morning are the lights in that CIC.
+
+488
+00:39:12,470 --> 00:39:15,140
+我做了我认为是对的事
+But I did what I thought was right.
+
+489
+00:39:15,220 --> 00:39:18,770
+如果那是个错误 也行 我可以承受
+If it was a mistake, fine, I can live with that.
+
+490
+00:39:25,980 --> 00:39:28,240
+但是没有你 我活不下去
+It's you I can't live without.
+
+491
+00:39:44,540 --> 00:39:47,250
+我会永远爱你 西洛
+I'll always love you, Helo.
+
+492
+00:39:55,430 --> 00:39:56,970
+不了  谢谢
+No, thanks.
+
+493
+00:40:06,480 --> 00:40:10,320
+囚犯是因为窒息而死的
+The prisoners died of asphyxiation.
+
+494
+00:40:10,400 --> 00:40:15,410
+空气净化系统被关闭 以伪装空气都跑光了
+The air purification system was reversed. Sucked the oxygen out.
+
+495
+00:40:15,490 --> 00:40:18,120
+这时候 门上的保险拴
+When this happens, the dead bolts
+
+496
+00:40:18,200 --> 00:40:20,660
+就会自动激活
+are automatically activated on the door.
+
+497
+00:40:23,330 --> 00:40:25,040
+是有人动的手脚
+Someone did this manually.
+
+498
+00:40:25,130 --> 00:40:26,170
+有人?
+Someone?
+
+499
+00:40:27,460 --> 00:40:31,670
+在我看来 只有一两个嫌疑人
+Seems to me there's only one or two likely suspects.
+
+500
+00:40:31,760 --> 00:40:33,550
+谁负责调查呢?
+Who will head the investigation?
+
+501
+00:40:33,640 --> 00:40:36,760
+没人 我把这件事封锁了
+No one. I'm closing the book on this.
+
+502
+00:40:36,850 --> 00:40:38,600
+多省心的决定啊
+How convenient.
+
+503
+00:40:48,270 --> 00:40:51,240
+科特尔医生关于病毒的报告
+Cottle's report on the virus.
+
+504
+00:40:51,320 --> 00:40:56,570
+他认为那个被我们丢在赛昂飞船上的道标
+He thinks that it was simply an accidental contamination
+
+505
+00:40:56,660 --> 00:41:01,500
+被病毒污染只是个意外
+of the beacon we abandoned on the sickbay ship.
+
+506
+00:41:01,580 --> 00:41:03,710
+可能是有人打了喷嚏造成的?
+Somebody sneezed, maybe?
+
+507
+00:41:03,790 --> 00:41:07,210
+是啊 因为有人忘了擦干自己的鼻子
+Yeah, an entire race almost wiped out
+
+508
+00:41:07,290 --> 00:41:10,500
+差点就能灭掉一整个种族
+because someone forgot to wipe their nose.
+
+509
+00:41:19,140 --> 00:41:25,640
+根据科特尔所说 这个病毒非常符合
+According to Cottle, the virus was an exact match
+
+510
+00:41:25,730 --> 00:41:29,690
+一个3000多年前被报告的病毒
+to one reported over 3,000 years ago,
+
+511
+00:41:29,770 --> 00:41:33,360
+大概在那个时候 我们的第13部落离开了科波
+right around the time that the Thirteenth Colony left Kobol.
+
+512
+00:41:33,440 --> 00:41:38,410
+那个信标是去地球的一个路标
+That beacon was a signpost to Earth.
+
+513
+00:41:38,490 --> 00:41:41,120
+我们找对路了 劳拉
+I think we're on the right trail, Laura.
+
+514
+00:41:41,200 --> 00:41:43,620
+是的 我们找对路了 比尔
+Yes, we are on the right trail, Bill.
+
+515
+00:41:46,250 --> 00:41:48,130
+赛昂人也找对了
+So are the Cylons.
+

@@ -1,0 +1,3090 @@
+1
+00:00:22,850 --> 00:00:25,020
+太空堡垒卡拉狄加 【 前情提要 】
+TYROL: Previously on Battlestar Galactica.
+
+2
+00:00:25,440 --> 00:00:27,770
+作为殖民地公民
+I demand my rights as a Colonial citizen
+
+3
+00:00:27,860 --> 00:00:30,270
+我有权要求法律代表出庭 以及完整的法定诉讼程序
+to legal representation and full due process.
+
+4
+00:00:30,360 --> 00:00:31,360
+是吗?
+Do you?
+
+5
+00:00:31,440 --> 00:00:33,030
+那下一步怎么办?
+So what happens next?
+
+6
+00:00:33,110 --> 00:00:35,030
+让他得到公正审判
+We give him his trial.
+
+7
+00:00:35,110 --> 00:00:37,280
+家父曾是一名牧师 家母曾是一名先知
+My father was a priest. My mother was an oracle.
+
+8
+00:00:37,370 --> 00:00:39,870
+我从18岁就在太空堡垒上服役
+I've served a Battlestar since I was 18 years old.
+
+9
+00:00:39,950 --> 00:00:44,370
+当你们选我作工会主席的时候 我保证过会让大家有活干
+When you elected me union president, I promised I would keep us working.
+
+10
+00:00:44,460 --> 00:00:46,830
+你们自己必须亲自爬在齿轮  杠杆... 
+You must throw your body on the gears and on the levers
+
+11
+00:00:46,920 --> 00:00:49,170
+机器上来阻止它们运转
+and on the machine itself and make it stop!
+
+12
+00:00:49,250 --> 00:00:52,090
+罢工  罢工  罢工
+ALL: Strike! Strike! Strike! Strike!
+
+13
+00:00:52,300 --> 00:00:53,720
+你还在装作我们的生活从未改变
+You're pretending like nothing's changed,
+
+14
+00:00:53,800 --> 00:00:57,140
+和在新卡布里卡之前一样吗?
+that our lives are exactly like they were before we went to New Caprica.
+
+15
+00:00:57,220 --> 00:00:58,390
+可的确已经不同了
+But it is different.
+
+16
+00:00:58,470 --> 00:01:00,720
+恩  我们只是一时的困境罢了
+Yeah, I was just going through a little rough patch.
+
+17
+00:01:00,810 --> 00:01:04,020
+如果是一世呢?
+What if rough patches are all we have left?
+
+18
+00:01:12,360 --> 00:01:13,740
+菲戈斯基  波吕克斯 桑切斯
+TYROL: Figurski, Pollux, Sanchez,
+
+19
+00:01:13,820 --> 00:01:17,240
+你们今晚修理所有轻便引擎 所以推掉所有夜生活吧
+you're gonna be rehabbing mule engines tonight so don't make after-dinner plans.
+
+20
+00:01:17,320 --> 00:01:19,200
+把系统下线检测开关设为软件控制
+Set and hold SOL check rigged to SEC.
+
+21
+00:01:24,040 --> 00:01:27,080
+我们不是让道格维尔的平民来替我们进行轻便引擎的维修么
+ I thought we were subbing out mule maintenance to the civvies in Dogsville?
+
+22
+00:01:27,170 --> 00:01:29,830
+对  可那里的技工不够
+Yeah, we don't got enough mechanics down there.
+
+23
+00:01:31,590 --> 00:01:32,590
+检查流量
+Check flow rate.
+
+24
+00:01:32,670 --> 00:01:34,920
+流量稳定在2-9-0
+POLLUX: Flow rate steady at 290.
+
+25
+00:01:37,510 --> 00:01:39,390
+什么时候能有休息时间啊  轮机长?
+Hey, when are we getting some rack around here, Chief?
+
+26
+00:01:39,470 --> 00:01:41,010
+我已经连续两周站两班了
+I'm standing double watches the last two weeks.
+
+27
+00:01:41,100 --> 00:01:42,100
+我知道  我知道
+I know, I know.
+
+28
+00:01:42,180 --> 00:01:43,680
+还有我的耳朵里还一直嗡嗡响
+Plus, I still got the ringing in my ears.
+
+29
+00:01:43,770 --> 00:01:46,270
+耳朵里嗡嗡响!
+MAN:The ringing in the ears!
+
+30
+00:01:46,350 --> 00:01:49,850
+对不起 我听不到你说什么 我耳朵里嗡嗡响 你说什么?
+TYROL: I'm sorry, I can't hear you. I've got ringing. What's that?
+
+31
+00:01:49,940 --> 00:01:51,400
+伙计们 有意思
+POLLUX: Real funny, guys.
+
+32
+00:01:54,190 --> 00:01:55,940
+燃料指示器坏了
+Hey, fuse indicators are out.
+
+33
+00:01:56,030 --> 00:01:59,860
+机翼油箱开关设为"满油"  关机      好  停止加油 
+Set the wing tank switch to fuel. Power off. All right, tank off.
+
+34
+00:02:00,120 --> 00:02:02,280
+关闭燃料站
+That's it. Kill the fueling stations.
+
+35
+00:02:02,370 --> 00:02:05,240
+拔出输油管   中尉  油已加满 可以起飞了
+Pull the hose. Lt., you're tanked up and ready to roll.
+
+36
+00:02:05,330 --> 00:02:07,540
+收到  轮机长 准备起飞
+Roger that, Chief. Ready to roll.
+
+37
+00:02:12,250 --> 00:02:16,840
+洗好的衣服到了 菲戈斯基 波吕克斯 莱夫
+Laundry call, Figurski, Pollux, Redford.
+
+38
+00:02:16,920 --> 00:02:20,300
+快拿走你们的破烂 免得我塞到搅拌机里
+Grab your crap before I chuck it in the cycler.
+
+39
+00:02:20,390 --> 00:02:21,720
+把内衣叠成我喜欢的样式了吗?
+Fold my undies the way I like?
+
+40
+00:02:21,800 --> 00:02:23,810
+滚   嘴好刁哇 
+Frak off. Oh, nice mouth.
+
+41
+00:02:23,890 --> 00:02:26,350
+你说他们就让军官这样说话吗?
+You think they let officers talk like that?
+
+42
+00:02:26,430 --> 00:02:29,140
+拿勋章的时候  可要把你的态度改一下
+You're gonna have to change your ways when you get them wings.
+
+43
+00:02:29,230 --> 00:02:31,270
+拿不到勋章了
+I'm not getting wings.
+
+44
+00:02:31,360 --> 00:02:34,520
+他们拒绝了我的飞行训练申请
+They rejected my application for flight training.
+
+45
+00:02:34,610 --> 00:02:37,280
+但你在笔试中却拿了第一  面试不错吧?
+I thought you aced the written exam. Interview went well?
+
+46
+00:02:37,360 --> 00:02:41,570
+恩  结果是我处于重要位置 我的离开将导致
+Yeah, well, it turns out I'm in a critical position and my leaving would cause
+
+47
+00:02:41,660 --> 00:02:44,580
+严重任务退步
+severe mission degradation.
+
+48
+00:02:44,660 --> 00:02:47,250
+真逊   "重要位置"个屁
+That sucks. Critical position, my ass.
+
+49
+00:02:47,330 --> 00:02:50,580
+他们只是不愿意让乡巴佬坐进驾驶员的预备室
+They just don't want knuckle-draggers stinking up the pilot ready room.
+
+50
+00:02:51,750 --> 00:02:53,840
+好了  够了 都闭嘴吧
+All right, that's enough. Lock it up! That's enough.
+
+51
+00:02:53,920 --> 00:02:56,170
+空军队长告诉我  你从飞行训练落榜了
+Look, the CAG told me you got bounced from flight training.
+
+52
+00:02:56,260 --> 00:02:58,130
+我很遗憾  这事不好受
+I'm sorry about that. It sucks.
+
+53
+00:02:58,220 --> 00:03:01,340
+实话说 我们需要你  你是我们最好的航空设备技工
+The truth is we need you down here, you're the best avionics specialist we got.
+
+54
+00:03:01,430 --> 00:03:03,590
+她还知道怎么来叠 老爷们的内衣
+And she knows how to fold a man's undies.
+
+55
+00:03:03,680 --> 00:03:05,220
+嗨 哇 哇 你他妈…
+Hey! Whoa, whoa, whoa, whoa! You frak...
+
+56
+00:03:05,310 --> 00:03:06,810
+嗨 拜托 够了
+Hey, come on! Hey, whoa! That's enough!
+
+57
+00:03:06,930 --> 00:03:08,850
+够了  别打了 你疯了?   我废了你
+Enough! Get off! What, are you crazy? I'll take you apart!
+
+58
+00:03:08,930 --> 00:03:10,430
+少说两句  菲戈斯基
+Hey! Shut up, Figurski!
+
+59
+00:03:10,520 --> 00:03:13,270
+看我不收拾你  快回去工作
+I'll pop you in the mouth myself. Now get back to work.
+
+60
+00:03:13,360 --> 00:03:14,940
+过来  过来
+Come here! Come here!
+
+61
+00:03:15,020 --> 00:03:17,650
+松手 听我说
+Hey, hey, hey. Listen to me.
+
+62
+00:03:17,730 --> 00:03:22,610
+你在这里的工作和坐在驾驶舱里同等重要
+Look, you do important work down here, just as important as sitting in a cockpit.
+
+63
+00:03:24,990 --> 00:03:26,450
+谢谢  轮机长
+Thanks, Chief.
+
+64
+00:03:27,240 --> 00:03:30,290
+我要去派送一些重要的洗好的衣物了
+I'm gonna deliver some more important laundry.
+
+65
+00:03:56,150 --> 00:03:59,610
+猛禽机升空了 读数正常
+Raptor away. Readings nominal.
+
+66
+00:04:03,700 --> 00:04:09,370
+看来一切都不错  设置航线 飞向2-9-6-5-
+Everything looks good. Setting course heading 2965...
+
+67
+00:04:09,490 --> 00:04:10,870
+怎么他妈回事?
+What the frak?
+
+68
+00:04:10,950 --> 00:04:13,410
+熄火了  RCS推进器卡住了 (译注:RCS=反推力控制系统)
+It's a flameout! RCS thrusters jammed!
+
+69
+00:04:13,540 --> 00:04:16,500
+重启 无效
+Restart! No go!
+
+70
+00:04:16,590 --> 00:04:19,340
+卡拉狄加  我是斯卡司 二号引擎推进器完全堵塞
+Galactica, Skulls. We have an engine thruster stuck in full position!
+
+71
+00:04:19,420 --> 00:04:21,510
+一号引擎无法启动
+Engine one won't start!
+
+72
+00:04:24,090 --> 00:04:27,800
+二号引擎着火  快爆炸了 到这里来
+There's a fire in engine two! It's gonna blow! Get your ass up here!
+
+73
+00:04:39,860 --> 00:04:42,490
+弹射  弹射  弹射
+Eject! Eject! Eject!
+
+74
+00:05:35,160 --> 00:05:38,500
+我们走运  一打人受伤  无人遇难
+You got off lucky. A dozen injuries. No fatalities.
+
+75
+00:05:38,580 --> 00:05:40,170
+谢谢
+Thank you.
+
+76
+00:05:40,250 --> 00:05:42,815
+你应该检查一下托莉的肩膀 
+You should've seen Tory's shoulder. 
+
+77
+00:05:42,816 --> 00:05:45,380
+我都得帮科特尔医生把它复原
+I had to help Cottle put it back into alignment.
+
+78
+00:05:45,470 --> 00:05:49,930
+我一直很忙  几乎没机会到船的这端走走
+You know, I am so busy, I hardly ever make it down to this end of the ship.
+
+79
+00:05:50,010 --> 00:05:52,180
+在舱壁修好前 
+And now I'm gonna be living here for God knows how long
+
+80
+00:05:52,260 --> 00:05:53,850
+我还要一直住这里
+until they repair the bulkheads.
+
+81
+00:05:53,930 --> 00:05:58,190
+如果这里的房间太挤 我的另一张床永远欢迎你
+If the quarters become cramped, you're always welcome in one of my beds.
+
+82
+00:06:01,940 --> 00:06:03,900
+一种说话方式而已
+In a manner of speaking.
+
+83
+00:06:07,490 --> 00:06:09,570
+查清猛禽号出什么事了吗?
+Do you have any better idea what happened to your Raptor?
+
+84
+00:06:09,660 --> 00:06:11,820
+还在调查情况
+We're still investigating the situation.
+
+85
+00:06:11,910 --> 00:06:16,450
+不过看来是泰里恩受到了严重的杂质污染
+But it seems that the tylium was seriously contaminated with impurities.
+
+86
+00:06:16,540 --> 00:06:19,080
+很可能是精炼过程中出现的问题
+Most likely, it's a problem with the refining process.
+
+87
+00:06:19,170 --> 00:06:20,370
+那里到底怎么回事?
+What the hell's going on there?
+
+88
+00:06:20,460 --> 00:06:22,880
+精炼船曾是舰队里最可靠的船只
+The refinery used to be the most reliable ship in the fleet.
+
+89
+00:06:22,960 --> 00:06:26,260
+而现在我每天都能收到那边工头发来一堆的信息
+Now every day I start with a stack of messages from that chief.
+
+90
+00:06:26,380 --> 00:06:28,170
+他叫什么名字?  吉诺·范纳
+What is his name? Zeno Fenner.
+
+91
+00:06:28,260 --> 00:06:33,220
+范纳?    抱怨工作条件和交货时间
+Fenner, complaining about working conditions and deliveries,
+
+92
+00:06:33,310 --> 00:06:37,890
+还有备件和补助  你能相信么
+and spare parts and compensation, if you can believe that.
+
+93
+00:06:37,980 --> 00:06:43,440
+我们在逃命 这家伙却想着加班奖金
+We're on the run for our lives and the guy wants to talk about overtime bonuses.
+
+94
+00:06:43,520 --> 00:06:47,230
+我们对范纳以及他的生产问题已经够宽容了
+We've been more than patient with Fenner and his production problems.
+
+95
+00:06:48,490 --> 00:06:51,360
+给了他两周时间 让他重新投入工作
+Two weeks of sitting here, waiting for him to get his act together.
+
+96
+00:06:51,450 --> 00:06:56,830
+我不知道你怎么想的 但我准备好去找地球了
+I don't know about you, but I'm ready to get back on the road to finding Earth.
+
+97
+00:06:57,500 --> 00:06:59,790
+我看到的是希望的曙光吗?
+Is that a hint of hope I hear?
+
+98
+00:07:00,670 --> 00:07:05,170
+怀疑主义者最后还是决定去寻找地球了?
+Is the skeptic suddenly decided that we're on the road to Earth, after all?
+
+99
+00:07:06,250 --> 00:07:08,130
+我怀疑过吗?
+Have I ever doubted it?
+
+100
+00:07:14,810 --> 00:07:18,640
+我手下的人六个月以来连续工作18个小时才换班
+I've got people working 18 hour shifts for the past six months.
+
+101
+00:07:18,810 --> 00:07:20,640
+你们说一个人这样下去能坚持多久?
+How long do you think a man can keep that up?
+
+102
+00:07:20,730 --> 00:07:26,150
+如果赛昂人出现了 我们的燃料足够让全舰队跳跃一次么?
+If the Cylons show up, we have enough fuel to jump the entire fleet, what, once?
+
+103
+00:07:26,230 --> 00:07:28,030
+也许两次
+Maybe twice?
+
+104
+00:07:29,440 --> 00:07:32,030
+这留给我可选择的空间太小了
+That's a margin that's much too narrow for me.
+
+105
+00:07:32,110 --> 00:07:34,570
+对于你和你的手下呢?
+How about for you and your men?
+
+106
+00:07:34,660 --> 00:07:37,490
+你有异议 自己想办法解决
+You have a problem. Fix it.
+
+107
+00:07:37,580 --> 00:07:42,710
+继续生产燃料 其他事我们稍后再谈 我保证
+Just get the gas flowing. And then we'll talk, I promise you that.
+
+108
+00:07:42,790 --> 00:07:46,750
+"再谈"?  总是稍后
+Then we'll talk. It's always later.
+
+109
+00:07:46,840 --> 00:07:50,170
+有意思的是燃料生产了 
+You know, it's funny that when the gas flows,
+
+110
+00:07:50,260 --> 00:07:52,220
+我的电话却没回音
+my phone calls don't get returned.
+
+111
+00:07:52,300 --> 00:07:55,640
+可一旦燃料供给中出现了小差错
+But the minute there's a glitch in the fuel supply, I've got face time with
+
+112
+00:07:55,720 --> 00:07:57,970
+我就能和总统 上将见面了
+the President and the Admiral.
+
+113
+00:07:58,180 --> 00:07:59,390
+嗯
+Hmm...
+
+114
+00:07:59,680 --> 00:08:02,890
+也许我们还应该再有些小差错
+Maybe we should just start having more glitches.
+
+115
+00:08:02,980 --> 00:08:04,560
+这算是威胁么?
+Is that a threat?
+
+116
+00:08:04,650 --> 00:08:06,400
+正如那本书中所写到的一样...
+It's like the book says.
+
+117
+00:08:07,270 --> 00:08:10,820
+"听取民声就不会惧怕民众"
+"If you hear the people, you'll never have to fear the people. "
+
+118
+00:08:10,900 --> 00:08:12,440
+你是说"那本书"吗?
+Did you say the book?
+
+119
+00:08:12,570 --> 00:08:13,570
+嗯
+Mmm-hmm.
+
+120
+00:08:13,660 --> 00:08:18,410
+守卫 以在战时勒索及干扰重要服务…
+Guards, arrest him for extortion and interrupting vital services
+
+121
+00:08:18,490 --> 00:08:19,830
+拘捕他
+during a time of war.
+
+122
+00:08:19,910 --> 00:08:22,870
+来吧 把他带走  就这样  去吧 把他带出去
+Go ahead, take him away. That's it. Go. Out of here. Gone.
+
+123
+00:08:22,960 --> 00:08:24,580
+跟我来  先生
+Come with me, sir.
+
+124
+00:08:28,920 --> 00:08:29,920
+这又是哪一出戏?
+What the hell was that?
+
+125
+00:08:30,010 --> 00:08:32,420
+他在引用波塔尔书中的原话
+He was quoting from Baltar's book.
+
+126
+00:08:32,510 --> 00:08:35,840
+他的律师从禁闭室里带出的那些乱七八糟的东西?
+The ramblings that his lawyer smuggled out of the brig?
+
+127
+00:08:35,930 --> 00:08:39,350
+他让人重印后在舰队里分发
+He's having it reprinted and passed out among the Fleet
+
+128
+00:08:39,430 --> 00:08:43,270
+还把书名定为《我的成与败》 盖尤斯·波塔尔著
+and he's calling it My Triumphs, My Mistakes, by Gaius Baltar.
+
+129
+00:08:44,560 --> 00:08:49,150
+我在考虑来一场老套的焚书运动
+I am thinking of having a good old-fashioned book-burning.
+
+130
+00:08:50,690 --> 00:08:52,480
+肉糕好吃吗? 开始喜欢吃肉糕了
+Ooh, algae meatloaf, starting to be a favorite.
+
+131
+00:08:52,570 --> 00:08:55,950
+那不是给你吃的 还记得我们的谈话吗?
+It's not for you. Remember our little talk?
+
+132
+00:08:57,120 --> 00:08:59,660
+今天是我的"作弊日" (译注:节食过程中  一周内唯一可以大吃大喝的日子)
+Oh, but today's my cheat day.
+
+133
+00:08:59,740 --> 00:09:02,290
+前三天都是你的"作弊日"
+The last three days have been your cheat day.
+
+134
+00:09:03,410 --> 00:09:04,620
+是吗?
+Really?
+
+135
+00:09:07,080 --> 00:09:09,170
+你昨天移动更灵活的
+You were moving better yesterday.
+
+136
+00:09:09,790 --> 00:09:11,550
+屈身运动就这点用处?
+Is that how the bends are supposed to work?
+
+137
+00:09:11,630 --> 00:09:15,720
+我只是替希里克斯难过 所以有点紧张
+I'm just upset about Seelix, so I'm tensing up.
+
+138
+00:09:15,800 --> 00:09:19,720
+他们早就该告诉她舰队里的首要任务是什么
+They should've just told her right off the bat what the fleet priorities are.
+
+139
+00:09:19,800 --> 00:09:22,640
+应该告诉她 比起驾驶员来
+Should've said that they needed knuckle-draggers
+
+140
+00:09:22,720 --> 00:09:24,230
+他们更需要工人
+more than they need pilots.
+
+141
+00:09:24,310 --> 00:09:26,310
+这不是"舰队首要任务"的问题
+It isn't about fleet priorities.
+
+142
+00:09:27,190 --> 00:09:30,860
+我们不是统治阶级 所以只能干脏活
+We're not part of the ruling class, so we're stuck doing the dirty work.
+
+143
+00:09:30,940 --> 00:09:32,940
+"统治阶级"  这词你从哪听到的?
+The ruling class? Where'd you get that?
+
+144
+00:09:33,030 --> 00:09:36,650
+我读的书上 波塔尔写的书
+Something I read, by Baltar.
+
+145
+00:09:39,070 --> 00:09:41,450
+这些破书还在舰队里传开了
+Those frakking rags making their way around the fleet?
+
+146
+00:09:41,530 --> 00:09:44,580
+没想到还会有人去看那家伙写的东西
+I can't believe that anybody's reading anything written by that guy.
+
+147
+00:09:44,660 --> 00:09:46,750
+我原本也是那么想的 可是…
+That's what I thought too, but...
+
+148
+00:09:48,920 --> 00:09:53,250
+你是否想过为何所有驾驶员和军官都来自富有的殖民地?
+You ever wonder why all the pilots and the officers come from the rich Colonies,
+
+149
+00:09:53,340 --> 00:09:56,420
+像是卡布里卡  沃钢 或是特诺朗
+like Caprica, and Virgon, Tauron?
+
+150
+00:09:56,510 --> 00:09:59,430
+而所有工人都来自贫穷的殖民地
+Well, all the knuckle-draggers come from the poor Colonies,
+
+151
+00:09:59,510 --> 00:10:02,680
+像是爱诺朗  撒纪特恩  还有杰米纳
+like Aerelon and Sagitarron and Gemenon.
+
+152
+00:10:03,010 --> 00:10:04,970
+甲板手扯蛋而已
+Yeah, that's just trash talk on the deck.
+
+153
+00:10:05,060 --> 00:10:09,270
+是吗?  在舰队里挑出一个来自贫穷殖民地的军官
+Really? Name one officer on the Fleet that comes from a poor Colony.
+
+154
+00:10:09,350 --> 00:10:12,020
+杜亚拉  杜亚拉中尉来自撒纪特恩
+Dualla, Lieutenant Dualla's from Sagitarron.
+
+155
+00:10:12,110 --> 00:10:15,860
+这就是例子  她怎么升职的?
+Case in point. How did she get promoted?
+
+156
+00:10:15,940 --> 00:10:19,780
+她嫁给了一位来自卡布里卡的军官
+She married an officer from Caprica.
+
+157
+00:10:25,540 --> 00:10:26,580
+我是蒂罗尔
+Tyrol.
+
+158
+00:10:26,660 --> 00:10:30,370
+轮机长 燃料精炼厂的工头已经被逮捕了
+ADAMA: Chief, the foreman at the fuel refinery's just been arrested.
+
+159
+00:10:30,460 --> 00:10:32,130
+吉诺·范纳?   你认识他?
+Zeno Fenner? Do you know him?
+
+160
+00:10:32,210 --> 00:10:33,960
+吉诺出了什么事吗?
+Did something happen to Zeno?
+
+161
+00:10:34,050 --> 00:10:38,880
+被捕了   是的 长官   在新卡布里卡上的时候 他曾是工会中的一员
+Arrested. Yes, sir. He was in the union on New Caprica.
+
+162
+00:10:38,970 --> 00:10:40,470
+他看起来人不错  犯了什么事?
+He seemed like a good guy. What'd he do?
+
+163
+00:10:40,550 --> 00:10:42,550
+他惹总统生气了
+He pissed off the President.
+
+164
+00:10:44,060 --> 00:10:46,560
+不过当前更大的问题是精炼厂的生产任务
+But the bigger problem right now is the refining operation.
+
+165
+00:10:46,640 --> 00:10:49,730
+必须有人去那里 让燃料船投入工作
+I need someone to go over there and get that fuel ship moving again.
+
+166
+00:10:49,810 --> 00:10:52,150
+组成一支小组  带上装备一小时内到达机库
+Pick a team, get your gear and be on the hangar deck in an hour.
+
+167
+00:10:52,230 --> 00:10:53,520
+是  长官
+Yes, sir.
+
+168
+00:10:58,400 --> 00:11:00,820
+我不明白 吉诺出了什么事?
+I don't understand. What happened to Zeno?
+
+169
+00:11:00,910 --> 00:11:02,530
+把总统惹了
+He pissed off the President.
+
+170
+00:11:02,620 --> 00:11:04,580
+现在因为这事都会被捕了?
+You mean, you can get arrested for that now?
+
+171
+00:11:04,660 --> 00:11:06,660
+我看上将是在开玩笑
+I think the Admiral was kidding.
+
+172
+00:11:08,080 --> 00:11:09,160
+是啊
+Yeah.
+
+173
+00:11:10,580 --> 00:11:12,170
+你想起过工会吗?
+You ever think about the union?
+
+174
+00:11:12,250 --> 00:11:14,290
+当然 但那已经一去不复返了
+Sure, but that's gone now.
+
+175
+00:11:14,380 --> 00:11:18,050
+新卡布里卡已经一去不复返了 但工会里所有的人还在这里
+New Caprica's gone, but all the people in the union are still here.
+
+176
+00:11:18,920 --> 00:11:22,760
+唯一的差别就是 现在没人为他们出头
+The only difference is now they don't have anyone to stand up for them.
+
+177
+00:11:22,930 --> 00:11:24,640
+我得走了
+I gotta go.
+
+178
+00:11:26,850 --> 00:11:29,680
+希望你们能尽兴
+I do hope you're enjoying yourselves.
+
+179
+00:11:29,770 --> 00:11:32,850
+打扰了我的休息 弄脏了我的食物还不够
+It's not enough that you have to interrupt my sleep and put filth in my food.
+
+180
+00:11:32,940 --> 00:11:35,860
+现在还来毁坏我的用品 你们真是无理取闹
+Now you have to destroy my stuff as well. You're pathetic!
+
+181
+00:11:35,940 --> 00:11:38,070
+你们完全根本--
+You're utterly and totally...
+
+182
+00:11:38,150 --> 00:11:40,110
+你好啊  博士
+Hello, Doctor.
+
+183
+00:11:43,280 --> 00:11:45,530
+识相点
+Why don't you do yourself a favor?
+
+184
+00:11:45,620 --> 00:11:48,660
+把书页交出来  就此罢手吧
+Hand over the pages and stop all this nonsense.
+
+185
+00:11:50,620 --> 00:11:52,250
+我不知道你是什么意思
+I don't know what you're talking about.
+
+186
+00:11:52,330 --> 00:11:53,960
+把他转过来
+Turn him around.
+
+187
+00:12:00,880 --> 00:12:07,810
+你写的书的书页 《我的成与败》盖尤斯·波塔尔所著
+The pages to your book, My Triumphs, My Mistakes by Gaius Baltar.
+
+188
+00:12:08,060 --> 00:12:09,600
+你读过了?
+So, you've read it.
+
+189
+00:12:10,890 --> 00:12:13,890
+民众读了这本书 你感到惭愧了
+The people are reading it and now you're sorry.
+
+190
+00:12:13,980 --> 00:12:17,480
+我们知道你的律师把书页悄悄携带出去已有几周时间了
+We've known that your lawyer was smuggling the pages out of here for weeks.
+
+191
+00:12:17,570 --> 00:12:20,730
+所以全被我们截获了 恐怕只有我拜读了大作 
+So, we intercepted them and I'm afraid I'm the only one who's read the book,
+
+192
+00:12:20,820 --> 00:12:24,200
+所以我很想知道它的结局
+and I am dying to see how it ends.
+
+193
+00:12:26,370 --> 00:12:30,990
+你现在真的把自己当作平民出身的人?
+Really, what were you thinking now, casting yourself as a man of the people,
+
+194
+00:12:31,250 --> 00:12:35,500
+一个农民的儿子?  一个革命份子?
+the son of a farmer, a revolutionary?
+
+195
+00:12:36,000 --> 00:12:37,330
+可得了吧
+Oh, please.
+
+196
+00:12:38,130 --> 00:12:40,210
+说出来你也许会惊讶 总统阁下
+It may come as some surprise to you, Madam President,
+
+197
+00:12:40,300 --> 00:12:43,170
+但我希望以普通人的身份来打动法庭
+but I wish to strike a chord with the common man.
+
+198
+00:12:43,880 --> 00:12:47,300
+把书页交出来  不然我就让这些守卫搜你的身
+Hand over those pages or I'll have these guards search you.
+
+199
+00:12:47,390 --> 00:12:48,930
+你自己选择
+Make a choice.
+
+200
+00:12:52,680 --> 00:12:54,390
+各位  继续
+Gentlemen, proceed.
+
+201
+00:13:16,290 --> 00:13:18,210
+别向她屈服  盖尤斯
+Don't bend to her, Gaius.
+
+202
+00:13:18,840 --> 00:13:21,590
+让她知道  她无法让你动摇
+Show her that she can't break you.
+
+203
+00:13:23,970 --> 00:13:25,420
+保持你的尊严
+Keep your dignity.
+
+204
+00:13:34,730 --> 00:13:38,060
+可能你会考虑一下在封底写个简评
+Perhaps you'd consider writing a blurb for the back cover.
+
+205
+00:13:43,900 --> 00:13:45,900
+谢谢  博士
+Thank you, Doctor.
+
+206
+00:13:52,040 --> 00:13:53,410
+关上牢门
+GUARD: Close cell.
+
+207
+00:14:04,380 --> 00:14:09,010
+没事  盖尤斯  一切都会没事的
+It's all right, Gaius. Everything will be okay.
+
+208
+00:14:23,070 --> 00:14:24,020
+蒂罗尔
+Tyrol!
+
+209
+00:14:24,110 --> 00:14:25,610
+凯伯 嗨
+Cabott! Hey.
+
+210
+00:14:26,070 --> 00:14:27,320
+还好吗
+How you doing?
+
+211
+00:14:27,400 --> 00:14:29,110
+很高兴见到你
+Good to see you.
+
+212
+00:14:29,950 --> 00:14:32,120
+抱歉      没关系 难免的事
+Sorry. Never mind. It's inevitable.
+
+213
+00:14:32,910 --> 00:14:34,910
+哥们  我不得不说...
+Listen, I gotta tell ya,
+
+214
+00:14:35,040 --> 00:14:38,160
+知道他们要派你来的时候  我们就觉得好多了
+we all started feeling a lot better when we heard they were sending you.
+
+215
+00:14:38,250 --> 00:14:39,750
+是吗?      那是
+Oh, yeah? You bet.
+
+216
+00:14:40,460 --> 00:14:41,460
+我一直在说你的好话
+I've been talking you up,
+
+217
+00:14:41,540 --> 00:14:44,170
+说新卡布里卡上工会...
+telling everybody how the union on New Caprica
+
+218
+00:14:44,250 --> 00:14:45,750
+是如何为小人物出头的
+really stood up for the little guy.
+
+219
+00:14:45,840 --> 00:14:47,090
+恩
+Yeah, well...
+
+220
+00:14:51,680 --> 00:14:54,890
+你看到的就是整个舰队的泰里恩了
+You're looking at the Fleet's entire fuel supply of tylium.
+
+221
+00:14:54,970 --> 00:14:56,720
+我们还能跳跃多少次?
+How many jumps you think we got?
+
+222
+00:14:56,810 --> 00:14:59,520
+能跳出这个星系就算走运了
+We'll be lucky if we get out of the system.
+
+223
+00:15:03,110 --> 00:15:06,150
+你最好带我四处看一下 看一下我们目前的情况
+Well, you'd better give us the nickel tour, see where we stand.
+
+224
+00:15:42,350 --> 00:15:43,440
+大场面
+This is a big operation.
+
+225
+00:15:43,520 --> 00:15:46,690
+等这地方全部运转起来后 你再看看这里
+Yeah, well, you should see this place when it's up and running.
+
+226
+00:15:46,770 --> 00:15:49,690
+比炸弹还响 就比它安全一些
+Loud as an A-bomb and just about as safe.
+
+227
+00:15:58,290 --> 00:16:03,710
+我们真的需要一些休息时间 看看周围
+Listen, we really need this downtime. I mean, look around.
+
+228
+00:16:03,790 --> 00:16:07,750
+下次机器出现故障  可能就不只废了一架猛禽机了
+Next time some machine fraks up, it might not just take out a Raptor.
+
+229
+00:16:08,590 --> 00:16:12,590
+这艘船真是一颗随时可能爆炸的炸弹
+This ship really is a big bomb just waiting to go up.
+
+230
+00:16:13,510 --> 00:16:15,800
+我知道有风险  但我必须要让这里开始工作
+Yeah, look, I understand the risk, but I need to see it working,
+
+231
+00:16:15,890 --> 00:16:19,100
+所以把你的人都叫上  开始工作吧
+so pull your guys off, and let's fire it up.
+
+232
+00:16:19,640 --> 00:16:21,140
+这么做没用
+It ain't gonna work.
+
+233
+00:16:21,810 --> 00:16:23,310
+你在这里上班?
+You work here?
+
+234
+00:16:23,390 --> 00:16:26,400
+这位是麦洛 我最好的润滑手
+This is Milo. He's the best grease jockey I got.
+
+235
+00:16:27,020 --> 00:16:30,400
+麦洛是吧?  告诉我   麦洛  为什么行不通?
+Milo, huh? Hey, Milo, so why is it not gonna work?
+
+236
+00:16:31,900 --> 00:16:34,530
+有什么事没告诉我?  说吧
+Something you guys aren't telling me? Come on.
+
+237
+00:16:41,120 --> 00:16:44,540
+好吧 看来我得自己看看了
+Okay. I guess I'm just gonna have to have a look for myself.
+
+238
+00:16:49,250 --> 00:16:50,920
+那是卸压阀么?
+Is that pressure relief?
+
+239
+00:16:53,380 --> 00:16:55,260
+密封环不见了?
+The seals are missing.
+
+240
+00:16:55,340 --> 00:16:56,340
+都不见了
+They all are.
+
+241
+00:16:56,430 --> 00:16:59,140
+没有压力密封环  机器运转不了
+Without pressure seals, the machinery won't run.
+
+242
+00:16:59,220 --> 00:17:00,560
+到哪去了?
+Well, where are they?
+
+243
+00:17:00,640 --> 00:17:02,720
+看来是丢了
+Guess they got lost, huh?
+
+244
+00:17:02,810 --> 00:17:05,020
+伙计们  你们不能拿这开玩笑
+Guys, you can't be frakking around with this stuff.
+
+245
+00:17:05,140 --> 00:17:07,600
+上将不会容忍这种行为   让上将见鬼去吧
+The Admiral won't stand for it. The Admiral can kiss my ass.
+
+246
+00:17:07,690 --> 00:17:09,110
+嗨 嗨!
+Hey, hey!
+
+247
+00:17:10,190 --> 00:17:12,610
+拜托  轮机长 你也知道这是为什么
+Come on, Chief, you know what this is about.
+
+248
+00:17:12,690 --> 00:17:14,490
+我想工作环境如果有所改善 
+I guess when working conditions improve
+
+249
+00:17:14,570 --> 00:17:18,320
+再把吉诺放出来的话  我们就能找到那些密封环了
+and they let Zeno out of jail, we'll be able to find those seals.
+
+250
+00:17:18,410 --> 00:17:19,700
+在此之前 这艘船
+Until then, it looks like this ship
+
+251
+00:17:19,780 --> 00:17:21,830
+不会炼出一粒泰里恩
+isn't going to be refining another drop of tylium.
+
+252
+00:17:23,790 --> 00:17:26,370
+就是说这支舰队哪都去不了
+And that means this Fleet isn't going anywhere.
+
+253
+00:17:28,880 --> 00:17:32,880
+我已经搜遍了整艘船  还是没有找到密封环
+I've executed a search of the ship, but the seals have not turned up.
+
+254
+00:17:32,960 --> 00:17:34,720
+你也知道  这是蓄意破坏
+You know that this is sabotage.
+
+255
+00:17:34,800 --> 00:17:37,300
+我要把他们关起来
+I'm inclined to have them locked up.
+
+256
+00:17:37,430 --> 00:17:40,720
+长官  求你  他们可以安装一些东西来暗害我
+Sir, please, they could've rigged something to have me injured.
+
+257
+00:17:40,810 --> 00:17:43,010
+他们可以故意污染燃料
+They could have contaminated the fuel on purpose
+
+258
+00:17:43,100 --> 00:17:45,180
+让我们所有的船爆炸
+and left all of our ships dead in the air.
+
+259
+00:17:45,270 --> 00:17:46,390
+我的天
+Good Gods.
+
+260
+00:17:46,480 --> 00:17:49,060
+而他们所做的就是为了争取一些时间
+All they did do was buy themselves some time.
+
+261
+00:17:50,610 --> 00:17:51,900
+机器确实需要大修 
+The machinery does need overhauling.
+
+262
+00:17:51,980 --> 00:17:54,650
+质量控制办事不力是有原因的
+There's a reason that the quality control is failing.
+
+263
+00:17:54,740 --> 00:17:57,150
+你要知道那艘船上大部分工人...
+Do you realize that most of the workers on that ship
+
+264
+00:17:57,240 --> 00:18:00,870
+自从殖民地遇袭后 一天也没休息过
+have not had a day off since the original attack on the Colonies?
+
+265
+00:18:00,950 --> 00:18:03,080
+像是在做苦役一样
+It's like slave labor.
+
+266
+00:18:03,160 --> 00:18:04,660
+别乱说了
+Don't be absurd.
+
+267
+00:18:04,750 --> 00:18:07,160
+那艘船上的人被困在了那里
+The men and women aboard that ship are stuck there.
+
+268
+00:18:07,250 --> 00:18:08,750
+无法脱身  无法调职 
+They can't leave, they can't transfer.
+
+269
+00:18:08,830 --> 00:18:10,420
+无法掌握自己的命运
+They have no control over their lives.
+
+270
+00:18:10,500 --> 00:18:12,340
+并且工作繁重 这我们知道
+And the work is hard, we know that.
+
+271
+00:18:12,420 --> 00:18:15,130
+他们是以为自己在海藻加工厂...
+Do they think they're having a picnic on the algae processing plant
+
+272
+00:18:15,210 --> 00:18:17,340
+或是军火库  废物处理厂吃野餐吗?
+or munitions or waste processing?
+
+273
+00:18:17,430 --> 00:18:20,640
+舰队里的飞船都载满了在恶劣环境下工作的人
+The fleet is filled with ships with people working under horrific conditions
+
+274
+00:18:20,720 --> 00:18:22,600
+并没有人在安心享乐
+and nobody's having a good time.
+
+275
+00:18:22,680 --> 00:18:26,100
+我认为  如果我们能至少放了吉诺
+Well, I think that if we at least release Zeno and start talking to them
+
+276
+00:18:26,180 --> 00:18:28,520
+然后和他们谈一些有关改善工作与居住环境的问题
+about improving working conditions and living conditions,
+
+277
+00:18:28,600 --> 00:18:31,730
+抗议就会停止 他们就会归还压力密封环 
+that the protest will go away, they'll return the pressure seals
+
+278
+00:18:31,810 --> 00:18:34,780
+我们也就能控制燃料污染问题
+and we'll get the fuel contamination problem under control.
+
+279
+00:18:34,860 --> 00:18:38,360
+这种勒索的抗议方法是不可接受的
+Extortion is not an acceptable method of protest.
+
+280
+00:18:38,450 --> 00:18:40,570
+带头人叫什么名字?
+What are the names of the leaders?
+
+281
+00:18:45,620 --> 00:18:48,710
+只有凯伯   我会下达对他的逮捕令
+Just Cabott. I will issue a warrant for his arrest.
+
+282
+00:18:48,790 --> 00:18:51,370
+把他关禁闭  震慑一下他
+Put him in the brig, let him sweat it out.
+
+283
+00:18:52,380 --> 00:18:54,880
+上将  总统阁下  他们只是想..
+Admiral, Madam President, they're just trying to...
+
+284
+00:18:54,960 --> 00:18:57,010
+轮机长  打住  话说完了
+Chief, uh-uh. We're done.
+
+285
+00:19:18,150 --> 00:19:20,860
+我要去看一下凯伯和吉诺
+I'm gonna go check on Cabott and Zeno.
+
+286
+00:19:30,710 --> 00:19:32,170
+轮机长
+Chief?
+
+287
+00:19:38,210 --> 00:19:39,670
+嗨 嗨
+Hey. Hey.
+
+288
+00:19:39,760 --> 00:19:41,720
+你得把他弄出去
+You gotta get him out of here.
+
+289
+00:19:45,600 --> 00:19:47,140
+他的手怎么了?
+What the hell happened to his hands?
+
+290
+00:19:47,220 --> 00:19:49,560
+他半夜起来抓墙
+I wake up in the middle of the night, he's scratching the walls.
+
+291
+00:19:49,640 --> 00:19:51,810
+抓个没完 直到手指出血
+He just keeps scratching them until his fingers are bleeding.
+
+292
+00:19:51,890 --> 00:19:53,940
+我不说  我不在乎 
+I won't say, it don't matter...
+
+293
+00:19:54,020 --> 00:19:57,690
+他在新卡布里卡上的时候 就被赛昂人拘留过 记得吗?
+He was in Cylon detention on New Caprica, you remember?
+
+294
+00:19:57,780 --> 00:20:00,110
+他出来以后就怪里怪气的 这么做对他有害无益
+He came out all squirrelly, and this is not helping.
+
+295
+00:20:00,190 --> 00:20:02,740
+拜托 你得把他弄出去
+Come on, you've got to get him out of here.
+
+296
+00:20:05,200 --> 00:20:06,910
+我不会说的
+I won't say...
+
+297
+00:20:11,120 --> 00:20:12,620
+密封环在哪里?
+Where are the seals?
+
+298
+00:20:13,000 --> 00:20:15,330
+你个狗杂种 说吧
+You son of a bitch. Come on!
+
+299
+00:20:16,170 --> 00:20:18,380
+拜托  加伦 你得把他弄出去
+Come on, Galen! You've got to get him out of here!
+
+300
+00:20:18,460 --> 00:20:20,090
+凯伯!      不  我不说
+Cabott? I won't say. No, I won't...
+
+301
+00:20:20,170 --> 00:20:22,130
+凯伯  看着我
+Cabott, look at me.
+
+302
+00:20:23,510 --> 00:20:25,470
+凯伯  听我说 密封环在哪里?
+Cabott, listen to me. Where are the seals?
+
+303
+00:20:25,550 --> 00:20:27,390
+我不说  我不在乎 不在乎
+I won't say. It doesn't matter. It doesn't matter.
+
+304
+00:20:27,470 --> 00:20:29,260
+凯伯  我能救你出来  密封环在哪里?
+Cabott, I can get you out of here. Where are the seals?
+
+305
+00:20:29,350 --> 00:20:31,640
+告诉我在哪里?      密封环在哪里?
+Tell me where the seals are. I won't say. It doesn't matter...
+
+306
+00:20:31,770 --> 00:20:34,980
+老天啊  救他出去      我不在乎 我不在乎
+For Gods sakes, get him out of here! It doesn't matter! It doesn't matter!
+
+307
+00:20:35,060 --> 00:20:38,520
+密封环在哪里?  在哪里?
+Where are the seals? Where are they?
+
+308
+00:20:38,650 --> 00:20:41,030
+我不在乎  我不在乎       密封环在哪里?
+It doesn't matter. It doesn't matter! Where are the seals?
+
+309
+00:20:41,150 --> 00:20:44,320
+我不在乎  我不在乎       在哪里?
+It doesn't matter! It doesn't matter! Where are they?
+
+310
+00:20:44,450 --> 00:20:45,740
+通风口
+The air vent!
+
+311
+00:20:45,820 --> 00:20:49,410
+行了吧?  在船尾中间的通风口里
+All right? They're in the center stern air vent!
+
+312
+00:20:49,490 --> 00:20:51,660
+告诉总统放了他们
+Tell the President to release them.
+
+313
+00:21:16,400 --> 00:21:18,100
+好 这是最后一个
+All right, that's the last one.
+
+314
+00:21:18,190 --> 00:21:21,230
+点火 回去工作
+Let's fire this up, get back to work.
+
+315
+00:21:21,320 --> 00:21:24,690
+是  长官      一切听从你的吩咐  老大
+Yes, sir. Whatever you say, boss.
+
+316
+00:21:24,780 --> 00:21:28,530
+嗨 嗨    可以让我来开闸吗?
+Hey, hey, hey, hey. Can I throw the switch?
+
+317
+00:21:30,740 --> 00:21:32,790
+你多大?      12岁
+How old are you? Twelve.
+
+318
+00:21:33,700 --> 00:21:35,120
+快12岁了
+Almost.
+
+319
+00:21:35,210 --> 00:21:37,580
+可所有的机器  我都会操作
+But I can run every machine we got.
+
+320
+00:21:37,670 --> 00:21:41,040
+唯一没做过的事  就是开闸
+Only thing I haven't done is turn the whole thing on.
+
+321
+00:21:42,880 --> 00:21:44,420
+归你了
+It's all yours.
+
+322
+00:22:32,930 --> 00:22:35,060
+那下面全是一些孩子  总统阁下 
+TYROL: There are kids down there, Madam President.
+
+323
+00:22:35,140 --> 00:22:37,430
+舰队里的每艘船上都有小孩
+There's children on every ship in the fleet.
+
+324
+00:22:37,520 --> 00:22:40,150
+这些孩子在精炼厂工作
+These children work in the refinery.
+
+325
+00:22:40,560 --> 00:22:43,360
+他们只有12岁  15岁
+They're 12, 15 years old.
+
+326
+00:22:43,440 --> 00:22:47,030
+自从有精炼厂的那一天开始 就有家庭住在那里
+There have been families aboard the refinery ever since its beginning,
+
+327
+00:22:47,110 --> 00:22:50,780
+其他人则是在赛昂 袭击殖民地后被接上船的
+and others were picked up after the Cylons attacked the Colonies.
+
+328
+00:22:50,870 --> 00:22:52,160
+在过去的两年中
+Over the past two years,
+
+329
+00:22:52,240 --> 00:22:55,410
+家长一直在教授儿女如何操作机器
+the parents have been teaching the children how to operate the machinery.
+
+330
+00:22:55,490 --> 00:22:59,330
+他们在把自己的技能传给下一代  这是很正常的事
+They have been passing along their skills. It is perfectly normal.
+
+331
+00:22:59,420 --> 00:23:01,460
+这么做并不理想 我也知道
+It is not ideal, I know that.
+
+332
+00:23:01,830 --> 00:23:04,840
+但这支舰队本身就没有什么理想之处
+But there is nothing ideal about this Fleet.
+
+333
+00:23:06,210 --> 00:23:08,050
+您看出来这是怎么回事了么?
+Do you see what's happening?
+
+334
+00:23:08,130 --> 00:23:11,130
+工作开始代代相传  总统阁下
+Jobs are starting to be inherited, Madam President.
+
+335
+00:23:11,220 --> 00:23:14,300
+我们并不知道还要在这船上呆多久 如果是十年呢?
+We don't know how long we're gonna be on these ships. What if it's 10 years?
+
+336
+00:23:14,390 --> 00:23:18,020
+就因为我是甲板手  我就非要把我的儿子训练成甲板手?
+So, I train my son to be a deck hand because that's what I am?
+
+337
+00:23:18,100 --> 00:23:20,310
+就因为他只是这块料?
+And that's all he can ever be?
+
+338
+00:23:21,730 --> 00:23:23,810
+这是我们想要的未来吗?
+Is that the future we want?
+
+339
+00:23:28,030 --> 00:23:30,240
+你说得很对
+That's a really good point.
+
+340
+00:23:33,160 --> 00:23:35,620
+托莉  制作一份名单  列出舰队里 
+Tory, I want you to make a list of everyone in the Fleet
+
+341
+00:23:35,700 --> 00:23:38,370
+所有适合从事精炼工作的人
+who has a work history appropriate to the refinery.
+
+342
+00:23:38,450 --> 00:23:41,080
+工厂工人   技工  所有你能想到的工种
+Factory workers, mechanics, whatever you think.
+
+343
+00:23:41,170 --> 00:23:44,290
+然后交给轮机长 你来主持公开抽签
+Give it to the Chief and I want you to hold a public lottery.
+
+344
+00:23:44,380 --> 00:23:46,500
+我们从其他船上找人 
+And we will take people from other vessels
+
+345
+00:23:46,590 --> 00:23:48,800
+让他们与精炼厂的工人轮班
+and we'll put them on shifts in the refinery.
+
+346
+00:23:48,880 --> 00:23:50,300
+怎么样  轮机长?
+How's that, Chief?
+
+347
+00:23:50,930 --> 00:23:53,260
+谢谢您   谢谢你
+Thank you. Thank you.
+
+348
+00:23:57,390 --> 00:24:00,270
+那些就是从道格维尔分配来的人?
+TYROL: So that's our allotment from Dogsville.
+
+349
+00:24:00,560 --> 00:24:02,310
+在他们知道要去哪之前 
+We'll get these people on these ships and out of here
+
+350
+00:24:02,390 --> 00:24:04,440
+就把他们带上船  离开这里
+before they know where they're going.
+
+351
+00:24:04,520 --> 00:24:06,520
+好了  各位  我们排两行      打扰一下  先生
+All right, people! Let's form two lines! Excuse me, sir!
+
+352
+00:24:06,610 --> 00:24:08,400
+一排这边 一排那边…
+One down here, one over here...
+
+353
+00:24:08,480 --> 00:24:10,440
+我不知道应该找谁谈这件事
+Hi, I don't really know who I'm supposed to talk to about this,
+
+354
+00:24:10,530 --> 00:24:13,660
+可我想我不是你们要找的人
+but I don't really think I'm what you guys are looking for.
+
+355
+00:24:13,740 --> 00:24:15,700
+我没有这项技能
+I don't really have the skills.
+
+356
+00:24:16,160 --> 00:24:18,240
+你叫什么名字?  丹尼·努
+What's your name? Danny Noon.
+
+357
+00:24:18,330 --> 00:24:20,040
+菲戈斯基?    努?
+Figurski? Noon.
+
+358
+00:24:20,540 --> 00:24:25,540
+努 努 努 丹尼 这上面写着你是农民
+Noon. Noon. Noon, Daniel. Says you're a farmer.
+
+359
+00:24:25,630 --> 00:24:27,210
+农民?  这正是我们要找的人
+Farmer? Yeah, that's what we're looking for.
+
+360
+00:24:27,250 --> 00:24:29,130
+可以操作重型机器的人    不 可我不会 
+People to work with heavy machinery. No, but I don't.
+
+361
+00:24:29,210 --> 00:24:30,300
+不太会
+Not really.
+
+362
+00:24:30,380 --> 00:24:33,340
+我为了攒钱上大学  一夏天都曾在一座农场打工
+I worked on a farm for a summer because I was saving up to go to college.
+
+363
+00:24:33,430 --> 00:24:37,050
+专业是建筑学 接着就遭遇了赛昂人的袭击
+Architecture, but then the Cylons attacked,
+
+364
+00:24:37,140 --> 00:24:39,390
+而我现在就成了农民  这怎么合理?
+and now I'm a farmer? How is that fair?
+
+365
+00:24:40,720 --> 00:24:42,850
+从哪一点看是合理的?
+How is that in any way fair?
+
+366
+00:24:45,690 --> 00:24:47,810
+失陪一下
+Just give me a second.
+
+367
+00:24:47,900 --> 00:24:51,610
+如果为他开绿灯  其他人就会跟风而至
+We make an exception for this guy, there's gonna be 15 more right behind him.
+
+368
+00:24:51,690 --> 00:24:53,860
+看看他  还是个孩子
+Look at him, though. He's a kid.
+
+369
+00:24:56,410 --> 00:24:58,410
+好吧  把他带上船
+Fine. Put him on the ship.
+
+370
+00:24:58,490 --> 00:25:00,990
+这只是暂时的  好吗?
+Look, this is just a temporary thing, okay?
+
+371
+00:25:01,080 --> 00:25:03,410
+等一下  我不是农民
+Hey, wait, hold on. I'm not a farmer!
+
+372
+00:25:03,500 --> 00:25:04,540
+这不是固定工作
+Yeah, it's not permanent.
+
+373
+00:25:04,620 --> 00:25:07,540
+等一下 你能看一下我的档案吗?      好
+No, wait, can you just check my record? Yeah.
+
+374
+00:25:07,670 --> 00:25:09,920
+请问 我该找谁谈这件事?
+Excuse me. Who am I supposed to talk to about this?
+
+375
+00:25:10,000 --> 00:25:11,670
+我该找谁谈这件事?
+Who am I supposed to talk to about this?
+
+376
+00:25:11,760 --> 00:25:13,880
+你怎么不明白 我不是农民
+You don't understand! I'm not a farmer!
+
+377
+00:25:13,970 --> 00:25:16,590
+住手  我不是农民
+Hey! Stop it! I'm not a farmer!
+
+378
+00:25:47,630 --> 00:25:49,540
+你来这里干什么?
+What are you doing here?
+
+379
+00:25:49,630 --> 00:25:53,340
+你的书 是真实的还是虚构的?
+Your book, fact or fiction?
+
+380
+00:25:53,420 --> 00:25:55,380
+你读过了?
+So you read it?
+
+381
+00:25:55,470 --> 00:25:59,550
+这也就证明了总统是个十足的骗子
+Well, that proves that the President is an accomplished liar.
+
+382
+00:25:59,640 --> 00:26:03,720
+她告诉我那本书还没上市 有什么感想?
+She told me it hadn't gone out. So what do you make of it?
+
+383
+00:26:03,810 --> 00:26:06,230
+我看是一派胡言
+I think that it's a pile of crap.
+
+384
+00:26:06,310 --> 00:26:10,690
+显然  我对两极分化社会所作的分析让你害怕了
+Obviously, my analysis of a bifurcated society scares you.
+
+385
+00:26:10,770 --> 00:26:13,690
+不过在我书中所叙述的每件事恰恰都是事实
+But everything in my book happens to be true.
+
+386
+00:26:14,650 --> 00:26:19,910
+是真的？ 你真的是一个从爱诺朗来的农村孩子？
+Oh, it's true? It's true that you're a farm boy from Aerelon.
+
+387
+00:26:19,990 --> 00:26:21,240
+对  确实是这样
+Yes, it is, as a matter of fact.
+
+388
+00:26:21,330 --> 00:26:23,620
+我确实生长在爱诺朗上
+I was born and raised on a dairy outside the town
+
+389
+00:26:23,700 --> 00:26:25,620
+科菲波里沃镇外的一座牛奶厂
+of Cuttlesbreath Wash on Aerelon.
+
+390
+00:26:26,460 --> 00:26:30,630
+我怎么就想象不出你在挤牛奶 
+Why do I have such a hard time picturing you
+
+391
+00:26:30,710 --> 00:26:33,800
+施肥时会是什么样呢?
+milking cows and shoveling manure?
+
+392
+00:26:34,510 --> 00:26:36,460
+缺乏想象力
+Lack of imagination.
+
+393
+00:26:37,680 --> 00:26:40,510
+不然就是你的小故事本身就是谎话
+Or maybe that your little tale is manure.
+
+394
+00:26:43,140 --> 00:26:46,980
+我认识从爱诺朗来的人 你听起来和他们不一样
+I've known people from Aerelon. You don't sound anything like them.
+
+395
+00:26:47,060 --> 00:26:49,770
+我听起来不像是从爱诺朗来的?      不像
+I don't sound like I'm from Aerelon? No.
+
+396
+00:26:49,850 --> 00:26:52,770
+我把这句话当作是你对我的褒奖
+Well, you know I take that as a particular compliment.
+
+397
+00:26:52,860 --> 00:26:55,690
+我不知道你有什么感觉  可我认为爱诺朗方言 
+I don't know about you, but I've always found the Aerelon dialect
+
+398
+00:26:55,780 --> 00:26:58,280
+向来都是对耳朵的一种折磨
+to be particularly hard on the ears.
+
+399
+00:26:59,030 --> 00:27:00,660
+主要是那些
+Something about the consonants
+
+400
+00:27:00,740 --> 00:27:02,950
+从喉咙后部发出的辅音
+that scrape the back of the throat.
+
+401
+00:27:04,200 --> 00:27:06,450
+当然  我应该非常熟悉自己的口音
+Of course, I should know an awful lot about my native tongue.
+
+402
+00:27:06,540 --> 00:27:08,330
+我曾连续用几小时来纠正它
+I spent hours on end trying to overcome it.
+
+403
+00:27:08,410 --> 00:27:11,250
+你知道对于一个10岁的男孩来说 
+Do you have any idea how hard it is
+
+404
+00:27:11,330 --> 00:27:14,840
+要改变他的说话方式有多难?
+for a 10-year-old boy to change the way he speaks?
+
+405
+00:27:14,920 --> 00:27:17,550
+要把他所学到的一切东西都忘掉
+To unlearn everything he ever learned
+
+406
+00:27:18,220 --> 00:27:22,590
+这样有一天 有一天 可能会有一丁点希望
+so that one day there might be the small hope
+
+407
+00:27:24,930 --> 00:27:28,020
+大家认为他可能不是来自爱诺朗的人
+that he might be considered as not coming from Aerelon?
+
+408
+00:27:28,350 --> 00:27:30,730
+也许是从卡布里卡来的人
+Maybe, I don't know, Caprica?
+
+409
+00:27:32,230 --> 00:27:35,820
+卡布里卡人 当一个卡布里卡人
+Caprica? Oh, to be Caprican.
+
+410
+00:27:38,400 --> 00:27:43,570
+政治  文化  艺术 科学  学识的温床
+The seat of politics, culture, art, science, learning.
+
+411
+00:27:44,120 --> 00:27:48,160
+而爱诺朗呢?  丑陋的土褐色星球
+And what was Aerelon? Just a drab, ugly rock,
+
+412
+00:27:48,250 --> 00:27:53,080
+被判为是12殖民地的粮仓
+condemned to be the food basket for the 12 worlds.
+
+413
+00:27:53,750 --> 00:27:58,670
+我们也受到像佣人  劳工  工人阶级一般的对待
+And that's how we were treated, like servants, like laborers, like working class.
+
+414
+00:27:58,920 --> 00:28:01,760
+你倒是很符合标准  轮机长
+You know, you would have fitted right in there, Chief.
+
+415
+00:28:01,840 --> 00:28:06,510
+很多人都喜欢手工劳动 到酒馆喝杯酒
+Lots of men who liked to work with their hands and grab a pint down at the pub
+
+416
+00:28:06,600 --> 00:28:10,270
+找人打一架后来结束一天的辛劳
+and finish off the evening with a good old-fashioned fight.
+
+417
+00:28:11,690 --> 00:28:16,440
+对了 我在过完18岁生日后 就离开了爱诺朗
+Oh, yes, I left Aerelon after my 18 birthday.
+
+418
+00:28:17,940 --> 00:28:24,910
+抛下了我的家族 我的遗产 所有的一切
+I turned my back on my family, on my heritage, all of them.
+
+419
+00:28:27,080 --> 00:28:30,120
+当然说也白说了 一切都毁于一旦了
+Of course, it doesn't matter. They're all dead now.
+
+420
+00:28:30,870 --> 00:28:33,620
+你也清楚这里也没有那些东西吧?
+You do realize that none of that exists here.
+
+421
+00:28:34,880 --> 00:28:37,040
+从技工嘴里说出的话
+Coming from the mouth of a mechanic.
+
+422
+00:28:37,130 --> 00:28:39,460
+我们保留了民主
+We've kept democracy.
+
+423
+00:28:39,880 --> 00:28:43,050
+我们有政府 有权利  有选举
+We have government, we have rights, we have elections...
+
+424
+00:28:43,130 --> 00:28:45,720
+那你完全应该感到高兴才对  不是吗?
+Well, then you should feel perfectly happy, shouldn't you?
+
+425
+00:28:45,800 --> 00:28:49,560
+非常舒适自在 回家吧 别烦我
+Perfectly at ease. Go home! Leave me in peace!
+
+426
+00:28:49,640 --> 00:28:51,560
+这正是贵族阶级所期盼的
+After all, that's what the aristocracy wants.
+
+427
+00:28:51,640 --> 00:28:54,560
+想要让工人阶级觉得自己受人爱戴
+It wants the working class to feel looked after,
+
+428
+00:28:54,650 --> 00:28:58,150
+而他们其实吃的却是主人的残羹冷炙
+while they scrabble around for scraps from the master's table.
+
+429
+00:29:06,370 --> 00:29:07,820
+书的结尾我提出了一个问题 
+There's a question I ask at the end of my book.
+
+430
+00:29:07,910 --> 00:29:10,660
+免得你再去看了
+I'll save you the trouble of reading it.
+
+431
+00:29:11,120 --> 00:29:13,410
+你真的认为这支舰队 
+Do you honestly believe that the Fleet will ever be commanded
+
+432
+00:29:13,500 --> 00:29:16,330
+可以由不姓亚当玛的人来统治吗?
+by somebody whose last name is not Adama?
+
+433
+00:29:19,500 --> 00:29:21,050
+就是这样  轮机长
+There it is, Chief.
+
+434
+00:29:22,010 --> 00:29:24,470
+对贵族阶级是一套规矩
+One set of rules for the aristocracy,
+
+435
+00:29:24,550 --> 00:29:27,300
+对我们是一套规矩
+and one set of rules for the rest of us.
+
+436
+00:30:26,530 --> 00:30:29,450
+我们已经给那些经过抽签决定新来的工人分配了任务
+FENNER: We've given assignments to all the new workers from the lottery.
+
+437
+00:30:29,530 --> 00:30:31,370
+看来你让他们马上投入了工作
+Looks like you put 'em right to work.
+
+438
+00:30:31,450 --> 00:30:35,330
+恩  对  他们还好  虽然不太稳重 但是会好起来的
+Yeah, yeah. They're okay. They're a little skittish, but they'll catch on.
+
+439
+00:30:35,410 --> 00:30:38,540
+我们上次的问题就出在这里
+Right up here's where we had the problem last time.
+
+440
+00:30:38,620 --> 00:30:42,170
+多次出现齿轮滑动  温度变动
+We got all kinds of gear slippage, temperature variations.
+
+441
+00:30:42,290 --> 00:30:45,960
+我们并不知道残渣没有被烧掉
+We didn't know the dross wasn't getting burned off.
+
+442
+00:30:46,050 --> 00:30:47,470
+是你们的不合格燃料?
+And that's the bad fuel?
+
+443
+00:30:47,550 --> 00:30:49,800
+对  现在开始流动了 生产线上还有六个地方 
+Yeah, it's running now, but we've got a half-dozen other places
+
+444
+00:30:49,890 --> 00:30:51,180
+可能会出现故障
+down the line that could frak us.
+
+445
+00:30:52,430 --> 00:30:53,720
+怎么回事?
+What's that?
+
+446
+00:30:54,930 --> 00:30:56,640
+好了  关闸
+Whoa, that's it! Hit the switch!
+
+447
+00:30:56,730 --> 00:30:59,100
+不行  不行  卡住的时候不能关  整个系统都会失灵
+No, no, no! Not when it's jammed! The whole system will seize up!
+
+448
+00:30:59,190 --> 00:31:02,230
+我们得找到卡住的地方 否则留在室内的矿石过热后 
+Gotta find it. Otherwise, the ore that's still in the chambers will superheat
+
+449
+00:31:02,310 --> 00:31:04,610
+会产生连锁反应  把我们都炸飞
+and set off a chain reaction that will blow us all to hell!
+
+450
+00:31:04,690 --> 00:31:07,240
+快  我们一定要让传送带动起来
+Hurry! We've got to get this going!
+
+451
+00:31:07,990 --> 00:31:09,950
+在这里  就是这里
+Right here! This is it!
+
+452
+00:31:10,030 --> 00:31:11,070
+找到了?  恩
+You got it? Yeah!
+
+453
+00:31:11,160 --> 00:31:12,370
+把它弄出来
+Get it out of there.
+
+454
+00:31:12,450 --> 00:31:14,240
+我没法抓到它
+I can't get my hands around it.
+
+455
+00:31:14,370 --> 00:31:17,330
+快  拉一下 我抓不住它
+Come on, just give it a yank! I can't get my hand on it!
+
+456
+00:31:17,410 --> 00:31:19,710
+小心  小心
+Careful! Careful!
+
+457
+00:31:19,830 --> 00:31:21,620
+这下面太窄了 我进不去
+It's too small. I can't get under it.
+
+458
+00:31:21,710 --> 00:31:25,500
+那边的矿石都热了 你们得快点让这东西动起来
+We've got some hot rocks up there! You've got to get this thing started fast!
+
+459
+00:31:25,630 --> 00:31:28,550
+拉一下  拉一下  我就是抓不住它
+Give it a yank! Give it a yank! I just can't get my hand around it!
+
+460
+00:31:28,630 --> 00:31:31,260
+抓不住
+I can't get my hand on it!
+
+461
+00:31:31,340 --> 00:31:33,890
+我来试试 我来试试
+I can try! I can try!
+
+462
+00:31:34,260 --> 00:31:36,180
+我也许能进去
+Get in there! I can probably fit.
+
+463
+00:31:36,270 --> 00:31:37,680
+来吧  丹尼   如果弄好了 
+Come on, Danny. Okay, if he clears it,
+
+464
+00:31:37,770 --> 00:31:39,390
+传送带会跳带 你要小心
+the belt's gonna jump, so you gotta be careful.
+
+465
+00:31:39,480 --> 00:31:41,270
+从后面进去 抓到它
+Way in the back. Got it.
+
+466
+00:31:41,400 --> 00:31:43,520
+小心  抓到了 抓到了
+There you go, there you go. You got it. You got it.
+
+467
+00:31:43,610 --> 00:31:46,320
+好  小心点
+You got it. Atta boy. Better... Be careful!
+
+468
+00:31:46,530 --> 00:31:47,940
+加油  丹尼 让它动起来
+Come on, Danny, get a hold of it!
+
+469
+00:31:48,030 --> 00:31:50,190
+对  好样的 抓住它  拉住 
+That's it! Atta boy! Now, grab it! Pull it!
+
+470
+00:31:50,280 --> 00:31:51,740
+往你这边拉 用力拉  
+Pull it towards you! Pull hard!
+
+471
+00:31:51,820 --> 00:31:54,990
+用力拉 用力拉 
+Come on! Pull hard, Danny!
+
+472
+00:31:57,830 --> 00:31:59,660
+这就对了
+Yes! All right!
+
+473
+00:32:00,460 --> 00:32:01,750
+好样的 丹尼 干得好
+Good work, Danny. Good work.
+
+474
+00:32:01,830 --> 00:32:04,540
+好样的  快出来 快出来
+Atta boy, Danny. Get out of there. Come on out, come on out.
+
+475
+00:32:06,210 --> 00:32:08,050
+急救员!  急救员!
+Medic! Medic!
+
+476
+00:32:12,010 --> 00:32:14,260
+急救员快来!
+Medic! Now!
+
+477
+00:32:14,340 --> 00:32:17,050
+放松  小兄弟  我们会照顾好你的
+Take it easy, buddy. We got you. We're gonna work with you.
+
+478
+00:32:17,140 --> 00:32:19,850
+放松…    他重度…
+Go ahead, take it easy... He's got multiple...
+
+479
+00:32:21,350 --> 00:32:23,600
+没事  小兄弟 你做得很好
+FENNER: It's okay, buddy. You did a great job. A great job.
+
+480
+00:32:23,690 --> 00:32:25,770
+快进去
+MAN: Get in there! Get in there!
+
+481
+00:32:30,530 --> 00:32:31,610
+好
+SEELIX: Okay.
+
+482
+00:32:31,700 --> 00:32:34,950
+你会好的
+You're gonna be okay.
+
+483
+00:32:45,080 --> 00:32:49,670
+还需要纱布   冷静   再拿些来
+I need more gauze. Just calm down, that's it. Give me some more.
+
+484
+00:33:45,600 --> 00:33:47,650
+这地方停止作业了
+This plant is off-line!
+
+485
+00:33:52,150 --> 00:33:53,650
+我们要罢工!
+We're on strike!
+
+486
+00:34:31,860 --> 00:34:33,070
+需要什么吗  上尉?
+You need something, Captain?
+
+487
+00:34:33,150 --> 00:34:34,940
+对 我他娘的是需要东西 需要我的蝮蛇机
+Yeah, I frakking need something. I need my Viper.
+
+488
+00:34:35,030 --> 00:34:37,110
+抱歉  上尉  仅限于重要任务
+Sorry, Captain. Vital missions only.
+
+489
+00:34:37,200 --> 00:34:40,240
+空中巡逻队已经出勤 我们做完工作了
+CAP is already up. We did our job.
+
+490
+00:34:40,320 --> 00:34:42,120
+"重要任务"是什么意思?
+What do you mean, vital missions only?
+
+491
+00:34:42,200 --> 00:34:43,330
+谁的命令?
+Whose orders?
+
+492
+00:34:43,410 --> 00:34:45,910
+凯莉传达了蒂罗尔轮机长的命令
+Cally relayed the orders from Chief Tyrol.
+
+493
+00:34:48,960 --> 00:34:50,460
+我们罢工了
+We're on strike.
+
+494
+00:35:18,700 --> 00:35:20,030
+上将
+Admiral.
+
+495
+00:35:21,360 --> 00:35:26,080
+你是否意识到你的甲板手们参与了停工活动?
+Are you aware that your deck gang is participating in a work stoppage?
+
+496
+00:35:26,200 --> 00:35:29,410
+这叫做总罢工  长官  这是兵变
+It's called a general strike, sir. It's a mutiny.
+
+497
+00:35:30,710 --> 00:35:33,210
+知道我们怎么处置叛徒么?
+And do you know what we do with mutineers?
+
+498
+00:35:33,710 --> 00:35:35,500
+我们枪毙他们  轮机长
+We shoot them, Chief.
+
+499
+00:35:44,260 --> 00:35:46,680
+我们这是在抛弃民众  上将
+We're leaving people behind, Admiral.
+
+500
+00:35:46,770 --> 00:35:49,350
+民众被固定在他们的岗位 无法掌握自己的命运
+People are locked into their jobs, they have no control over their lives.
+
+501
+00:35:49,430 --> 00:35:50,850
+没有权利
+They have no say.
+
+502
+00:35:50,940 --> 00:35:54,060
+我们让他们听天由命 就像是我们把他们遗弃在了那个星球上
+We're abandoning them to their fate. It's like we've marooned them on a planet.
+
+503
+00:35:54,150 --> 00:35:56,020
+问题不在这里
+That is not the issue.
+
+504
+00:35:56,110 --> 00:35:59,990
+这艘战舰上的人不许违抗命令
+The men and women on this ship are not allowed to disobey an order,
+
+505
+00:36:00,070 --> 00:36:03,740
+特别是为了支持什么狗屁劳资纠纷
+especially in support of some kind of frakking labor dispute.
+
+506
+00:36:04,450 --> 00:36:05,780
+我们送出了空中巡逻队
+We launched the CAP.
+
+507
+00:36:05,870 --> 00:36:08,490
+没人擅自离岗  我们并没让舰队面临危险
+No one has abandoned their post. We're not putting anyone in danger.
+
+508
+00:36:08,580 --> 00:36:09,950
+这是兵变
+This is mutiny.
+
+509
+00:36:11,830 --> 00:36:13,790
+到此为止
+And it stops now.
+
+510
+00:36:16,630 --> 00:36:20,130
+上将 我只想和总统坐下来谈一些事
+Admiral, all I want is a sit-down with the President.
+
+511
+00:36:22,180 --> 00:36:23,930
+我是上将
+This is the Admiral.
+
+512
+00:36:24,470 --> 00:36:26,680
+逮捕凯莉·蒂罗尔
+Arrest Cally Tyrol.
+
+513
+00:36:26,760 --> 00:36:31,060
+把她直接武装押送到右舷修理厂
+Take her under armed guard directly to the starboard repair bay.
+
+514
+00:36:34,100 --> 00:36:35,860
+"修理厂"?  你要干什么?
+The repair bay? What are you doing?
+
+515
+00:36:35,940 --> 00:36:40,110
+我要让她靠着舱壁 把她作为叛徒枪毙
+I'm gonna put her up against the bulkhead and I'm gonna shoot her as a mutineer.
+
+516
+00:36:40,190 --> 00:36:41,900
+你是不是疯了?
+Are you out of your frakking mind?
+
+517
+00:36:41,990 --> 00:36:43,820
+凯莉只是按我命令行事
+Cally was just following my orders.
+
+518
+00:36:43,910 --> 00:36:46,700
+她是带头人  所以第一个人就是她
+She's a ringleader, so she goes first.
+
+519
+00:36:46,780 --> 00:36:51,700
+接着就是其他的甲板手 菲戈斯基 希里克丝 波吕克斯…
+Then the rest of your deck gang, Figurski, Seelix, Pollux...
+
+520
+00:36:55,460 --> 00:36:57,130
+你不会这么做的
+You won't do this.
+
+521
+00:36:58,130 --> 00:36:59,550
+我们有一个儿子
+We have a son.
+
+522
+00:36:59,630 --> 00:37:01,340
+给我听好
+Understand me.
+
+523
+00:37:01,550 --> 00:37:05,590
+这艘战舰的生死存亡也许正依赖于那些接到命令
+The very survival of this ship may depend on someone getting an order
+
+524
+00:37:05,680 --> 00:37:07,550
+但却不愿执行命令的人
+that they don't want to do.
+
+525
+00:37:08,560 --> 00:37:10,560
+如果他们稍有迟疑
+And if they hesitate,
+
+526
+00:37:10,680 --> 00:37:14,060
+如果他们有时把上级命令当作耳旁风
+if they feel that orders are sometimes optional,
+
+527
+00:37:14,140 --> 00:37:16,520
+那这艘战舰就会灭亡
+then this ship will perish,
+
+528
+00:37:17,400 --> 00:37:22,610
+你的儿子也会有此下场 全人类也会灭亡
+and so will your son and the entire human race.
+
+529
+00:37:24,450 --> 00:37:26,450
+我确实不想这么做 轮机长
+I don't want to do this, Chief.
+
+530
+00:37:26,530 --> 00:37:30,580
+但为了确保这艘战舰 这支舰队不会被摧毁
+But I will put 10 Callys up against the wall
+
+531
+00:37:30,660 --> 00:37:35,410
+就算有十个凯莉在 我也会把她们送上刑场
+to make sure that this ship and this fleet are not destroyed.
+
+532
+00:37:41,500 --> 00:37:42,590
+好吧
+Fine.
+
+533
+00:37:43,840 --> 00:37:45,470
+我停止这次罢工
+I'll call it off.
+
+534
+00:37:50,260 --> 00:37:51,760
+我是上将
+This is the Admiral.
+
+535
+00:37:52,470 --> 00:37:54,350
+凯莉被拘留了么?
+Do you have Cally in custody?
+
+536
+00:37:55,690 --> 00:37:57,690
+让她听电话  把门打开
+Put her on. Open the door.
+
+537
+00:38:11,410 --> 00:38:13,580
+你还好吧?      不用担心我 
+You okay? CALLY: Don't worry about me.
+
+538
+00:38:13,660 --> 00:38:15,290
+我进过禁闭室
+I've been in a brig before.
+
+539
+00:38:15,370 --> 00:38:16,910
+一切都很顺利
+TYROL: Everything's okay.
+
+540
+00:38:17,000 --> 00:38:18,420
+停止罢工
+Call off the strike.
+
+541
+00:38:18,500 --> 00:38:19,750
+他们让步了?
+Did they cave?
+
+542
+00:38:21,170 --> 00:38:22,250
+恩
+Yeah.
+
+543
+00:38:23,050 --> 00:38:24,300
+停止吧
+Call it off.
+
+544
+00:38:24,380 --> 00:38:26,880
+我就知道   交给我吧
+I knew it. I'll take care of it.
+
+545
+00:38:27,880 --> 00:38:29,800
+加伦  我为你自豪
+Galen, I'm proud of you.
+
+546
+00:38:30,260 --> 00:38:32,180
+把电话给陆战队员吧
+Give the phone to the Marine.
+
+547
+00:38:36,100 --> 00:38:37,940
+放了她
+Release her.
+
+548
+00:38:45,690 --> 00:38:47,320
+你可以走了 轮机长
+You can go now, Chief.
+
+549
+00:38:49,490 --> 00:38:53,490
+你不是还要和总统讨论一些事么
+I thought you had something that you wanted to discuss with the President.
+
+550
+00:39:05,090 --> 00:39:08,220
+还要一杯吗?      不用了
+Would you like another drink? I think I've had enough.
+
+551
+00:39:08,930 --> 00:39:09,930
+总统阁下
+Madam President,
+
+552
+00:39:10,010 --> 00:39:14,180
+我发现入伍后士兵的兵种完全取决于他们的出生地在哪里
+I've seen people drafted into service based purely on where they were born.
+
+553
+00:39:14,260 --> 00:39:17,470
+也取决于他们所拥有的技能
+They've also been selected based on their skills.
+
+554
+00:39:17,680 --> 00:39:20,690
+而这正是由他们的出生地所决定的
+Which is a result of where they were born.
+
+555
+00:39:20,980 --> 00:39:23,190
+卡布里卡人很可能是专业人员
+Capricans are more likely to be professionals.
+
+556
+00:39:23,270 --> 00:39:24,860
+爱诺朗人很可能是农民
+Aerelons are more likely to be farmers.
+
+557
+00:39:24,940 --> 00:39:26,360
+这就是残酷的现实
+It's just a fact of life.
+
+558
+00:39:26,440 --> 00:39:27,940
+可以改变的现实
+It's a fact I can't change.
+
+559
+00:39:28,030 --> 00:39:32,110
+那倒是真的 不过我认为我们可以公平竞争
+True. But I think we can level the playing field.
+
+560
+00:39:32,200 --> 00:39:36,290
+舰队里 每天都有许多脏活累活
+There are a lot of dirty jobs that need to be done every day in this fleet,
+
+561
+00:39:36,370 --> 00:39:39,830
+清洗  修理 简单维护 诸如此类的工作
+cleaning, hauling, low-level maintenance, things like that.
+
+562
+00:39:39,910 --> 00:39:43,830
+我认为这类工作应该分配给...
+These are the kind of jobs that I think should be allocated to people,
+
+563
+00:39:47,800 --> 00:39:50,470
+那些像您一样的人 恕我冒昧
+well, people like yourself. No offense.
+
+564
+00:39:52,220 --> 00:39:54,050
+我不介意 继续说
+None taken. Go ahead.
+
+565
+00:39:55,390 --> 00:39:59,890
+让殖民者一号上的一些人干些脏活
+Let some of the people on Colonial One get their hands dirty for a change.
+
+566
+00:39:59,980 --> 00:40:01,850
+就这么定了 还有什么?
+Done. What else?
+
+567
+00:40:01,940 --> 00:40:04,560
+在危险与高压环境下工作的人
+People that are in dangerous and high stress jobs
+
+568
+00:40:04,650 --> 00:40:06,360
+需要轮换连续作业
+need to be rotated out for R and R.
+
+569
+00:40:06,440 --> 00:40:09,900
+如果要这么做  我们就需要正式的培训计划
+Now, in order to do that, we need a formal training program.
+
+570
+00:40:09,990 --> 00:40:14,160
+我们可以稍后再谈培训计划
+We can talk about a training program later, but right now I need to focus
+
+571
+00:40:14,240 --> 00:40:16,580
+但当前我们的重点是保持现有的劳动力
+on maintaining the work force that we have,
+
+572
+00:40:16,660 --> 00:40:20,250
+而这正是工会失职的地方
+and this is gonna have to be an area where the union gives ground.
+
+573
+00:40:21,290 --> 00:40:22,710
+"工会"?
+The union?
+
+574
+00:40:22,790 --> 00:40:25,540
+不好意思 你不是代表殖民地工人联盟 
+Oh, I'm sorry, I thought you were engaged in collective bargaining
+
+575
+00:40:25,630 --> 00:40:28,550
+进行集体谈判么
+on behalf of the Colonial Workers' Alliance.
+
+576
+00:40:28,670 --> 00:40:31,510
+如果不是这样...    总统阁下
+If that's not the case, then... Madam President,
+
+577
+00:40:31,590 --> 00:40:33,880
+那个工会已经在新卡布里卡上灭亡了
+that union died on New Caprica.
+
+578
+00:40:34,590 --> 00:40:36,760
+轮机长 这支舰队里的工人 
+Chief, the workers in this fleet, they need someone
+
+579
+00:40:36,850 --> 00:40:39,180
+需要一位可以代表他们权益的人
+to represent them and their interests.
+
+580
+00:40:39,270 --> 00:40:41,980
+如果这个社会确实正演变成...
+And if this society is becoming truly polarized
+
+581
+00:40:42,060 --> 00:40:46,020
+平稳的政治阶层与被剥夺公民权的下层社会的两极分化
+between an entrenched political class and a disenfranchised underclass,
+
+582
+00:40:46,110 --> 00:40:47,730
+那我们就命不久矣了
+we are doomed.
+
+583
+00:40:47,820 --> 00:40:51,360
+用不着赛昂人来消灭我们 我们就会毁了我们自己
+We won't need the Cylons to destroy us, we'll destroy ourselves.
+
+584
+00:40:51,440 --> 00:40:56,200
+到达地球的舰队根本就无法代表殖民社会
+The fleet that arrives at Earth will not represent Colonial society at all.
+
+585
+00:40:57,080 --> 00:41:00,700
+我愿意用尽毕生精力来为实现那个殖民社会而奋斗
+I am willing to fight for that society until my dying breath.
+
+586
+00:41:00,790 --> 00:41:03,830
+如果你也能这么做 那就再好不过了
+I would love it if you would fight for that society as well.
+
+587
+00:41:03,920 --> 00:41:05,040
+嗯
+Hmm.
+
+588
+00:41:07,250 --> 00:41:08,460
+我会的
+I will.
+
+589
+00:41:10,670 --> 00:41:13,010
+我会的  总统阁下 我会这么做的
+I will, Madam President. I will.
+
+590
+00:41:20,430 --> 00:41:25,020
+波吕克斯和赫歇耳 你们负责为4372号加燃料
+TYROL: Pollux and Herschel, you are on fueling 4372.
+
+591
+00:41:25,100 --> 00:41:26,940
+蒂罗尔轮机长?
+STARBUCK: Chief Tyrol.
+
+592
+00:41:27,020 --> 00:41:28,060
+上尉
+Hey, Captain.
+
+593
+00:41:28,150 --> 00:41:29,650
+我的一名傻蛋今早没有…
+Chief, one of my nuggets failed to show up
+
+594
+00:41:29,730 --> 00:41:31,650
+出席基础飞行训练课
+for basic flight instruction this morning.
+
+595
+00:41:31,730 --> 00:41:32,780
+我很遗憾  上尉
+Sorry to hear that, Captain.
+
+596
+00:41:32,860 --> 00:41:35,990
+也许你能告诉我 戴安娜·希里克丝在哪里?
+So maybe you can tell me where the hell Diana Seelix is?
+
+597
+00:41:36,070 --> 00:41:37,910
+希里克丝  快来
+Seelix. Front and center.
+
+598
+00:41:43,040 --> 00:41:45,370
+飞行训练课在20分钟以前就开始了
+Flight instruction began 20 minutes ago, Seelix.
+
+599
+00:41:45,460 --> 00:41:47,330
+你想不想当驾驶员了?
+You want to be a pilot or not?
+
+600
+00:41:47,420 --> 00:41:48,460
+想  长官  可我以为…
+Yes, sir, but I thought that...
+
+601
+00:41:48,540 --> 00:41:51,130
+我让你以为的时候你再以为  傻蛋
+You will think when I tell you to think, nugget.
+
+602
+00:41:51,210 --> 00:41:53,340
+你该看一下"全天计划"
+And you might want to look at the plan of the day.
+
+603
+00:41:53,420 --> 00:41:55,510
+这样你就知道该去哪里
+Because then, maybe you'll know where you're supposed to be
+
+604
+00:41:55,590 --> 00:41:58,090
+也就能按时到达
+and you might actually get there on time.
+
+605
+00:41:59,970 --> 00:42:02,140
+没有你的制服和军靴
+And you're out of uniform, to boot.
+
+606
+00:42:02,220 --> 00:42:04,470
+不好意思  上尉 这事交给我吧
+Oh, I'm sorry, Captain. I think I can handle that.
+
+607
+00:42:04,560 --> 00:42:06,440
+谢谢  轮机长  拿着
+Thank you, Chief. Hold this.
+
+608
+00:42:11,940 --> 00:42:16,070
+要想驾驶蝮蛇机  你必须是军官
+You have to be an officer to fly Vipers.
+
+609
+00:42:17,780 --> 00:42:19,280
+这你也知道
+You know that.
+
+610
+00:42:21,450 --> 00:42:23,790
+卫士  敬礼
+Detail. Hand-salute!
+
+611
+00:42:32,380 --> 00:42:35,260
+谢谢  轮机长  谢谢您
+Thank you, Chief. Thank you.
+
+612
+00:42:37,760 --> 00:42:38,760
+祝贺你  少尉
+Congratulations, Ensign.
+
+613
+00:42:38,840 --> 00:42:41,300
+好感人的场面 可你在20分钟之前 
+All right, this is all very touching, but you were supposed to be
+
+614
+00:42:41,390 --> 00:42:43,720
+就应该到达预备室
+in Ready Room Four 20 minutes ago, Ensign,
+
+615
+00:42:43,810 --> 00:42:47,730
+也就是说  少尉 你第一天报到就落后了
+which means that you are falling behind on your first day.
+
+616
+00:42:48,520 --> 00:42:50,100
+快去
+So move it.
+
+617
+00:42:50,190 --> 00:42:53,650
+别看他  快去  快去
+Don't look at him! Move it! Move it!
+
+618
+00:42:56,070 --> 00:42:57,320
+对她好点
+Be nice.
+
