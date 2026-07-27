@@ -24,22 +24,22 @@ so say we all
 
 ### ZR
 
-## ÃüÃû¹æ·¶
+## å‘½åè§„èŒƒ
 - Viper: 
-- Raptor: ÃÍÇİ
-- Pegasus: çêÙ¤Ë÷Ë¹
-- Raider: Í»Ï®»ú
-- Basestar: »ùµØÖ®ĞÇ
-- Kobol: ¿Æ²¨
-- Caprica: ¿¨²¼Àï¿¨
-- Picon: ÅÉ¿º
-- Gemenon: ½ÜÃ×ÄÎ
-- Sagittaron: Èö¼ÍÌØÀÊ
-- Aerelon: °¬ÈğÂ¡
-- Aquaria: °¢¿üÈğÑÇ
-- Canceron: ¿²ÉªÂ¡
-- Leonis: Àû°ÂÄáË¹
-- Libran: Àû²¼ÀÊ
-- Scorpia: Ë¹¿ÆÆ¤ÑÇ
-- Tauron: ÌÕÈß
-- Virgon: Íş¹±
+- Raptor: çŒ›ç¦½
+- Pegasus: ç€ä¼½ç´¢æ–¯
+- Raider: çªè¢­æœº
+- Basestar: åŸºåœ°ä¹‹æ˜Ÿ
+- Kobol: ç§‘æ³¢
+- Caprica: å¡å¸ƒé‡Œå¡
+- Picon: æ´¾äº¢
+- Gemenon: æ°ç±³å¥ˆ
+- Sagittaron: æ’’çºªç‰¹æœ—
+- Aerelon: è‰¾ç‘éš†
+- Aquaria: é˜¿å¥ç‘äºš
+- Canceron: åç‘Ÿéš†
+- Leonis: åˆ©å¥¥å°¼æ–¯
+- Libran: åˆ©å¸ƒæœ—
+- Scorpia: æ–¯ç§‘çš®äºš
+- Tauron: é™¶å†—
+- Virgon: å¨è´¡
